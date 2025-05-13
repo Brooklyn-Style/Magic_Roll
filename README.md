@@ -23,21 +23,27 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
 ### <ins>Glossary:
 
-**Same Finger Bigram (SFB):** Two keys that are pressed back to back with the same finger. *E.g. `DE` on Qwerty*
+**Bigram:** Two letters that are back to back in a word.
 
-**Roll:** Two keys that are pressed back to back with different fingers on the same hand, with a third being pressed by the other hand. *E.g. `OUR` on Qwerty*
+**Trigram:** Three letters that are back to back in a word.
 
-**Inroll:** A roll that goes towards the index finger. *E.g. `DF` on Qwerty (middle  → index)*
+**Same Finger Bigram (SFB)**: A bigram that's typed with the same finger. *E.g. `DE` on Qwerty*
 
-**Outroll**: A roll that goes towards the pinky. *E.g. `FD` on Qwerty (index → middle)*
+**Alternate:** A trigram where each key is pressed by a different hand. *E.g: `AND` on Qwerty*
 
-**3Roll/Onehand:** A one-handed, three key roll that goes in one direction. *E.g. `WER` on Qwerty*
+**Roll:** A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. *E.g. `OUR` on Qwerty
 
-**Redirect:** A one-handed, three key roll that changes direction. *E.g. `SAD` on Qwerty*
+  **Inroll:** A roll where the two keys pressed by the same hand go towards the index finger. *E.g. `ONE` on Qwerty (ring → index)*
+
+  **Outroll:** A roll where the two keys pressed by the same hand go towards the pinky finger. *E.g. `NOT` on Qwerty (index → ring)*
+
+  **3Roll/Onehand:** A one-handed, three key roll that goes in one direction. *E.g. `SET` on Qwerty*
+
+  **Redirect:** A one-handed, three key roll that changes directions. *E.g. `SAD` on Qwerty. `SA` is outward, `AD` is inward*
 
 **Repeat Key:** A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
-**Magic Key:** A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
+**Magic Key:** A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
 
 ---
 
