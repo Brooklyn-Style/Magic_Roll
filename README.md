@@ -102,46 +102,46 @@ Here's a full list of the magic functions:
   X★ → XI
 
 ☆:
-★☆ → U
-.☆ → ..
-A☆ → A.
-C☆ → CC
-D☆ → DM
-E☆ → EY
-F☆ → FL
-G☆ → GM
-H☆ → HH
-I☆ → IY
-J☆ → JO
-L☆ → LS
-M☆ → MP
-N☆ → NV
-O☆ → OX
-P☆ → PN
-Q☆ → QU
-R☆ → RC
-S☆ → SL
-T☆ → TR
-U☆ → U,
-W☆ → WL
-X☆ → XH
+  ★☆ → U
+  .☆ → ..
+  A☆ → A.
+  C☆ → CC
+  D☆ → DM
+  E☆ → EY
+  F☆ → FL
+  G☆ → GM
+  H☆ → HH
+  I☆ → IY
+  J☆ → JO
+  L☆ → LS
+  M☆ → MP
+  N☆ → NV
+  O☆ → OX
+  P☆ → PN
+  Q☆ → QU
+  R☆ → RC
+  S☆ → SL
+  T☆ → TR
+  U☆ → U,
+  W☆ → WL
+  X☆ → XH
 
 X:
-☆X → ☆L
-@X → @A
-BX → BR
-CX → CR
-DX → DR
-FX → FL
-GX → GR
-KX → KT
-LX → LV
-MX → MB
-PX → PR
-RX → RP
-SX → SP
-TX → TW
-WX → WR
+  ☆X → ☆L
+  @X → @A
+  BX → BR
+  CX → CR
+  DX → DR
+  FX → FL
+  GX → GR
+  KX → KT
+  LX → LV
+  MX → MB
+  PX → PR
+  RX → RP
+  SX → SP
+  TX → TW
+  WX → WR
 
 J:
   KJ → KN
