@@ -1,4 +1,4 @@
-# Magic-Roll
+# Magic Roll
 A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 ```
   j y o u '  b d l c p 
