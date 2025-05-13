@@ -17,7 +17,7 @@ A handmade alternative keyboard layout that uses multiple repeat and magic keys.
   - [Thumbs](#thumbs)
   - [Left Hand](#left-hand)
   - [Right Hand](#right-hand)
-- [Magic Key Mappings](#magic-key-mappings)
+- [Magic Key Functions](#magic-key-functions)
 
 # Glossary:
 
@@ -69,7 +69,7 @@ SFBs were disregarded, as I planned to fix them with magic. The LSF and CRW colu
 
 • If J, X or Q normally create a bigram with the previous letter, they swap places with the would-be second letter so that no functionality is lost. E.g. RJ outputs RV and vice versa.
 
-# Magic Key Mappings
+# Magic Key Functions
 ```
 ★:
   ★ → Shift
