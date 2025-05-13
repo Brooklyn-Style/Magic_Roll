@@ -67,7 +67,6 @@ i☆/iq. i★/io
 • If J, X or Q normally create a bigram with the previous letter, they swap places with the would-be second letter so that no functionality is lost. E.g. RJ outputs RV and vice versa.
 
 ## Magic Key Mappings
-
 ```
 ★:
   ★ → Shift
@@ -98,8 +97,8 @@ i☆/iq. i★/io
   U★ → UA
   V★ → VP
   W★ → WL
-  Y★ → YI 
   X★ → XI
+  Y★ → YI 
 
 ☆:
   ★☆ → U
@@ -168,7 +167,6 @@ Z:
   MZ → MT
   RZ → RW
   SZ → SF
-
 B:
   CB → CK
 
