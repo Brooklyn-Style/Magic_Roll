@@ -31,7 +31,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
 - **Alternate:** A trigram where each key is pressed by a different hand. *E.g: `AND` on Qwerty*
 
-- **Roll:** A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. *E.g. `OUR` on Qwerty
+- **Roll:** A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. *E.g. `OUR` on Qwerty*
 
   - **Inroll:** A roll where the two keys pressed by the same hand go towards the index finger. *E.g. `ONE` on Qwerty (ring → index)*
 
