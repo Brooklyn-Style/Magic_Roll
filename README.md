@@ -25,18 +25,17 @@ A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 
 **Redirect**: A one-handed, three key roll that changes direction. E.g. SAD on Qwerty
 
-**Repeat Key**: A key that repeats the output of the last pressed key to avoid pressing the same key twice. 
-E.g. L@ → LL. (Double letters make up 2.5% of all bigrams)
+**Repeat Key**: A key that repeats the output of the last pressed key. E.g. L@ → LL. (Double letters make up 2.5% of all bigrams)
 
-**Magic Key**: A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality or for when you don't want it to be affected by the previous keypress.
-E.g. _* → Shift. L* → LS. T* → THE
+**Magic Key**: A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality or for when you don't want it to be affected by the previous keypress. E.g. _★ → Shift. L★ → LS. T★ → THE
 
 ## Design:
 This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). It was designed with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and try my hand at getting more mileage out of magic. 
+
 ### Thumbs:
 Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 in order to keep them more like regular keys. Not only does this make using them simpler, but they also won't get you banned from typing websites.
-In general, if the previous key was on the same hand, the output will be the key above or below it. 
-E.g. E* → EO. O* → OE.
+In general, if the previous key was on the same hand, the output will be the key above or below it. E.g. E★ → EO. O★ → OE.
+
 A list of every magic function will be provided at the bottom.
 
 ### Left Hand:
