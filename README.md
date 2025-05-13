@@ -83,7 +83,7 @@ Here's a full list of the magic functions:
   F★ → FZ
   H★ → H?
   I★ → IQ
-    I★☆ → IQU
+   I★☆ → IQU
   J★ → JH
   K★ → KG
   L★ → LS
@@ -154,7 +154,7 @@ J:
 Q:
   @Q → @U
   BQ → BM
-    BQ★ → BMI
+   BQ★ → BMI
   LQ → LF
   RQ → RZ
 
