@@ -62,10 +62,6 @@ Punctuation is almost entirely on the inner index column except for question mar
 Repeat was put on the index, as I don't find thumb → finger rolls to be that comfortable. I also didn't have a free thumb key for it and wasn't willing to give up magic on this side. Thankfully, this placement doesn't really cause any  problems. Even though it *does* introduce a few new SFBs, they can be fixed with magic or alt-fingering. 
 Additionally, this key outputs `T` after `H`, `U` after `Q`, and `backspace` after repeats and all other situations.
 
-as the HT bigram is 23x more frequent than HH (MT 450k). This makes it an inroll as opposed to an alternate.
-
-•  for a similar reason. Only 5 words contain QQ in MT 450k, whereas over 6.8k have QU. U is also two rows above Q which makes QU a little awkward to type normally.
-
 `X` and `J` have been given magic functionality to reduce consonant hand outrolls. Those letters almost never pair with the other consonants so they're perfect for this task. Additionally, this helps to lighten the right hand's load a little bit.
 
 ---
@@ -74,10 +70,6 @@ as the HT bigram is 23x more frequent than HH (MT 450k). This makes it an inroll
 Most of the consonants have been placed on this side  
 
 SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
-
-• J, X and Q turn consonant hand outrolls into alternates, and since a vowel almost always comes after, they basically become inrolls. They also clean up the SFBs that the thumb keys can't. *E.g. `BX` → `BR` and `LQ` → `LF`*
-
-• If J, X or Q normally create a bigram with the previous letter, they swap places with the would-be second letter so that no functionality is lost. E.g. RJ outputs RV and vice versa.
 
 ---
 
