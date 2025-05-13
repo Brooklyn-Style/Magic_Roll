@@ -1,5 +1,5 @@
 # Magic Roll
-A handmade alternative keyboard layout that uses multiple repeat and magic keys.
+A handmade, alternative keyboard layout that uses multiple repeat and magic keys for a more comfortable and optimal typing experience.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -42,7 +42,7 @@ A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 ---
 
 ### <ins>Design:
-This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). It was designed with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and get more out of magic. 
+This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). I used the [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter to make design decisions, along with good ol' trial and error. It was made with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and get more out of magic. 
 
 #### Thumbs:
 Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 in order to keep them more like regular keys. Not only does this make using them simpler, but they also won't get you banned from typing websites.
