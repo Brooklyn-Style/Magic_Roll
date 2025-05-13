@@ -1,5 +1,5 @@
 # Magic-Roll
-Magic-Roll is a handmade keyboard layout that uses multiple repeat and magic keys. It began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). It was designed with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and try my hand at getting more mileage out of magic. 
+A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -32,7 +32,7 @@ E.g. L@ → LL. (Double letters make up 2.5% of all bigrams)
 E.g. _* → Shift. L* → LS. T* → THE
 
 ## Design:
-
+This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). It was designed with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and try my hand at getting more mileage out of magic. 
 ### Thumbs:
 Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 in order to keep them more like regular keys. Not only does this make using them simpler, but they also won't get you banned from typing websites.
 In general, if the previous key was on the same hand, the output will be the key above or below it. 
@@ -83,7 +83,6 @@ Here's a full list of the magic functions:
   F★ → FZ
   H★ → H?
   I★ → IQ
-   I★☆ → IQU
   J★ → JH
   K★ → KG
   L★ → LS
@@ -154,7 +153,6 @@ J:
 Q:
   @Q → @U
   BQ → BM
-   BQ★ → BMI
   LQ → LF
   RQ → RZ
 
