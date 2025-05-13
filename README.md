@@ -11,7 +11,7 @@ A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 ★ = Left Magic
 ☆ = Right Magic
 ```
-## Glossary:
+# Glossary:
 
 **Same Finger Bigram (SFB):** Two keys that are pressed back to back with the same finger. E.g. DE on Qwerty
 
@@ -29,7 +29,7 @@ A handmade alternative keyboard layout that uses multiple repeat and magic keys.
 
 **Magic Key:** A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality or for when you don't want it to be affected by the previous keypress. E.g. _★ → Shift. L★ → LS. T★ → THE
 
-## Design:
+# Design:
 This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and through several iterations, slowly morphed into a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout"). It was designed with thumb keys in mind but it'll still work without them. The goal was to address my nitpicks with other low outroll layouts and try my hand at getting more mileage out of magic. 
 
 ### Thumbs:
@@ -65,7 +65,7 @@ i☆/iq. i★/io
 
 • If J, X or Q normally create a bigram with the previous letter, they swap places with the would-be second letter so that no functionality is lost. E.g. RJ outputs RV and vice versa.
 
-## Magic Key Mappings
+# Magic Key Mappings
 ```
 ★:
   ★ → Shift
