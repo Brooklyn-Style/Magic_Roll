@@ -51,7 +51,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and after several iterations, became a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout") instead. The goal was to make something that better fit my preferences and then use repeat and magic to improve it further. I used the [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter to make design decisions, along with good ol' trial and error. Thumb keys are highly recommended to get the most out of magic but aren't required. 
 
 #### *Thumb Keys*:
-Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like regular keys. Not only does this make using them simpler, but they won't get you banned from typing websites as well.
+Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, but they won't get you banned from typing websites as well.
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
 A list of every magic function will be provided at the bottom.
