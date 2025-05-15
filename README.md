@@ -54,12 +54,13 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (With Repeat):**
 ![repeat](https://github.com/user-attachments/assets/5cc06ad3-1d29-4d13-b986-53065d9fe703)
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
-![cyanopage](https://github.com/user-attachments/assets/98958486-3753-400c-8958-2a71a2dada7c)
+![cyanophage](https://github.com/user-attachments/assets/80d3e644-aeb6-4e84-8d40-7e2806c6c481)
 **[KeySolve](https://drowningnewt.github.io/keysolve-web "Keysolve"):**
 ![ks](https://github.com/user-attachments/assets/7f9aff06-8c36-4638-8f20-ec62b6e34a48)
+
+---
 **Typing Test:**
 ![typing test](https://github.com/user-attachments/assets/d208abdb-7742-4e67-b59e-c8b6466e4955)
-
 
 ### <ins>Design:
 This layout began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and after several iterations, became a mod of [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn Keyboard Layout") instead. The goal was to make something that better fit my preferences and then use repeat and magic to improve it further. I used the [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter to make design decisions, along with good ol' trial and error. Thumb keys are highly recommended to get the most out of magic but aren't required. 
