@@ -21,9 +21,9 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 - [Magic Functions](#magic-functions)
 
 ---
-
-### <ins>Glossary:
-
+<details>
+<summary>Glossary:</summary>
+  
 - **Bigram:** Two letters that are back to back in a word.
 
 - **Trigram:** Three letters that are back to back in a word.
@@ -45,8 +45,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 - **Repeat Key:** A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
 - **Magic Key:** A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
-
----
+</details>
 
 ### <ins>Stats:
 Without repeat or magic unless specified.
