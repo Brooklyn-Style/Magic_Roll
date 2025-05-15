@@ -49,7 +49,8 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ---
 
 ### <ins>Stats:
-**[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (Without Repeat):**
+Without repeat or magic unless specified
+**[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
 ![without repeat](https://github.com/user-attachments/assets/02d1b012-b972-48fa-ab0a-09cf261b9d63)
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (With Repeat):**
 ![repeat](https://github.com/user-attachments/assets/5cc06ad3-1d29-4d13-b986-53065d9fe703)
