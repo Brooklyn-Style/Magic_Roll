@@ -1,4 +1,4 @@
-### Glossary:
+# Glossary:
   
 - $\color{#00e1ff}{\textsf{Bigram:}}$ Two letters that are back to back in a word.
 
