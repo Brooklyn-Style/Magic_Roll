@@ -90,6 +90,7 @@ Additionally, this key outputs `T` after `H`, `U` after `Q`, and `backspace` aft
 
 #### *Right Half:*
 Most of the consonants have been placed on this side. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
+wip
 
 ---
 
