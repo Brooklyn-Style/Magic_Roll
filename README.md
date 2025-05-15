@@ -67,7 +67,7 @@ Without repeat or magic unless specified.
 ### <ins>Design:
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
-as a base, this layout went through about two dozen iterations before I was finally happy with it. Most of those changes were to punctuation and infrequent letters, but I also experimented with different consonant-hand setups too. My goal was to have fewer outrolls than other similar layouts and have as few uncomfortable patterns as possible. On top of that, I wanted to keep one-handed strings to a minimum 
+as a base, I went through about two dozen iterations before I had something I was happy with. Most of that was experimenting with punctuation and infrequent letters, but I tried out a bunch of consonant-hand setups as well. My goal was to have fewer outrolls than other similar layouts and have as few uncomfortable patterns as possible. On top of that, I wanted to keep one-handed strings to a minimum 
 
 - add repeat and magic to improve it further. 
 
