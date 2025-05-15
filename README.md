@@ -22,7 +22,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
 ---
 <details>
-<summary>Glossary:</summary>
+<summary>Glossary</summary>
   
 - **Bigram:** Two letters that are back to back in a word.
 
