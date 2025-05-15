@@ -65,15 +65,22 @@ Without repeat or magic unless specified.
 ![typing test](https://github.com/user-attachments/assets/d208abdb-7742-4e67-b59e-c8b6466e4955)
 
 ### <ins>Design:
-Magic Roll began as a mod of [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") and went through about two dozen iterations before I was happy with it. The goal was to have lower outrolls, redirects, and one-handed sequences than other similar layouts, and then add repeat and magic to improve it further. [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since I couldn't be bothered to implement magic with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation"). The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me make design decisions, along with good ol' trial and error.
 
-#### *Thumb Keys*:
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
+as a base, this layout went through about two dozen iterations before I was finally happy with it. Most of those changes were to punctuation and infrequent letters, but I also experimented with different consonant-hand setups too. My goal was to have fewer outrolls than other similar layouts and have as few uncomfortable patterns as possible. On top of that, I wanted to keep one-handed strings to a minimum 
+
+- add repeat and magic to improve it further. 
+
+
+The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me make design decisions, along with good ol' trial and error. [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since for repeat and magic since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
+
+#### *Thumb Keys:*
 Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, but they won't get you banned from typing websites as well.
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
 A list of every magic function will be provided at the bottom.
 
-#### *Left Half*:
+#### *Left Half:*
 The left side has no common consonants other than `H` to minimize outrolls, redirects, and long one-handed sequences. This *does* put more of a burden on the right hand but I haven't had any issue with it.
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
@@ -83,7 +90,7 @@ Additionally, this key outputs `T` after `H`, `U` after `Q`, and `backspace` aft
 
 `X` and `J` have been given magic functionality to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. This also helps to lighten the right hand load a little bit.
 
-#### *Right Half*:
+#### *Right Half:*
 Most of the consonants have been placed on this side. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
 
 ---
