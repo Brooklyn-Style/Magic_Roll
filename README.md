@@ -20,32 +20,30 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
   - [Right Half](#right-half)
 - [Magic Functions](#magic-functions)
 ---
-<details open>
-  <summary> <h3>Glossary:</h3> </summary>
+### Glossary:
   
-- **Bigram:** Two letters that are back to back in a word.
+- $\color{violet}{\textsf{Bigram:}}$ Two letters that are back to back in a word.
 
-- **Trigram:** Three letters that are back to back in a word.
+- $\color{violet}{\textsf{Trigram:}}$ Three letters that are back to back in a word.
 
-- **Same Finger Bigram (SFB)**: A bigram that's typed with the same finger. *E.g. `DE` on Qwerty*
+- $\color{violet}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{yellow}{\textsf{E.g. DE on Qwerty}}$
 
-- **Alternate:** A trigram where each key is pressed by a different hand. *E.g: `AND` on Qwerty*
+- $\color{violet}{\textsf{Alternate:}}$ A trigram where each key is pressed by a different hand. $\color{yellow}{\textsf{E.g. AND on Qwerty}}$
 
-- **Roll:** A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. *E.g. `OUR` on Qwerty*
+- $\color{violet}{\textsf{Roll:}}$ A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. $\color{yellow}{\textsf{E.g. OUR on Qwerty}}$
 
-  - **Inroll:** A roll where the two keys pressed by the same hand go towards the index finger. *E.g. `ONE` on Qwerty (ring → index)*
+  - $\color{violet}{\textsf{Inroll:}}$ A roll where the two keys pressed by the same hand go towards the index finger. $\color{yellow}{\textsf{E.g. ONE on Qwerty (ring → index)}}$
 
-  - **Outroll:** A roll where the two keys pressed by the same hand go towards the pinky finger. *E.g. `NOT` on Qwerty (index → ring)*
+  - $\color{violet}{\textsf{Outroll:}}$ A roll where the two keys pressed by the same hand go towards the pinky finger. *E.g. `NOT` on Qwerty (index → ring)*
 
-  - **3Roll/Onehand:** A one-handed, three key roll that goes in one direction. *E.g. `SET` on Qwerty*
+  - $\color{violet}{\textsf{3Roll/Onehand:}}$ A one-handed, three key roll that goes in one direction. *E.g. `SET` on Qwerty*
 
-  - **Redirect:** A one-handed, three key roll that changes directions. *E.g. `SAD` on Qwerty. `SA` is outward, `AD` is inward*
+  - $\color{violet}{\textsf{Redirect:}}$ A one-handed, three key roll that changes directions. *E.g. `SAD` on Qwerty. `SA` is outward, `AD` is inward*
 
-- **Repeat Key:** A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
+- $\color{violet}{\textsf{Repeat Key:}}$ A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
-- **Magic Key:** A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
+- $\color{violet}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
 ---
-</details>
 
 ### <ins>Stats:
 Without repeat or magic unless specified.
