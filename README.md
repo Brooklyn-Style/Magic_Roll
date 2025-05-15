@@ -22,27 +22,27 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ---
 ### Glossary:
   
-- $\color{violet}{\textsf{Bigram:}}$ Two letters that are back to back in a word.
+- $\color{#00e1ff}{\textsf{Bigram:}}$ Two letters that are back to back in a word.
 
-- $\color{violet}{\textsf{Trigram:}}$ Three letters that are back to back in a word.
+- $\color{#00e1ff}{\textsf{Trigram:}}$ Three letters that are back to back in a word.
 
-- $\color{violet}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{yellow}{\textsf{E.g.}}$ $\color{red}{\textsf{DE}}$ $\color{yellow}{\textsf{on Qwerty}}$
+- $\color{#00e1ff}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{DE}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-- $\color{violet}{\textsf{Alternate:}}$ A trigram where each key is pressed by a different hand. $\color{yellow}{\textsf{E.g. AND on Qwerty}}$
+- $\color{#00e1ff}{\textsf{Alternate:}}$ A trigram where each key is pressed by a different hand. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{AND}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-- $\color{violet}{\textsf{Roll:}}$ A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. $\color{yellow}{\textsf{E.g. OUR on Qwerty}}$
+- $\color{#00e1ff}{\textsf{Roll:}}$ A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{OUR}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-  - $\color{violet}{\textsf{Inroll:}}$ A roll where the two keys pressed by the same hand go towards the index finger. $\color{yellow}{\textsf{E.g. ONE on Qwerty (ring → index)}}$
+  - $\color{#00e1ff}{\textsf{Inroll:}}$ A roll where the two keys pressed by the same hand go towards the index finger. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{ONE}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-  - $\color{violet}{\textsf{Outroll:}}$ A roll where the two keys pressed by the same hand go towards the pinky finger. *E.g. `NOT` on Qwerty (index → ring)*
+  - $\color{#00e1ff}{\textsf{Outroll:}}$ A roll where the two keys pressed by the same hand go towards the pinky finger. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{NOT}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-  - $\color{violet}{\textsf{3Roll/Onehand:}}$ A one-handed, three key roll that goes in one direction. *E.g. `SET` on Qwerty*
+  - $\color{#00e1ff}{\textsf{3Roll/Onehand:}}$ A one-handed, three key roll that goes in one direction. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{SET}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-  - $\color{violet}{\textsf{Redirect:}}$ A one-handed, three key roll that changes directions. *E.g. `SAD` on Qwerty. `SA` is outward, `AD` is inward*
+  - $\color{#00e1ff}{\textsf{Redirect:}}$ A one-handed, three key roll that changes directions. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{SAD}}$ $\color{violet}{\textsf{on Qwerty}}$ `SA` is outward, `AD` is inward*
 
-- $\color{violet}{\textsf{Repeat Key:}}$ A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
+- $\color{#00e1ff}{\textsf{Repeat Key:}}$ A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
-- $\color{violet}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
+- $\color{#00e1ff}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
 ---
 
 ### <ins>Stats:
