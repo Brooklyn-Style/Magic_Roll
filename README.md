@@ -28,6 +28,10 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
 - $\color{#00e1ff}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{DE}}$ $\color{violet}{\textsf{on Qwerty}}$
 
+  - $\color{#00e1ff}{\textsf{Same Finger Skipgram (SFS) (or Dsfb: Disjointed SFB):}}$ A bigram that's typed with the same finger but separated by 1 or more letters. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{R␣F}}$ $\color{violet}{\textsf{on Qwerty}}$
+
+-  Lateral Stretch Bigram (LSB): wip
+
 - $\color{#00e1ff}{\textsf{Alternate:}}$ A trigram where each key is pressed by a different hand. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{AND}}$ $\color{violet}{\textsf{on Qwerty}}$
 
 - $\color{#00e1ff}{\textsf{Roll:}}$ A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{OUR}}$ $\color{violet}{\textsf{on Qwerty}}$
