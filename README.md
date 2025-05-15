@@ -26,7 +26,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
 - $\color{violet}{\textsf{Trigram:}}$ Three letters that are back to back in a word.
 
-- $\color{violet}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{yellow}{\textsf{E.g. DE on Qwerty}}$
+- $\color{violet}{\textsf{Same Finger Bigram (SFB):}}$ A bigram that's typed with the same finger. $\color{yellow}{\textsf{E.g.}}$ $\color{red}{\textsf{DE}}$ $\color{yellow}{\textsf{on Qwerty}}$
 
 - $\color{violet}{\textsf{Alternate:}}$ A trigram where each key is pressed by a different hand. $\color{yellow}{\textsf{E.g. AND on Qwerty}}$
 
