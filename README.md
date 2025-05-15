@@ -12,7 +12,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ☆ = Right Magic
 ```
 ## Table of Contents:
-- [Glossary](#glossary)
+- [Glossary](#glossary.md)
 - [Stats](#stats)
 - [Design](#design)
   - [Thumb Keys](#thumb-keys)
