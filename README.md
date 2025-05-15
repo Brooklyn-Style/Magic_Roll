@@ -73,7 +73,7 @@ as a base, I went through about two dozen iterations before I had something I wa
 Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, but they won't get you banned from typing websites as well.
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
-[AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
+[AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
 
 A list of every magic function will be provided at the bottom.
 
