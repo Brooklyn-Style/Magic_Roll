@@ -38,11 +38,11 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 
   - $\color{#00e1ff}{\textsf{3Roll/Onehand:}}$ A one-handed, three key roll that goes in one direction. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{SET}}$ $\color{violet}{\textsf{on Qwerty}}$
 
-  - $\color{#00e1ff}{\textsf{Redirect:}}$ A one-handed, three key roll that changes directions. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{SAD}}$ $\color{violet}{\textsf{on Qwerty}}$ `SA` is outward, `AD` is inward*
+  - $\color{#00e1ff}{\textsf{Redirect:}}$ A one-handed, three key roll that changes directions. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{SAD}}$ $\color{violet}{\textsf{on Qwerty.}}$ $\color{yellow}{\textsf{SA}}$ $\color{violet}{\textsf{is outward,}}$ $\color{yellow}{\textsf{AD}}$ $\color{violet}{\textsf{is inward}}$
 
-- $\color{#00e1ff}{\textsf{Repeat Key:}}$ A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
+- $\color{#00e1ff}{\textsf{Repeat Key:}}$ A key that repeats the output of the last pressed key. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{L@ → LL}}$ (Double letters make up 2.5% of all bigrams)
 
-- $\color{#00e1ff}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. `_★` → `Shift`. `L★` → `LS`. `T★` → `THE`*
+- $\color{#00e1ff}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{‎★ → Shift. ‎ ‎ L★ → LS. ‎ ‎ T★ → THE}}$
 ---
 
 ### <ins>Stats:
