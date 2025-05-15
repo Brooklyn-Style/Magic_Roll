@@ -13,6 +13,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ```
 ## Table of Contents:
 - [Glossary](#glossary)
+- [Stats](#stats)
 - [Design](#design)
   - [Thumb Keys](#thumb-keys)
   - [Left Half](#left-half)
