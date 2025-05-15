@@ -51,7 +51,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ### <ins>Stats:
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (Without Repeat):**
 ![without repeat](https://github.com/user-attachments/assets/02d1b012-b972-48fa-ab0a-09cf261b9d63)
-**Layout Playground (With Repeat):**
+**[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (With Repeat):**
 ![repeat](https://github.com/user-attachments/assets/5cc06ad3-1d29-4d13-b986-53065d9fe703)
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
 ![cyanopage](https://github.com/user-attachments/assets/98958486-3753-400c-8958-2a71a2dada7c)
