@@ -20,8 +20,8 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
   - [Right Half](#right-half)
 - [Magic Functions](#magic-functions)
 ---
-
-### <ins>Stats:
+<details>
+  <summary><h3>Stats:</h3></summary>
 Without repeat or magic unless specified.
 
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
@@ -32,6 +32,8 @@ Without repeat or magic unless specified.
 ![cyanophage](images/cyanophage.jpg)
 **[KeySolve](https://drowningnewt.github.io/keysolve-web "Keysolve"):**
 ![keysolve](images/keysolve.jpg)
+
+</details>
 
 ---
 **Typing Test:**
