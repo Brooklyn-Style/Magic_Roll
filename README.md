@@ -56,12 +56,10 @@ The left side has no common consonants other than `H` to minimize outrolls, redi
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
 
-Repeat was put on the index, as I don't find thumb → finger rolls to be that comfortable. I also didn't have a free thumb key for it and wasn't willing to give up magic on either side. Thankfully, this placement doesn't really cause any problems. Even though it *does* introduce a few new SFBs, they can be fixed with magic or alt-fingering. 
-Additionally, this key outputs `T` after `H`, `U` after `Q`, and `backspace` after repeats and all other situations. 
-- `HH` and `QQ` are extremely uncommon.
-- `HT` and `QU` become rolls.
-  - `U` is two rows above `Q` making it uncomfortable to type normally.
-- Backspace brings up the index's usage and gets it off of the pinky.
+Repeat was put on the index, as I don't find thumb → finger rolls to be that comfortable. I also didn't have a free thumb key for it and wasn't willing to give up magic on either side. Thankfully, this placement doesn't really cause any problems. Even though it *does* introduce a few new SFBs, they can be fixed with magic or alt-fingering. Additionally, this key has a few exceptions:
+- `H@` → `HT`. `HH` is extremely uncommon. `HT` becomes a roll.
+- `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
+- `Backspace` brings up the index's usage and gets it off the pinky.
 
 `X` and `J` have been given magic functionality to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. This also helps to lighten the right hand load a little bit.
 
