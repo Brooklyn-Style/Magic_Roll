@@ -49,7 +49,7 @@ Each thumb has a magic key that's used to eliminate most SFBs and make certain p
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L☆` → `LS`. `E☆` → `EY`*. Magic → space SFBs at the end of words can be avoided this way.
+If the previous key was on the opposite hand, the output will be something less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L☆` → `LS`. `E☆` → `EY`*. Magic → space SFBs at the end of words can be avoided this way.
 
 [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
 
