@@ -31,7 +31,7 @@ Without repeat or magic unless specified.
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
 ![cyanophage](images/cyanophage.jpg)
 **[KeySolve](https://drowningnewt.github.io/keysolve-web "Keysolve"):**
-![ks](images/keysolve.jpg)
+![keysolve](images/keysolve.jpg)
 
 ---
 **Typing Test:**
