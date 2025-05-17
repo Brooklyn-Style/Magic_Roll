@@ -29,7 +29,7 @@ Without repeat or magic unless specified.
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground")** (With Repeat):
 ![repeat](https://github.com/user-attachments/assets/5cc06ad3-1d29-4d13-b986-53065d9fe703)
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
-![cyanophage](cyanophage.jpg)
+![cyanophage](images/cyanophage.jpg)
 **[KeySolve](https://drowningnewt.github.io/keysolve-web "Keysolve"):**
 ![ks](https://github.com/user-attachments/assets/7f9aff06-8c36-4638-8f20-ec62b6e34a48)
 
