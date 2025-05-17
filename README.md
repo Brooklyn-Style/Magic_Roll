@@ -42,7 +42,7 @@ Without repeat or magic unless specified.
 ### <ins>Design:
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
-as a base, I went through about two dozen iterations before I had something I was happy with. Most of that was just experimenting while keeping `HIEA` + `YOU` in place. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me do just that, along with a lot of trial and error.
+as a base, I went through about two dozen iterations before I had something I was happy with. Most of that was just experimenting while keeping `HIEA` + `YOU` in place. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me do just that, along with a lot of trial and error. [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used for magic since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation"). A list of every function will be included at the bottom.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like regular keys. Not only does this make using them simpler, but they won't get you banned from typing websites either.
@@ -50,10 +50,6 @@ Each thumb has a magic key that's used to eliminate most SFBs and make certain p
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
 If the previous key was on the opposite hand, the output will be something less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L☆` → `LS`. `E☆` → `EY`*. Magic → space SFBs at the end of words can be avoided this way.
-
-[AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
-
-A list of every magic function will be provided at the bottom.
 
 #### *Left Half:*
 The left side has no common consonants other than `H` to minimize outrolls, redirects, and long one-handed sequences. This *does* put more of a burden on the right hand but I haven't had any issue with it.
