@@ -45,8 +45,11 @@ Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9
 as a base, I went through about two dozen iterations before I had something I was happy with. Most of that was just experimenting while keeping `HIEA` + `YOU` in place. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me do just that, along with a lot of trial and error.
 
 #### *Thumb Keys:*
-Each thumb has a magic key that's used to turn most SFBs into rolls and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, but they won't get you banned from typing websites as well.
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like regular keys. Not only does this make using them simpler, but they won't get you banned from typing websites either.
+
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
+
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L☆` → `LS`. `E☆` → `EY`*. Magic → space SFBs at the end of words can be avoided this way.
 
 [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") was used since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key#functions "QMK Repeat/Magic Documentation").
 
@@ -77,12 +80,10 @@ wip
   ,★ → ,"
   ?★ → ?"
   !★ → !"
-  @★ → @"
   "★ → "A
   A★ → AU
   B★ → BT
   E★ → EO
-  F★ → FZ
   H★ → H?
   I★ → IQ
   J★ → JH
