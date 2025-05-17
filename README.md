@@ -25,17 +25,17 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 Without repeat or magic unless specified.
 
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
-![without repeat](https://github.com/user-attachments/assets/02d1b012-b972-48fa-ab0a-09cf261b9d63)
+![without repeat](images/without%20repeat.jpg)
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground")** (With Repeat):
-![repeat](https://github.com/user-attachments/assets/5cc06ad3-1d29-4d13-b986-53065d9fe703)
+![repeat](images/repeat.jpg)
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
 ![cyanophage](images/cyanophage.jpg)
 **[KeySolve](https://drowningnewt.github.io/keysolve-web "Keysolve"):**
-![ks](https://github.com/user-attachments/assets/7f9aff06-8c36-4638-8f20-ec62b6e34a48)
+![ks](images/ks.jpg)
 
 ---
 **Typing Test:**
-![typing test](https://github.com/user-attachments/assets/d208abdb-7742-4e67-b59e-c8b6466e4955)
+![typing test](images/typing%20test.jpg)
 
 ### <ins>Design:
 
