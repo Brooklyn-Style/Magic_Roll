@@ -19,7 +19,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
   - [Left Half](#left-half)
   - [Right Half](#right-half)
 - [Magic Functions](#magic-functions)
----
+
 <details>
   <summary><h3>Stats:</h3></summary>
 Without repeat or magic unless specified.
