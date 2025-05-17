@@ -21,7 +21,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 - [Magic Functions](#magic-functions)
 ---
 <details>
-  <summary><h3>Stats:</h3></summary>
+  <summary><h2>Stats:</h2></summary>
 Without repeat or magic unless specified.
 
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
