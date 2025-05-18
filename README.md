@@ -43,7 +43,6 @@ Without repeat or magic unless specified.
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
 as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen iterations before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter helped me do just that, along with a lot of trial and error.
-
 [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") is used for magic since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation").
 
 #### *Thumb Keys:*
