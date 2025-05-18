@@ -42,9 +42,13 @@ Without repeat or magic unless specified.
 ### <ins>Design:
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
-as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen iterations before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. I used the [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer and [MonkeyType's](https://monkeytype.com "MonkeyType") word filter, along with a lot of trial and error to do just that. The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") was also extremely helpful to learn anything and everything about layout design.  
+as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen iterations before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky, keep one-handed strings and awkward patterns to a minimum, and use repeat and magic to improve the layout further. 
 
-[AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") is used for magic since I couldn't be bothered to implement it with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation").
+#### *Tools Used:*
+- The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
+- The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
+- [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for letter, bigram, trigram, etc. frequencies
+- [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") for repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation").
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like regular keys. Not only does this make using them simpler, they won't get you banned from typing websites either.
