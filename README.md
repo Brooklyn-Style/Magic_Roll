@@ -15,6 +15,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
+  - [Tools Used](#tools-used) 
   - [Thumb Keys](#thumb-keys)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
