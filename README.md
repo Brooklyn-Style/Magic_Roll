@@ -48,7 +48,7 @@ as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much ever
 #### *Tools Used:*
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
-- [Cyanophage's](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stata
+- [Cyanophage's](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
 - [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for letter, bigram, trigram, etc. frequencies
 - [AutoHotKey](https://www.autohotkey.com "AutoHotkey's Website") for repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 
