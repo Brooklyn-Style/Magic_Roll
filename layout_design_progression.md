@@ -53,10 +53,31 @@ F18 = Repeat
 ![22](layout_design_progression/22.png)
 
 F21 = G + Magic
+
 F22 = W + Magic
 
 ![23](layout_design_progression/23.png)
 
-test
+F13 = Magic
+
+F14 = Repeat
+
+F15 = X + Magic
+
+F16 = J + Magic
+
+F17 = Q + Magic
+
+F18 = Z + Magic
+
+F19 = B + Magic
+
+F20 = C + Magic
+
+F21 = G + Magic
+
+F22 = H + Magic
+
+F24 = Shift + Magic
 
 ![final](layout_design_progression/final.jpg)
