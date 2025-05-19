@@ -1,1 +1,1 @@
-![test](layoutdesignprogression/1.png)
+![test](layout_design_progression/1.png)
