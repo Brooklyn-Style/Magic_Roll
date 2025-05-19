@@ -9,6 +9,7 @@
 ![4](layout_design_progression/4.png)
 
 F13/F14 = Magic
+
 ![5](layout_design_progression/5.png)
 
 ![6](layout_design_progression/6.png)
@@ -18,9 +19,11 @@ F13/F14 = Magic
 ![8](layout_design_progression/8.png)
 
 OSL2 = Punctuation Layer. OSL4 = Symbol Layer
+
 ![9](layout_design_progression/9.png)
 
 Punctuation moved to magic key. Tap for magic, hold for punctuation layer
+
 ![10](layout_design_progression/10.png)
 
 ![11](layout_design_progression/11.png)
@@ -42,6 +45,7 @@ Punctuation moved to magic key. Tap for magic, hold for punctuation layer
 ![19](layout_design_progression/19.png)
 
 F18 = Repeat
+
 ![20](layout_design_progression/20.png)
 
 ![21](layout_design_progression/21.png)
@@ -50,7 +54,9 @@ F18 = Repeat
 
 F21 = G + Magic
 F22 = W + Magic
+
 ![23](layout_design_progression/23.png)
 
 test
+
 ![final](layout_design_progression/final.jpg)
