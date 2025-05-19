@@ -6,6 +6,7 @@
 
 ![4](layout_design_progression/4.png)
 
+F13/F14 = Magic
 ![5](layout_design_progression/5.png)
 
 ![6](layout_design_progression/6.png)
