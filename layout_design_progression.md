@@ -52,4 +52,5 @@ F21 = G + Magic
 F22 = W + Magic
 ![23](layout_design_progression/23.png)
 
+test
 ![final](layout_design_progression/final.jpg)
