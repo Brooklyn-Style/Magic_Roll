@@ -50,7 +50,7 @@ as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much ever
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
 - [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram, trigram, etc. frequencies
-- [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") for repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
+- [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like regular keys. Not only does this make using them simpler, they won't get you banned from typing websites either.
