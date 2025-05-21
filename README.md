@@ -10,7 +10,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
-J, H, X, Q, B, G, K, and Z double as magic keys
+j, h, x, q, b, g, k, and z double as magic keys
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
