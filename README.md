@@ -70,7 +70,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
-Magic `X` and `J` serve to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. They also help lighten the right hand load a little bit. *E.g. `BX` → `BR`. `SJ` → `SW`*
+Magic `X` and `J` serve to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. *E.g. `BX` → `BR`. `SJ` → `SW`*
 
 #### *Right Half:*
 The right side has almost all of the consonants. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
