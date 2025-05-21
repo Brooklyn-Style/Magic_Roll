@@ -71,6 +71,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 The right side has almost all of the consonants. While this is great for our aforementioned goals, it comes at the cost of more movement and high alternation. 
 
 SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
+
 wip
 
 [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")
