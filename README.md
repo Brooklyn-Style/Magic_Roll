@@ -43,7 +43,7 @@ Without repeat or magic unless specified.
 ### <ins>Design:
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
-as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky and keep one-handed strings and awkward patterns to a minimum. Repeat and magic were added shortly after that to improve the layout further. I took inspiration from many other layouts including [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") for its overall design, [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Magic Sturdy") for its use of magic, and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu") for its adaptive keys.
+as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky and keep one-handed strings and awkward patterns to a minimum. Repeat and magic were added shortly after that but I wouldn't get the idea to make regular letters magic keys until a few months later. I took inspiration from many other layouts including [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") for its overall design, [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Magic Sturdy") for its use of magic, and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu") for its adaptive keys.
 
 #### *Tools Used:*
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
@@ -72,7 +72,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 `X` and `J` have been given magic functionality to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. This also helps to lighten the right hand load a little bit.
 
 #### *Right Half:*
-Most of the consonants have been placed on this side. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
+The right side has almost all of the consonants. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
 wip
 
 ---
