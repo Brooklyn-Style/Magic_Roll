@@ -57,7 +57,7 @@ Each thumb has a magic key that's used to eliminate most SFBs and make certain p
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `E☆` → `EY`*. `Magic` → `Space` SFBs at the end of words can be avoided this way.
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `E☆` → `EY`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
 The left side has no common consonants other than `H` to minimize outrolls, redirects, and long one-handed sequences. This *does* put more of a burden on the right hand but I haven't had any issues with it.
