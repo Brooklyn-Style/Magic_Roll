@@ -61,7 +61,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `E☆` → `EY`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The left side has no common consonants other than `H` to minimize outrolls, redirects, and long one-handed sequences. This *does* put more of a burden on the right hand but I haven't had any issues with it.
+The left side has no common consonants other than `H` to minimize outrolls, redirects, and one-handed strings. This *does* put more of a burden on the right hand but I haven't had any issues with it.
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
 
@@ -70,7 +70,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
-`X` and `J` have been given magic functionality to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. This also helps to lighten the right hand load a little bit.
+Magic `X` and `J` serve to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. They also help lighten the right hand load a little bit. *E.g. `BX` → `BR`. `SJ` → `SW`*
 
 #### *Right Half:*
 The right side has almost all of the consonants. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
