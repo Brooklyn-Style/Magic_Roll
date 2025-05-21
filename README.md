@@ -16,10 +16,10 @@ J, H, X, Q, B, G, K, and Z have magic functions
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
-  - [Tools Used](#tools-used) 
   - [Thumb Keys](#thumb-keys)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
+  - [Tools Used](#tools-used) 
 - [Magic Functions](#magic-functions)
 ---
 <details>
@@ -44,24 +44,17 @@ Without repeat or magic unless specified.
 ### <ins>Design:
 
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") 
-as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with. My goals were to have a reasonable consonant-hand pinky and to keep one-handed strings and awkward patterns to a minimum. I added repeat and magic shortly after that, then, a few months later, got the idea from [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu") to make some regular letters magic keys as well. I also looked to other layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Magic Sturdy") for inspiration.
-
-#### *Tools Used:*
-- The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
-- The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
-- The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
-- [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram, trigram, etc. frequencies
-- [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
+as a base, I kept `HIEA` + `YOU` in place and experimented with pretty much everything else. My goals were to have a reasonable consonant-hand pinky and to keep one-handed strings and awkward patterns to a minimum. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with. Then, added repeat and magic to improve the layout further.
 
 #### *Thumb Keys:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, they won't get you banned from typing websites either.
+Inspired by [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/main/magic_sturdy/magic_sturdy.md "Magic Sturdy"), each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are strictly 1:1 to keep them more like normal keys. Not only does this make using them simpler, they won't get you banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `E☆` → `EY`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The left side has no common consonants other than `H` to minimize outrolls, redirects, and one-handed strings. This *does* put more of a burden on the right hand but I haven't had any issues with it.
+The left side has no common consonants other than `H`. While this minimizes outrolls and redirects, it puts more of a burden on the right hand. I haven't had any issues with it though. Magic `J` and `X` help to increase the hand usage a bit, as well as reduce consonant-hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. *E.g. `SJ` → `SW`. `BX` → `BR`*
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
 
@@ -70,11 +63,21 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
-Magic `X` and `J` serve to reduce consonant hand outrolls. These letters almost never pair with the other consonants so they're perfect for this task. *E.g. `BX` → `BR`. `SJ` → `SW`*
-
 #### *Right Half:*
-The right side has almost all of the consonants. SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
+The right side has almost all of the consonants. While this is great for our aforementioned goals, it comes at the cost of more movement and high alternation. 
+
+SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
 wip
+
+[Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")
+[Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn")
+
+#### *Tools Used:*
+- The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
+- The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
+- The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
+- [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram, trigram, etc. frequencies
+- [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 
 ---
 
