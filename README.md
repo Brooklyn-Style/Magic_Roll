@@ -67,9 +67,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half is arranged for as many reasonable inrolls as possible, while also accounting for finger strength.
-
-I mostly ignored SFBs because I was going to fix them with magic anyway. 
+The right half is arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. I mostly ignored SFBs since I planned to fix them with magic. with Most of the consonants are on this side, 
 
 
 b d l c p 
@@ -83,6 +81,7 @@ wip
 - pnv has 10% usage. fairly high
 - right hand has to move more
 - magic makes the learning curve steeper
+- sfs is high
 
 wip
 
