@@ -43,7 +43,7 @@ Without repeat or magic unless specified.
 
 ### <ins>Design:
 
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goals were to have a more reasonable consonant-hand pinky, minimal one-handed strings, and make everything as comfortable as possible. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goal was to have minimal outrolls, redirects, and inner column use, within reason. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept strictly 1:1 to keep them more like normal keys and less like macros. Not only does this make using them simpler, they won't get you banned from typing websites either.
@@ -63,7 +63,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was not only arranged for inrolls but comfort as well
+
 
 wip
 
