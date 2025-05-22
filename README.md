@@ -66,6 +66,9 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 
 #### *Right Half:*
 
+b d l c p 
+g t s r n z
+k m f w v
 
 wip
 
