@@ -55,7 +55,7 @@ If the previous key was on the opposite hand, the output will be something a lit
 #### *Left Half:*
 The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimize outrolls and redirects. The rest of the common consonants have been pushed to the other side for the same reason. This also helps to keep same-hand strings low.
 
-Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `SJ` → `SW`. `BX` → `BR`*
+Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`. *
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
@@ -73,7 +73,7 @@ k m f w v
 
 wip
 
-#### *Tools Used:*
+### <ins>Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
