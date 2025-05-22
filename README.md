@@ -67,11 +67,11 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half is arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. SFBs were mostly ignored since I planned to fix them later with magic.
+The right half was arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. SFBs were mostly ignored since I planned to fix them later with magic.
 
 
 
-The `LSF` and `CRW` columns are a little funky but with all of the common consonants on this side, my options were limited. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
+The `LSF` and `CRW` columns are a little funky, but with nearly all of the consonants on this side, my options were pretty limited. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
 
 b d l c p 
 g t s r n z
