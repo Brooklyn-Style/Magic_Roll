@@ -53,9 +53,11 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimize outrolls and redirects. The rest of the common consonants have been pushed to the other side for the same reason. This also helps to keep same-hand strings low.
+The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimize outrolls and redirects. I chose to not have any common consonants on this side for the same reason. This also helps to keep same-hand strings low.
 
-Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`. *
+Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
+
+Magic `Q` completes the ring column. It fixes the `LF` and `BM` SFBs and makes `WB` more comfortable.
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
