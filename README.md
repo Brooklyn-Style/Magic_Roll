@@ -55,7 +55,7 @@ If the previous key was on the opposite hand, the output will be something a lit
 #### *Left Half:*
 The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimize outrolls and redirects. The rest of the common consonants have been pushed to the other side for the same reason. This also helps to keep same-hand strings low.
 
-Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls; this is why they were placed in this column. These letters almost never pair with the other consonants as well so they're perfect for this job. *E.g. `SJ` → `SW`. `BX` → `BR`*
+Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls; this is why they were placed here. These letters almost never pair with the other consonants as well so they're perfect for this job. *E.g. `SJ` → `SW`. `BX` → `BR`*
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
 
