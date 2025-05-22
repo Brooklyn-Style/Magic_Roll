@@ -10,7 +10,7 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
-j, h, x, q, b, g, k, and z double as magic keys
+J, H, X, Q, B, G, K, and Z double as magic keys
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
@@ -51,14 +51,10 @@ Inspired by [Magic Sturdy](https://github.com/Ikcelaks/keyboard_layouts/blob/mai
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `E☆` → `EY`*. `☆ → Space` SFBs can also be avoided this way.
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The left side has no common consonants other than `H`. While this minimizes outrolls and one-handed strings, it also forces the right hand to move more. Magic `J` and `X` help to alleviate this a bit though, by turning most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they basically become inrolls. These letters almost never pair with the other consonants so they're perfect for this task. *E.g. `SJ` → `SW`. `BX` → `BR`*
-
-(https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.i6m27i3kbuzs)
-
-wip
+The left side has no common consonants other than `H` in order to minimize outrolls and one-handed strings. While this increases the right hand's movement, I haven't had a problem with it. Magic `X` and `J` turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters almost never pair with the other consonants so they're perfect for this job. *E.g. `SJ` → `SW`. `BX` → `BR`*
 
 Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
 
@@ -68,9 +64,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right side has almost all of the consonants. While this is great for our aforementioned goals, it comes at the cost of more movement and high alternation. 
-
-SFBs were disregarded, as I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
+SFBs were disregarded since I planned to fix them with magic. The `LSF` and `CRW` columns are somewhat questionable but magic makes them viable.
 
 wip
 
