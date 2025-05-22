@@ -67,7 +67,9 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was arranged for as many reasonable inrolls as possible, while also accounting for finger strength. I mostly ignored SFBs because I was going to fix them with magic anyway. 
+The right half is arranged for as many reasonable inrolls as possible, while also accounting for finger strength.
+
+I mostly ignored SFBs because I was going to fix them with magic anyway. 
 
 
 b d l c p 
@@ -77,6 +79,10 @@ k m f w v
 wip
 
 #### Downsides:
+- `DTMBGK` has 20% usage
+- pnv has 10% usage. fairly high
+- right hand has to move more
+- magic makes the learning curve steeper
 
 wip
 
