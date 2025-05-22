@@ -57,7 +57,7 @@ The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimi
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
-Magic `Q` completes the ring column. It fixes the `LF` and `BM` SFBs and makes `WB` more comfortable.
+Magic `Q` completes the ring column. It fixes a few SFBs and uncomfortable patterns. There wasn't really a better spot for it on this side but it's so uncommon that it hardly matters. 
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
