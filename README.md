@@ -57,7 +57,7 @@ The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimi
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `SJ` → `SW`. `BX` → `BR`*
 
-Punctuation is almost entirely on the inner index column except for question mark. I needed to make room for the repeat key so it got pushed to the outer pinky column, while the rest of the symbols were put on another layer.
+Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
 Repeat was put on the index since I didn't have a free thumb key for it, wasn't willing to give up magic on either side, and just don't find thumb → finger rolls to be that comfortable. Thankfully, this placement doesn't really cause any problems. Even though it *does* introduce a few new SFBs, they can be fixed with magic or alt-fingering. Additionally, this key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon. `HT` becomes a roll.
@@ -65,6 +65,7 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
+
 
 b d l c p 
 g t s r n z
