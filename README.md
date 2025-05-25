@@ -53,7 +53,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-`HIEA + YOU` is best for inrolls, as H comes before a vowel most of the time. There are no common consonants on this side to keep one-handed strings low.
+Using `HIEA + YOU` is best for inrolls, as `H` comes before a vowel most of the time. There are no other common consonants on this side to keep redirects and one-handed strings low.
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
@@ -67,6 +67,10 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
+`N` on the pinky is good for inrolls, as it pairs with every letter.
+
+`T` is the 2nd most common letter so it goes on the index finger.
+
 The right half was arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. SFBs were mostly ignored since I planned to fix them with magic.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
