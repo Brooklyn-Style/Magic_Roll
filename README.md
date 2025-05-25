@@ -43,7 +43,7 @@ Without repeat or magic unless specified.
 
 ### <ins>Design:
 
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goal was to have minimal outrolls, redirects, and inner column use, within reason. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goal was to minimize outrolls, redirects, and inner column use, within reason. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept strictly 1:1 to keep them more like normal keys and less like macros. Not only does this make using them simpler, they won't get you banned from typing websites either.
@@ -53,7 +53,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The `YI` `OE` `UA` vowel block is used, with `H` on the pinky in order to mimimize outrolls and redirects. I chose to not have any common consonants on this side for the same reason. This also helps to keep one-handed strings low.
+`HIEA + YOU` is best for inrolls, as H comes before a vowel most of the time. There are no common consonants on this side to keep one-handed strings low.
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
@@ -67,11 +67,9 @@ Repeat was put on the index since I didn't have a free thumb key for it, wasn't 
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. SFBs were mostly ignored since I planned to fix them later with magic.
+The right half was arranged for as many inrolls and comfortable patterns as possible, while accounting for finger strength, and not overloading the pinky. SFBs were mostly ignored since I planned to fix them with magic.
 
-
-
-The `LSF` and `CRW` columns are a little funky, but with nearly all of the consonants on this side, my options were pretty limited. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
+The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
 
 b d l c p 
 g t s r n z
