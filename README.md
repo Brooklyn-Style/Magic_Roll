@@ -53,7 +53,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The left half was built around the `HIEA + YOU` block. It's the best for inrolls, as `H` comes before a vowel most of the time and makes `YOU` a 3roll. There are no other common consonants on this side to keep redirects and one-handed strings low.
+The left half was built around `HIEA + YOU`. It's the best for inrolls, as `H` almost always comes before a vowel and makes `YOU` a 3roll. There are no other common consonants on this side to keep redirects and one-handed strings low.
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
