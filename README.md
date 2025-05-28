@@ -69,12 +69,11 @@ Additionally, this key doesn't just repeat the last letter:
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was arranged around the `TSRN` home keys:
-- `T` is the second most frequent letter in English so it goes on the index.
-- `S` on the middle and `R` on the ring make `ST` and `RS` inrolls.
-- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
+The right half was arranged around the `TSRN` home keys, as these are the most frequently used consonants. `T` is the most used so it goes on the index. `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls. `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
 
-The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
+[Letter frequencies](layout_design_progression.md "Layout Design Progression")
+
+The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` more comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
