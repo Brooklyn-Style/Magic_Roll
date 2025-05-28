@@ -72,9 +72,11 @@ Additionally, this key doesn't just repeat the last letter:
 The right half was arranged around the `TSRN` home keys, as these are the most frequently used consonants. `T` is the most used so it goes on the index. `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls. `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
 
 <details>
-  <summary>Letter frequencies:</summary>
+  <summary>Letter Frequencies Chart:</summary>
   
 ![Letter frequencies](images/Letter%20Frequency%20Chart.jpg "English Letter Frequencies")
+
+Source: https://www.norvig.com/mayzner.html
 </details>
 
 The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` more comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
