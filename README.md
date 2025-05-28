@@ -65,14 +65,14 @@ Punctuation is almost entirely on the inner index column except for `?`. I neede
 
 Additionally, this key doesn't just repeat the last letter:
 - `H@` → `HT`. `HH` is extremely uncommon so I made `HT` a roll instead.
-- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it's little uncomfortable to type normally. I prefer to just use the right magic key for `QU` though.
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it's little uncomfortable to type normally. I prefer to just use the right magic key for this though.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
 The right half was arranged around the `TSRN` home keys:
 - `T` is the second most frequent letter in English so it goes on the index.
-- `S` on the middle and `R` on the ring make `ST` and `RST` inrolls.
-- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
+- `S` on the middle and `R` on the ring make `ST` and `RS` inrolls.
+- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
 
 The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
 
