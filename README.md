@@ -46,7 +46,7 @@ Without repeat or magic unless specified.
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. I knew I wanted to keep those letters together for the inrolls and prioritize comfort but I didn't really know what I wanted beyond that. As I figured out my preferences, I aimed for lower outrolls, inner column use and one-handed strings. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve the layout further.
 
 #### *Thumb Keys:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to keep them more like normal keys and less like macros. This make using them simpler and ensures that you won't get banned from typing websites either.
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to keep them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
 
@@ -61,9 +61,11 @@ Magic `Q` completes the ring column. It doesn't do much besides fix a few SFBs a
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
-`Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. Thankfully, this placement doesn't really cause any problems, despite introducing a few SFBs; they can be fixed with magic or alt-fingering. Additionally, this key doesn't just repeat the last letter:
-- `H@` → `HT`. `HH` is extremely uncommon. `HT` becomes a roll.
-- `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
+`Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
+
+Additionally, this key doesn't just repeat the last letter:
+- `H@` → `HT`. `HH` is extremely uncommon so I made `HT` a roll instead.
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it's little uncomfortable to type normally. I prefer to just use the right magic key for `QU` though.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
