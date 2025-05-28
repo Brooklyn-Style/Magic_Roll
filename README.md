@@ -90,13 +90,13 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
-The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` more comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to put `M` and `B` on the same finger **and** two rows apart without any issue.
+The `BGK` inner index column has slightly lower use than Hyperroll's at the cost of more movement. It was set up to make `BL`, `NG`, and `RK` more comfortable. `D` on the top row makes it + `B, G, or K` easily alt-fingerable. Magic allowed me to put `M` and `B` on the same finger **and** two rows apart without any issue.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
-The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. the SFSs are really noticable as well. Swapping `P` with `K` or `B` could be potential solutions though.
+The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are quite bothersome as well. Swapping `P` with `K` or `B` could be potential solutions though.
 
-Aside from all of the movement this hand has to do, the pinky and SFSs in general are this layout's biggest downsides
+Aside from all of the movement that this hand has to do, the pinky and SFSs in general are this layout's biggest downsides
 
 ### <ins>Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
