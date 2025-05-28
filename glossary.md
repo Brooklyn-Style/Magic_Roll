@@ -28,4 +28,4 @@
 
 - $\color{#00e1ff}{\textsf{Magic Key:}}$ A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. $\color{violet}{\textsf{E.g.}}$ $\color{yellow}{\textsf{‎★ → Shift. ‎ ‎ L★ → LS. ‎ ‎ T★ → THE}}$
 
-- $\color{#00e1ff}{\textsf{Alt Fingering:}}$ Pressing a key with a different finger than what the homerow/touch typing method intended to avoid a SFB. $\color{violet}{\textsf{E.g.}}$ Pressing $\color{yellow}{\textsf{RG}}$ with the $\color{yellow}{\textsf{middle}}$ and $\color{yellow}{\textsf{index}}$ fingers instead of just the $\color{yellow}{\textsf{index}}$.
+- $\color{#00e1ff}{\textsf{Alt Fingering:}}$ Pressing a key with a different finger than what the touch typing method intended to avoid a SFB. $\color{violet}{\textsf{E.g.}}$ Pressing $\color{yellow}{\textsf{RG}}$ with the $\color{yellow}{\textsf{middle}}$ and $\color{yellow}{\textsf{index}}$ fingers instead of just the $\color{yellow}{\textsf{index}}$.
