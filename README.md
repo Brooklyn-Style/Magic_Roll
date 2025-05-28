@@ -69,7 +69,10 @@ Additionally, this key doesn't just repeat the last letter:
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was arranged around the `TSRN` home keys, as these are the most frequently used consonants. `T` is the most used so it goes on the index. `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls. `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
+The right half was arranged around the `TSRN` home keys, as these are the most frequently used consonants:
+- `T` is the most used so it goes on the index.
+- `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
+- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
 
 <details>
   <summary>Letter Frequencies Chart:</summary>
