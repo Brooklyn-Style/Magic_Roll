@@ -72,26 +72,11 @@ The right half was arranged around the `TSRN` home keys:
 - `S` on the middle and `R` on the ring make `ST` and `RST` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
 
-The `BGK` inner index column was set up to make the `NG`, `RK`, and `BL` bigrams comfortable. `D` on the top row makes `DB`, `DG`, and `DK` easily alt-fingerable. Magic lets me get away with having `M` and `B` on the same finger **and** two rows apart.
+The `BGK` inner index column was set up to make the `NG`, `RK`, and `BL` bigrams comfortable. `D` on the top row makes `D + BGK` easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
 
-The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` and `RLD` rolls and make `NCL` a redirect.
+The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
-SFBs were mostly ignored, as I planned to fix them with magic.
-
-b d l c p 
-g t s r n z
-k m f w v
-
-wip
-
-#### Downsides:
-- `DTMBGK` has 20% usage
-- pnv has 10% usage. fairly high
-- right hand has to move more
-- magic makes the learning curve steeper
-- sfs is high
-
-wip
+The `PNV` column, while good if it was on any other finger, isn't great for the pinky. The SFBs are low but the SFS are kind of rough. Swapping `P` with `K` or `B` could be a potential solution.
 
 ### <ins>Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
