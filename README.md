@@ -68,7 +68,7 @@ Punctuation is almost entirely on the inner index column except for `?`. I neede
 
 #### *Right Half:*
 The right half was arranged around the `TSRN` home keys:
-- `T` is the second most frequent letter so it goes on the index.
+- `T` is the second most frequent letter in English so it goes on the index.
 - `S` on the middle and `R` on the ring make `ST` and `RST` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
 
