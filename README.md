@@ -55,6 +55,12 @@ If the previous key was on the opposite hand, the output will be something a lit
 #### *Left Half:*
 The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as `H` almost always comes before a vowel. On top of that, there are no common consonants on this side to keep redirects and one-handed strings low.
 
+<details>
+  <summary>Roll Direction Chart:</summary>
+![Roll Direction Chart](images/Roll%20Direction%20Chart.jpg "Roll Direction Chart")
+Source: https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.qyel7qja61lm
+</details>
+
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
 Magic `Q` completes the ring column. It doesn't do much besides fix a few SFBs and uncomfortable patterns.
