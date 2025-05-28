@@ -43,7 +43,7 @@ Without repeat or magic unless specified.
 
 ### <ins>Design:
 
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goal was to minimize outrolls, redirects, and inner column use, within reason. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. My goal was to have lower outrolls, redirects, and inner column use without sarcificing comfort in the process. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve it further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept strictly 1:1 to keep them more like normal keys and less like macros. Not only does this make using them simpler, they won't get you banned from typing websites either.
@@ -53,7 +53,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
-The left half was built around `HIEA + YOU`. It's the best for inrolls as `H` almost always comes before a vowel and makes OU EAThere are no other common consonants on this side to keep redirects and one-handed strings low.
+The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as `H` almost always comes before a vowel. On top of that, there are no common consonants on this side to keep redirects and one-handed strings low.
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
@@ -61,14 +61,20 @@ Magic `Q` completes the ring column. It doesn't do much besides fix a few SFBs a
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
-Repeat was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. Thankfully, this placement doesn't really cause any problems, despite introducing a few SFBs; they can be fixed with magic or alt-fingering. Additionally, this key doesn't just repeat the last letter:
+`Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. Thankfully, this placement doesn't really cause any problems, despite introducing a few SFBs; they can be fixed with magic or alt-fingering. Additionally, this key doesn't just repeat the last letter:
 - `H@` → `HT`. `HH` is extremely uncommon. `HT` becomes a roll.
 - `Q@` → `QU`. `QQ` is even more uncommon. `U` is two rows above `Q`, making it a little uncomfortable to type normally.
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was built around the `TSRN` home keys. `T` on the index because it's the second most common letter, and `N` on the pinky because it pairs with every other letter. `S` on middle and `R` on ring to make `ST` and `RST` inrolls. The rest of the letters were arranged for as many inrolls and comfortable patterns as possible. SFBs were mostly ignored, as I planned to fix them with magic later.
+The right half was arranged around the `TSRN` home keys:
+- `T` is the second most common letter so it goes on the index
+- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
+- `S` on middle and `R` on ring make `ST` and `RST` inrolls.
 
+The `BGK` column was setup to make the `NG`, `RK`, and `BL` bigrams more comfortable
+
+SFBs were mostly ignored, as I planned to fix them later with magic.
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
 
 b d l c p 
