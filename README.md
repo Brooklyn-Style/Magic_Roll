@@ -57,8 +57,10 @@ The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as 
 
 <details>
   <summary>Roll Direction Chart:</summary>
+  
 ![Roll Direction Chart](images/Roll%20Direction%20Chart.jpg "Roll Direction Chart")
-Source: https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.qyel7qja61lm
+
+Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.qyel7qja61lm "Keyboard Layouts Google Doc")
 </details>
 
 Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
@@ -85,7 +87,7 @@ The right half was arranged around the `TSRN` home keys, as these are the most f
   
 ![Letter frequencies](images/Letter%20Frequency%20Chart.jpg "English Letter Frequencies")
 
-Source: https://www.norvig.com/mayzner.html
+Source: [Norvig](https://www.norvig.com/mayzner.html "Norvig")
 </details>
 
 The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` more comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
