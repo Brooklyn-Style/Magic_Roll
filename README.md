@@ -72,10 +72,11 @@ The right half was arranged around the `TSRN` home keys:
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
 - `S` on middle and `R` on ring make `ST` and `RST` inrolls.
 
-The `BGK` column was setup to make the `NG`, `RK`, and `BL` bigrams more comfortable
+The `BGK` column was set up to make the `NG`, `RK`, and `BL` bigrams comfortable. `D` on the top row makes `DB`, `DG`, and `DK` easily alt-fingerable. Magic lets me get away with having `M` and `B` on the same finger **and** two rows apart.
 
-SFBs were mostly ignored, as I planned to fix them later with magic.
-The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` inroll and make `NCL` (e.g. include) a redirect.
+The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. You could swap `L` and `C` for a marginal improvement but then you'd lose the `CL` and `RLD` rolls and make `NCL` a redirect.
+
+SFBs were mostly ignored, as I planned to fix them with magic.
 
 b d l c p 
 g t s r n z
