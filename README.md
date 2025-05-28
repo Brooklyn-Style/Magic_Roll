@@ -56,7 +56,7 @@ If the previous key was on the opposite hand, the output will be something a lit
 The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as `H` almost always comes before a vowel. On top of that, there are no common consonants on this side to keep redirects and one-handed strings low.
 
 <details>
-  <summary>Roll Direction Chart:</summary>
+  <summary>Consonant → Vowel Roll Direction Chart:</summary>
   
 ![Roll Direction Chart](images/Roll%20Direction%20Chart.jpg "Roll Direction Chart")
 
@@ -77,17 +77,17 @@ Additionally, this key doesn't just repeat the last letter:
 - `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
-The right half was arranged around the `TSRN` home keys, as these are the most frequently used consonants:
+The right half was arranged around the `TSRN` home keys, as these are the most [frequently](images/Letter%20Frequency%20Chart.jpg "English Letter Frequency Chart") used consonants:
 - `T` is the most used so it goes on the index.
 - `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
 
 <details>
-  <summary>Letter Frequencies Chart:</summary>
+  <summary>Consonant → Consonant Roll Direction Chart:</summary>
   
-![Letter frequencies](images/Letter%20Frequency%20Chart.jpg "English Letter Frequencies")
+![Roll Direction Chart2](images/Roll%20Direction%20Chart2.jpg "Roll Direction Chart")
 
-Source: [Norvig](https://www.norvig.com/mayzner.html "Norvig")
+Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
 The `BGK` inner index column was set up to make `NG`, `RK`, and `BL` more comfortable. `D + BGK` are easily alt-fingerable. Magic allows me to place `M` and `B` on the same finger **and** two rows apart without any issue.
