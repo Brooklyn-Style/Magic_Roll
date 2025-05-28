@@ -94,7 +94,7 @@ The `BGK` inner index column has slightly lower use than Hyperroll's at the cost
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
-The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are quite bothersome as well. Swapping `P` with `K` or `B` could be potential solutions though.
+The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are quite bothersome as well but swapping `P` with `K` or `B` could be a potential solution.
 
 Aside from all of the movement that this hand has to do, the pinky and SFSs in general are this layout's biggest downsides
 
