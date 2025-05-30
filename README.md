@@ -3,10 +3,10 @@ A handmade, alternative keyboard layout that uses multiple repeat and magic keys
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
-  x q 𝕊 @ ,  k m f w v
+  x q _ @ ,  k m f w v
          ★  ␣ ☆
 
-𝕊 = Symbol Layer
+_ = Free Key (I have a layer key here)
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
