@@ -26,6 +26,6 @@
 
 - <ins>Repeat Key:</ins> A key that repeats the output of the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
-- <ins>Magic Key:</ins> A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. ‎`★` → `Shift`. ‎`L★` → `LS`. ‎`T★` → `THE`*
+- <ins>Magic Key:</ins> A key whose output can be different depending on the last pressed key. It's similar to repeat except the output can be literally anything from a single letter to full words. It can also have a default output for extra functionality, or for when you don't want it to be affected by the previous keypress. *E.g. ‎`␣★` → `Shift`. ‎`L★` → `LS`. ‎`T★` → `THE`*
 
 - <ins>Alt Fingering:</ins> Pressing a key with a different finger than what the touch typing method intended to avoid a SFB. *E.g. Pressing `RG` with the middle and index fingers instead of just the index*
