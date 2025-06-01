@@ -22,7 +22,7 @@
 
     - <ins>Bad Redirect:</ins> A redirect that does *not* involve the index finger. *E.g. `SAD`*
   
-- <ins>Alternate:</ins> A trigram that switches hands for each letter. *E.g. `AND`*
+- <ins>Alternate:</ins> A trigram that switches hands for each key. *E.g. `AND`*
 
 - <ins>Alt Fingering:</ins> Pressing a key with a different finger than what the touch typing method intends to avoid a SFB. *E.g. `RG` being pressed with the middle and index fingers instead of just the index*
 
