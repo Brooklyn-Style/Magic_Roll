@@ -58,7 +58,7 @@ F22 = W + Magic
 
 ![23](layout_design_progression/23.png)
 
-![24](layout_design_progression/24.png)
+![24](layout_design_progression/24.jpg)
 
 F13 = Magic
 
