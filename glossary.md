@@ -8,7 +8,7 @@
 
   - <ins>Same Finger Skipgram (SFS):</ins> A bigram that's typed with the same finger but separated by 1 or more letters. *E.g. `D_E`*
 
--  <ins>Lateral Stretch Bigram (LSB):</ins> A bigram that's typed with adjacent fingers where one of the fingers has to stretch laterally. *E.g. `HI` and `'L`*
+-  <ins>Lateral Stretch Bigram (LSB):</ins> A bigram that's typed with adjacent fingers, with one stretching laterally. *E.g. `HI` and `'L`*
 
 - <ins>Alternate:</ins> A trigram where each key is pressed by a different hand. *E.g. `AND`*
 
