@@ -80,6 +80,10 @@ F21 = G + Magic
 
 F22 = H + Magic
 
+F23 = K + Magic
+
 F24 = Shift + Magic
+
+(TD11) = `'` on tap. `-` on hold. `"` on double tap
 
 ![final](layout_design_progression/final.jpg)
