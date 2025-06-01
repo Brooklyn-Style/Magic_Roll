@@ -60,6 +60,8 @@ F22 = W + Magic
 
 ![24](layout_design_progression/24.jpg)
 
+![final](layout_design_progression/final.jpg)
+
 F13 = Magic
 
 F14 = Repeat
@@ -85,5 +87,3 @@ F23 = K + Magic
 F24 = Shift + Magic
 
 (TD11) = `'` on tap. `-` on hold. `"` on double tap
-
-![final](layout_design_progression/final.jpg)
