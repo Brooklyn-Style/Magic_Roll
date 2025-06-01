@@ -58,6 +58,8 @@ F22 = W + Magic
 
 ![23](layout_design_progression/23.png)
 
+![24](layout_design_progression/24.png)
+
 F13 = Magic
 
 F14 = Repeat
