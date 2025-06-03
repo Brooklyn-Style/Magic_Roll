@@ -10,7 +10,6 @@ _ = Free Key (I have a layer key here)
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
-J, H, X, Q, B, G, K, and Z double as magic keys
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
