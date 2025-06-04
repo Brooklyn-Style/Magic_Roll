@@ -42,17 +42,17 @@ Without repeat or magic unless specified.
 
 ### <ins>Design:
 
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `HIEA` + `YOU`. I knew I wanted to keep those letters together for the inrolls but didn't know what I wanted beyond that. As I figured out my preferences, I aimed for low outrolls, inner column use and one-handed strings. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve the layout further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with pretty much everything except for `H` and the vowels. I knew I wanted to keep those letters together for the inrolls but didn't know what I wanted beyond that. As I figured out my preferences, I aimed for low outrolls, inner column use and one-handed strings. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve the layout further.
 
 #### *Thumb Keys:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to keep them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as `H` almost always comes before a vowel. On top of that, there are no common consonants on this side to keep redirects and one-handed strings low.
+The pinky `H` + vowels setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` have been given magic functionality to reduce consonant-hand outrolls and take care of a couple SFBs.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -62,7 +62,7 @@ The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as 
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
 </details>
 
-Magic `X` and `J` complete the pinky column. They turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically never pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
+Magic `X` and `J` turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically rarely pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
 
 Magic `Q` completes the ring column. It doesn't do much besides fix a few SFBs and uncomfortable patterns.
 
