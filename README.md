@@ -47,9 +47,9 @@ Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to keep them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
-In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO`. `O★` → `OE`*
+In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS`. `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can also be avoided this way.
 
 #### *Left Half:*
 The left half was arranged around `HIEA` + `YOU`. It's the best for inrolls, as `H` almost always comes before a vowel. On top of that, there are no common consonants on this side to keep redirects and one-handed strings low.
@@ -71,9 +71,9 @@ Punctuation is almost entirely on the inner index column except for `?`. I neede
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
 Additionally, this key doesn't just repeat the last letter:
-- `H@` → `HT`. `HH` is extremely uncommon so I made `HT` a roll instead.
-- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it's little uncomfortable to type normally. I prefer to just use the right magic key for this though.
-- `Backspace` after repeats and in all other situations. This brings up the index's usage and gets backspace off the pinky.
+- `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type. (I prefer to just use the right magic thumb key for this though).
+- `Backspace` after repeats or if more than 400ms has passed since the last keypress. This brings up the index's usage and gets backspace off the pinky.
 
 #### *Right Half:*
 The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants:
@@ -89,7 +89,7 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
-The `BGK` inner index column has slightly lower use than Hyperroll's at the cost of more movement. It was set up to make `BL`, `NG`, and `RK` more comfortable. Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. Magic allowed me to put `M` and `B` on the same finger **and** two rows apart without any issue.
+The `BGK` inner index column has slightly lower use than Hyperroll's at the cost of more movement. It was set up like this to make `BL`, `NG`, and `RK` comfortable. Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. Magic allowed me to put `M` and `B` on the same finger **and** two rows apart without any issue.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
