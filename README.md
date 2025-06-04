@@ -10,6 +10,7 @@ _ = Free Key (I have a layer key here)
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
+J, H, X, Q, B, G, K, F, and Z have magic functions
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
@@ -52,7 +53,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` have been given magic functionality to increase inrolls and take care of a couple SFBs.
+The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` increase inrolls and take care of a couple SFBs.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -70,10 +71,10 @@ Punctuation is almost entirely on the inner index column except for `?`. I neede
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
-Additionally, this key doesn't just repeat the last letter:
+This key has a few exceptions as well:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type. (I prefer to just use the right magic thumb key for this though).
-- `Backspace` after repeats or if more than 400ms has passed since the last keypress. This brings up the index's usage and gets backspace off the pinky.
+- `Backspace` after repeats or if more than 600ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### *Right Half:*
 The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants:
@@ -89,7 +90,7 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
-The `BGK` inner index column has slightly lower use than Hyperroll's at the cost of more movement. It was set up like this to make `BL`, `NG`, and `RK` comfortable. Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. Magic allowed me to put `M` and `B` on the same finger **and** two rows apart without any issue.
+The `BGK` inner index column was set up like this put `NG` on the home row and ` BL` on the same row. Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. Magic allowed me to put `M` and `B` on the same finger **and** two rows apart without any issue.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
 
