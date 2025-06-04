@@ -62,7 +62,7 @@ The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes af
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
 </details>
 
-`X` and `J` almost never pair with other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows.  *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
+`X` and `J` almost never pair with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows.  *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
 
 `Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
 
