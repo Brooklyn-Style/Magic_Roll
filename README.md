@@ -52,7 +52,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + vowels setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` have been given magic functionality to reduce consonant-hand outrolls and take care of a couple SFBs.
+The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` have been given magic functionality to increase inrolls and take care of a couple SFBs.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -62,9 +62,9 @@ The pinky `H` + vowels setup is the best for inrolls, as `H` rarely comes after 
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
 </details>
 
-Magic `X` and `J` turn most consonant-hand outrolls into alternates, and since a vowel almost always comes after, they become inrolls. These letters basically rarely pair with the other consonants so they're perfect for this job. *E.g. `BX` → `BR` `SJ` → `SW`*
+`X` and `J` almost never pair with other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows.  *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
 
-Magic `Q` completes the ring column. It doesn't do much besides fix a few SFBs and uncomfortable patterns.
+`Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
 
 Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer.
 
