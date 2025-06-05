@@ -110,106 +110,132 @@ Aside from all of the movement that this hand has to do, the pinky and SFSs in g
 ### <ins>Magic Functions:
 ```
 ★:
-  ★ → Shift
-  ☆★ → ␣
-  .★ → ." 
-  ,★ → ,"
-  ?★ → ?"
-  !★ → !"
-  "★ → "A
-  A★ → AU
-  B★ → BT
-  E★ → EO
-  H★ → H?
-  I★ → IQ
-  J★ → JH
-  K★ → KG
-  L★ → LS
-  M★ → MP
-  N★ → NP
-  O★ → OE
-  P★ → PV
-  Q★ → QI
-  R★ → RP
-  S★ → SZ
-  T★ → TX
-  U★ → UA
-  V★ → VP
-  W★ → WL
-  X★ → XI
-  Y★ → YI 
+ ★ → Shift
+ ☆★ → ␣
+ .★ → ." 
+ ,★ → ,"
+ ?★ → ?"
+ !★ → !"
+ @★ → @" - @ = repeat
+ "★ → "A
+ (★ → (A 
+ A★ → AU
+ B★ → BT
+ E★ → EO
+ H★ → H?
+ I★ → IQ
+  I★☆ → IQU
+ K★ → KG
+ L★ → LS
+ M★ → MP
+ N★ → NP
+ O★ → OE
+ P★ → PV
+ Q★ → QI
+ R★ → RC
+ U★ → UA
+ V★ → VP
+ Y★ → YI 
+ X★ → XI
 
 ☆:
-  ★☆ → U
-  .☆ → ..
-  A☆ → A.
-  C☆ → CC
-  D☆ → DM
-  E☆ → EY
-  F☆ → FL
-  G☆ → GM
-  H☆ → HH
-  I☆ → IY
-  J☆ → JO
-  L☆ → LS
-  M☆ → MP
-  N☆ → NV
-  O☆ → OX
-  P☆ → PN
-  Q☆ → QU
-  R☆ → RC
-  S☆ → SL
-  T☆ → TR
-  U☆ → U,
-  W☆ → WL
-  X☆ → XH
+ ★☆ → U
+ .☆ → ..
+ A☆ → A.
+ C☆ → CC
+ D☆ → DM
+ E☆ → EY
+ F☆ → FL
+ G☆ → GM
+ H☆ → HH
+ I☆ → IY
+ J☆ → JO
+ L☆ → LV
+ M☆ → MP
+ N☆ → NV
+ O☆ → OX
+ P☆ → PN
+ Q☆ → QU
+ R☆ → RC
+ S☆ → SL
+ T☆ → TR
+ U☆ → U,
+ V☆ → VV
+ X☆ → XH
 
-J:
-  KJ → KN
-  LJ → LR
-  RJ → RV
-  SJ → SW
-  TJ → TD
-  WJ → WN
-
-H:
-  FH → FR
-
-X:
-  ☆X → ☆L
-  @X → @A
-  BX → BR
-  CX → CR
-  DX → DR
-  FX → FL
-  GX → GR
-  KX → KT
-  LX → LV
-  MX → MB
-  PX → PR
-  RX → RP
-  SX → SP
-  TX → TW
-  WX → WR
-
-Q:
-  @Q → @U
-  BQ → BM
-  LQ → LF
-  RQ → RZ
-
-Z:
-  DZ → DT
-  FZ → FS
-  GZ → GT
-  LZ → LW
-  MZ → MT
-  RZ → RW
-  SZ → SF
 B:
-  CB → CK
+ CB → CK
+ SB → SW
+
+F:
+ WF → WL
 
 G:
-  CG → CH
-  SG → SC
+ CG → CH
+ SG → SC
+
+H:
+ BH → BL
+ DH → DR
+ FH → FR
+ KH → KN
+ LH → LL
+ MH → MP
+ 
+J:
+ CJ → CC
+ FJ → FF
+ GJ → GG
+ LJ → LL
+ MJ → MM
+ PJ → PP
+ RJ → RR
+ SJ → SS
+ TJ → TT
+ WJ → WN
+ ZJ → ZZ
+
+M:
+ FM → FL 
+
+P:
+ BP → BV
+ DP → DV
+
+Q:
+ @Q → @U
+ BQ → BM
+  BQ★ → BMI
+ LQ → LF
+ WQ → WB
+ XQ → XR
+
+X:
+ ☆X → ☆L
+ @X → @A
+ BX → BR
+ CX → CR
+ DX → DW
+ FX → FL
+ GX → GR
+ KX → KT
+ LX → LS
+ MX → MB
+ PX → PR
+ RX → RP
+ SX → SP
+ TX → TW
+ WX → WR
+
+Y:
+ JY → JI 
+
+Z:
+ DZ → DT
+ FZ → FS
+ GZ → GT
+ LZ → LW
+ MZ → MT
+ RZ → RW
+ SZ → SF
 ```
