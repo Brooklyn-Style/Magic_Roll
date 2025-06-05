@@ -68,7 +68,7 @@ Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfq
 
 `Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
 
-Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer. You could swap `'` and `?` to fix the `U'` SFB but I prefer it over the lateral pinky stretch.
+Punctuation is almost entirely on the inner index column except for `?`. I needed to make room for the repeat key so it got pushed to the outer pinky column, with the rest of the symbols being put on another layer. `U'` is a SFB so you could swap `'` and `?` to fix it but I prefer it over a lateral pinky stretch.
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
