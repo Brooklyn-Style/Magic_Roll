@@ -43,9 +43,7 @@ Without repeat or magic unless specified.
 
 ### <ins>Design:
 
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I liked the inrolls but wanted to fix the issues i had with it, namely, the `PNB` pinky and the vowel hand outrolls.
-
-The more I used the layout, the mor
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I wanted to make a layout tailored to my preferences so that I could stop layout hopping and searching for something better. Hyperroll's inrolls were nice but it had some things I didn't like, namely the `PNB` pinky, vowel hand outrolls, and `LD` LSB. The more I used the layout, the more my preferences developed 
 
 My goal was to make a layout with as few compromises as possible. I was still new to alt layouts so it took me a while to figure out my preferences but wasn't sure what those were, as I was still new to alt layouts
 
