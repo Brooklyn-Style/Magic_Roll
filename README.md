@@ -1,5 +1,5 @@
 # Magic Roll
-A handmade, alternative keyboard layout that uses multiple repeat and magic keys for a more comfortable and optimal typing experience.
+A handmade, alternative keyboard layout that uses a repeat key and multiple magic keys for a more comfortable and optimal typing experience.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -42,12 +42,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ### <ins>Design:
-
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I wanted to make a layout tailored to my preferences so that I could stop layout hopping and searching for something better. Hyperroll's inrolls were nice but it had some things I didn't like, namely the `PNB` pinky, vowel hand outrolls, and `LD` LSB. The more I used the layout, the more my preferences developed 
-
-My goal was to make a layout with as few compromises as possible. I was still new to alt layouts so it took me a while to figure out my preferences but wasn't sure what those were, as I was still new to alt layouts
-
-tried out different things, outrolls, inner column use and one-handed strings. I went through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve the layout further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I was still new to alt layouts when I started so I didn't know exactly what I wanted besides inrolls, comfort, and a layout that would make me stop searching for something better. I figured out early on that I disliked the `PNB` pinky, consonant-hand outrolls, and the `LD` LSB. I also wasn't a fan of `G` or `J`'s placements either, as `NG` is fairly common, and `GL` and `JO` are uncomfortable row jumps. I ended up going through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") before I had something I was happy with, then added repeat and magic to improve the layout further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
