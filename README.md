@@ -64,7 +64,7 @@ Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfq
 
 `X` and `J` almost never pair with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
 
-`H` is used the same way, but to get inrolls on the home row instead. Only a handful of letters are used though, as `H` pairs with more of the consonants. *E.g. `DH` → `DR`. `FH` → `FR`
+`H` is used the same way, but to get inrolls on the home row instead. Only a handful of letters are used though, as `H` pairs with more of the consonants. *E.g. `DH` → `DR`. `FH` → `FR`*
 
 `Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
 
@@ -74,11 +74,12 @@ Punctuation is almost entirely on the inner index column except for `?`. I neede
 
 This key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
-- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type. (I prefer to just use the right magic thumb key for this though).
-- `Backspace` after repeats or if more than 600ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type this way. (I prefer to just use the right magic thumb key for this though).
+- `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### *Right Half:*
 The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants:
+
 - `T` is the most used so it goes on the index.
 - `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
@@ -91,9 +92,9 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
-The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable.
+The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` on the bottom row makes `SM` a nice roll and pairs nicely with the rest of the index letters, except `B`, which gets fixed with magic. It's also the most common letter on the bottom row so it should be on the index.
 
-The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Magic makes these columns viable though, as you just have to fix `FL/LF` and `CR/RC`. You could swap `L` and `C` instead but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect.
+The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic makes them viable. You could swap `L` and `C` for marginally better stats but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect which wouldn't be worth it.
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are quite bothersome as well but swapping `P` with `K` or `B` could be a potential solution.
 
