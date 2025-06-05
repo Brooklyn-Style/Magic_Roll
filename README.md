@@ -52,7 +52,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep redirects and one-handed strings low. Additionally, `X`, `J`, and `Q` increase inrolls and take care of a couple SFBs.
+The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `J`, `H`, `X`, and `Q` increase inrolls and take care of a couple SFBs.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -62,7 +62,9 @@ The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes af
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
 </details>
 
-`X` and `J` almost never pair with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows.  *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
+`X` and `J` almost never pair with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
+
+`H` is used the same way, but to get inrolls on the home row instead. Only a handful of letters are used though, as `H` pairs with more of the consonants. *E.g. `DH` → `DR`. `FH` → `FR`
 
 `Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
 
