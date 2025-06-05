@@ -10,7 +10,7 @@ _ = Free Key (I have a layer key here)
 @ = Repeat
 ★ = Left Magic
 ☆ = Right Magic
-J, H, X, Q, B, G, K, F, and Z have magic functions
+J, H, X, Y, Q, B, G, M, F, P and Z have magic functions
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
