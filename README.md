@@ -52,7 +52,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `H` and `X` have magic functions to increase inrolls and lighten the right hand use.
+The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `X` and `H` have magic functions to increase inrolls and lighten the right hand use.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
