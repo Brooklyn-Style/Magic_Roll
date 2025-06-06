@@ -68,7 +68,7 @@ Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfq
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
-This key has a few exceptions:
+This key has a few exceptions though:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type this way. (I prefer to just use the right magic thumb key for this though).
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
