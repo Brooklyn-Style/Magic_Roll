@@ -106,8 +106,37 @@ Aside from all of the movement that this hand has to do, the pinky and SFSs in g
 ---
 
 ### <ins>Magic Functions:
-```
-★:
+| ★ | ☆ | B | F | G | H | J | M | P | Q | X | Y | Z |
+| :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |  :---: |
+| ★ → Shift           | ★☆ → U  | CB → CK | WF → WL | CG → CH | BH → BL | SJ → SS | FM → FL | BP → BV | @Q → @U   | ☆X → ☆L | JY → JI | DZ → DT |
+| ☆★ → ␣              | .☆ → .. | SB → SW |         | SG → SC | DH → DR | WJ → WN |         | DP → DV | BQ → BM   | @X → @A |         | FZ → FS |
+| .★ → ."             | A☆ → A. |         |         |         | FH → FR |         |         |         | BQ★ → BMI | BX → BR |         | GZ → GT |
+| ,★ → ,"             | C☆ → CC |         |         |         | KH → KN |         |         |         | LQ → LF   | CX → CR |         | LZ → LW |
+| ?★ → ?"             | D☆ → DM |         |         |         | LH → LL |         |         |         | WQ → WB   | DX → DW |         | MZ → MT |
+| !★ → !"             | E☆ → EY |         |         |         | MH → MP |         |         |         | XQ → XR   | FX → FL |         | RZ → RW |
+| @★ → @" ;@ = repeat | F☆ → FL |         |         |         |         |         |         |         |           | GX → GR |         | SZ → SF |
+| ★ → A               | G☆ → GM |         |         |         |         |         |         |         |           | KX → KT |         | TZ → TD |
+| (★ → (A             | H☆ → HH |         |         |         |         |         |         |         |           | LX → LV |         |         |
+| A★ → AU             | I☆ → IY |         |         |         |         |         |         |         |           | MX → MB |         |         |
+| B★ → BT             | J☆ → JO |         |         |         |         |         |         |         |           | PX → PR |         |         |
+| E★ → EO             | L☆ → LS |         |         |         |         |         |         |         |           | RX → RP |         |         |
+| H★ → H?             | M☆ → MP |         |         |         |         |         |         |         |           | SX → SP |         |         |
+| I★ → IQ             | N☆ → NV |         |         |         |         |         |         |         |           | TX → TW |         |         |
+| I★☆ → IQU           | O☆ → OX |         |         |         |         |         |         |         |           | WX → WR |         |         |
+| K★ → KG             | P☆ → PN |         |         |         |         |         |         |         |           |         |         |         |
+| L★ → LS             | Q☆ → QU |         |         |         |         |         |         |         |           |         |         |         |
+| M★ → MP             | R☆ → RC |         |         |         |         |         |         |         |           |         |         |         |
+| N★ → NP             | S☆ → SL |         |         |         |         |         |         |         |           |         |         |         |
+| O★ → OE             | T☆ → TR |         |         |         |         |         |         |         |           |         |         |         |
+| P★ → PV             | U☆ → U, |         |         |         |         |         |         |         |           |         |         |         |
+| Q★ → QI             | V☆ → VV |         |         |         |         |         |         |         |           |         |         |         |
+| R★ → RC             | X☆ → XH |         |         |         |         |         |         |         |           |         |         |         |
+| U★ → UA             |         |         |         |         |         |         |         |         |           |         |         |         |
+| V★ → VP             |         |         |         |         |         |         |         |         |           |         |         |         |
+| Y★ → YI             |         |         |         |         |         |         |         |         |           |         |         |         |
+| X★ → XI             |         |         |         |         |         |         |         |         |           |         |         |         |
+
+
  ★ → Shift
  ☆★ → ␣
  .★ → ." 
