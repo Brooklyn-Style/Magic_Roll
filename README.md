@@ -42,17 +42,17 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ### <ins>Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I wanted to keep the inrolls but wasn't sure of anything else. I quickly found out that I disliked both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After around two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something i was happy with then added repeat and magic to improve the layout further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I kept `H` +  the vowels together and experimented with everything else. I wanted to maintain the inrolls but wasn't sure of anything beyond that, as I was still new to alt layouts. I quickly realized I disliked both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After going through about two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something I was happy with, then added repeat and magic to improve it further.
 
 #### *Thumb Keys:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `J`, `H`, `X`, and `Q`'s magic functions increase inrolls and take care of a couple SFBs.
+The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `H` and `X` have magic functions to increase inrolls and lighten the right hand use.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -62,13 +62,9 @@ The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes af
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
 </details>
 
-`X` and `J` almost never pair with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`). `SJ` → `SW` (+ `AEIOU`)*
+`X` rarely pairs with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, but to get rolls on the home row instead. Only a handful of letters are used though, as `H` pairs with most of the other consonants. *E.g. `DH` → `DR`. `FH` → `FR`*
-
-`Q` fixes a few SFBs and uncomfortable patterns. *E.g. `BQ` → `BM`. `WQ` → `WB`*
-
-Punctuation is on the inner index column except for `?`. It got pushed to the outer pinky column to make room for the `repeat`. The rest of the symbols are on another layer. `U'` is a SFB but I don't mind it. Swapping it with `?` is a potential solution though.
+`H` does the same thing, just with less letters, as `H` pairs with most of the other consonants.
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
