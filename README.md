@@ -42,7 +42,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ### <ins>Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I wanted to keep the inrolls but wasn't sure of anything else. I quickly found out that I disliked both pinky columns and wasn't a fan of `G` or `J`'s placements either. I ended up going through about two dozen [iterations](layout_design_progression.md "Layout Design Progression") to get things just right, then added repeat and magic to improve the layout further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I wanted to keep the inrolls but wasn't sure of anything else. I quickly found out that I disliked both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After around two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something i was happy with then added repeat and magic to improve the layout further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs have been kept 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
