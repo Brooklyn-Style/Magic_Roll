@@ -46,7 +46,7 @@ Without repeat or magic unless specified.
 #### *Left Half:*
 The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low.
 
-`X` rarely pairs with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
+`X` basically never comes after a consonant so it's used to consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
 `H` does the same thing, just with less letters, as `H` pairs with most of the other consonants.
 
