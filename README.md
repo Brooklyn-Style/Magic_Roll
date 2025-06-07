@@ -8,9 +8,9 @@ A handmade keyboard layout that uses multiple magic keys to increase inrolls for
 
 _ = Free Key (I have a layer key here)
 @ = Repeat
-★ = Left Magic
-☆ = Right Magic
-J, H, X, Y, Q, B, G, M, F, P and Z have magic functions
+★ = Left thumb magic
+☆ = Right thumb magic
+J, H, X, Y, Q, B, G, M, F, P and Z have magic functions as well
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
