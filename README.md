@@ -43,14 +43,14 @@ Without repeat or magic unless specified.
 
 ## Design:
 
-#### *Thumbs:*
+#### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
-#### *Left Half:*
+#### <ins>*Left Half:*
 The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low.
 
 `X` basically never comes after a consonant so it's used to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
@@ -64,7 +64,7 @@ This key has a few exceptions though:
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type this way. (I prefer to just use the right magic thumb key for this though).
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
-#### *Right Half:*
+#### <ins>*Right Half:*
 The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants:
 
 - `T` is the most used so it goes on the index.
