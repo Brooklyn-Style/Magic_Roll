@@ -42,7 +42,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ### <ins>Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I kept `H` +  the vowels together and experimented with everything else. I wanted to maintain the inrolls but wasn't sure of anything beyond that, as I was still new to alt layouts. I quickly realized I disliked both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After going through about two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something I was happy with, then added repeat and magic to improve it further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I kept `H` + the vowels together and experimented with everything else. I wanted to maintain the inrolls but didn't know what I wanted beyond that. I quickly grew to dislike both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After a few months and two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something I was happy with, then added repeat and magic to improve it further.
 
 #### *Thumb Keys:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
@@ -52,7 +52,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU`setup is the best for inrolls, as `H` rarely comes after a vowel. No common consonants have been placed on this side either to keep outrolls and one-handed strings low. Additionally, `X` and `H` have magic functions to increase inrolls and lighten the right hand use.
+The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low. Additionally, `X` and `H` have magic functions to increase inrolls and lighten the right hand load.
 
 <details>
   <summary>Consonant → Vowel Roll Direction Chart:</summary>
@@ -78,7 +78,7 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 
 - `T` is the most used so it goes on the index.
 - `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
-- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll as well.
+- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
 
 <details>
   <summary>Consonant → Consonant Roll Direction Chart:</summary>
@@ -88,11 +88,11 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
 </details>
 
-The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` on the bottom row makes `SM` a nice roll and pairs nicely with the rest of the index letters, except `B`, which gets fixed with magic. It's also the most common letter on the bottom row so it should be on the index.
+The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the rest of the index letters, except `B`, but that gets fixed with magic. It's also the most common letter on the bottom row so it's been placed on the index.
 
-The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic makes them viable. You could swap `L` and `C` for marginally better stats but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect which wouldn't be worth it.
+The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic saves the day again. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
-The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are quite bothersome as well but swapping `P` with `K` or `B` could be a potential solution.
+The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 Aside from all of the movement that this hand has to do, the pinky and SFSs in general are this layout's biggest downsides
 
@@ -100,7 +100,7 @@ Aside from all of the movement that this hand has to do, the pinky and SFSs in g
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
-- [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram, trigram, etc. frequencies
+- [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram and trigram frequencies
 - [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 
 ---
