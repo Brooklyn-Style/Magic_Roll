@@ -8,19 +8,19 @@ A handmade keyboard layout that uses multiple magic keys to increase inrolls for
 
 _ = Free Key (I have a layer key here)
 @ = Repeat
-★ = Left thumb magic
-☆ = Right thumb magic
+★/☆ = Magic
+
 J, H, X, Y, Q, B, G, M, F, P and Z have magic functions as well
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
-  - [Thumb Keys](#thumb-keys)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
-  - [Tools Used](#tools-used) 
+  - [Thumbs](#thumbs)
 - [Magic Functions](#magic-functions)
+- [Tools Used](#tools-used)
 ---
 <details>
   <summary><h2>Stats:</h2></summary>
@@ -41,26 +41,10 @@ Without repeat or magic unless specified.
 **Typing Test:**
 ![typing test](images/typing%20test.jpg)
 
-### <ins>Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I kept `H` + the vowels together and experimented with everything else. I wanted to maintain the inrolls but didn't know what I wanted beyond that. I quickly grew to dislike both pinky columns and wasn't a fan of `D`, `G`, or `J`'s placements either. After a few months and two dozen [iterations](layout_design_progression.md "Layout Design Progression"), I had something I was happy with, then added repeat and magic to improve it further.
-
-#### *Thumb Keys:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
-
-In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
-
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
+## Design:
 
 #### *Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low. Additionally, `X` and `H` have magic functions to increase inrolls and lighten the right hand load.
-
-<details>
-  <summary>Consonant → Vowel Roll Direction Chart:</summary>
-  
-![Roll Direction Chart](images/Roll%20Direction%20Chart.jpg "Roll Direction Chart")
-
-Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.b3afrbm4ggth "Keyboard Layouts Google Doc")
-</details>
+The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low.
 
 `X` rarely pairs with the other consonants so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
@@ -94,9 +78,14 @@ The `LSF` and `CRW` columns are a little questionable but with nearly all of the
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
-Aside from all of the movement that this hand has to do, the pinky and SFSs in general are this layout's biggest downsides
+#### *Thumbs:*
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
 
-### <ins>Tools Used:
+In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
+
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
+
+## Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
