@@ -16,9 +16,9 @@ J, H, X, Y, Q, B, G, M, F, P and Z have magic functions as well
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
+  - [Thumbs](#thumbs)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
-  - [Thumbs](#thumbs)
 - [Magic Functions](#magic-functions)
 - [Tools Used](#tools-used)
 ---
@@ -43,10 +43,17 @@ Without repeat or magic unless specified.
 
 ## Design:
 
+#### *Thumbs:*
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
+
+In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
+
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
+
 #### *Left Half:*
 The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low.
 
-`X` basically never comes after a consonant so it's used to consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
+`X` basically never comes after a consonant so it's used to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
 `H` does the same thing, just with less letters, as `H` pairs with most of the other consonants.
 
@@ -77,13 +84,6 @@ The `BGK` inner index column was set up like this put `NG` on the home row and `
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic saves the day again. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
-
-#### *Thumbs:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
-
-In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
-
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 ## Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
