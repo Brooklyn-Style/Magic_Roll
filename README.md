@@ -14,35 +14,35 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well. A list of every funct
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
+- [Magic Functions](#magic-functions)
 - [Stats](#stats)
 - [Design](#design)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
   - [Thumbs](#thumbs)
-- [Magic Functions](#magic-functions)
 - [Tools Used](#tools-used)
 ---
 <details>
   <summary><h2>Magic Functions:</h2></summary>
   
-  ```
-★:          ☆:          B:          X:
+```
+★:          ☆:         B:           X:
 ★ → Shift   -------     CB → CK     ☆X → ☆L
 ☆★ → ␣     ★☆ → U     SB → SW     @X → @A
-.★ → ."     .☆ → ..     -------     BX → BR
+.★ → ."     .☆ → ..    -------      BX → BR
 ,★ → ,"     -------     F:           CX → CR
 ?★ → ?"     -------     WF → WL      DX → DW
 !★ → !"     -------     -------      FX → FL
 @★ → @"     -------     G:           GX → GR
 "★ → "A     -------     CG → CH      KX → KT
 (★ → (A     -------     SG → SC      PX → PR
-A★ → AU     A☆ → A.     -------     RX → RP
+A★ → AU     A☆ → A.    -------      RX → RP
 B★ → BT     -------     H:           TX → TW
 -------     C☆ → CC     BH → BL      WX → WR
 -------     D☆ → DM     DH → DR
 E★ → EO     E☆ → EY     FH → FR     Y:
--------     F☆ → FL     KH → KNJ     Y → JI 
--------     G☆ → GM     LH → LL     -------
+-------     F☆ → FL     KH → KN      Y → JI 
+-------     G☆ → GM     LH → LL      ------
 H★ → H?     H☆ → HH     MH → MP     Z:
 I★ → IQ     I☆ → IY     -------     DZ → DT
 -------     J☆ → JO     J:           FZ → FS
