@@ -55,11 +55,11 @@ The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outr
 
 `X` basically never comes after a consonant so it's used to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, just with less letters, as `H` pairs with most of the other consonants.
+`H` does the same thing, just with less letters, as it pairs with most of the other consonants.
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
-This key has a few exceptions though:
+This key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type this way. (I prefer to just use the right magic thumb key for this though).
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
@@ -70,14 +70,6 @@ The right half was arranged around the `TSRN` home keys, as these are the most [
 - `T` is the most used so it goes on the index.
 - `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
-
-<details>
-  <summary>Consonant → Consonant Roll Direction Chart:</summary>
-  
-![Roll Direction Chart2](images/Roll%20Direction%20Chart2.jpg "Roll Direction Chart")
-
-Source: [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o/edit?tab=t.2yb5bwiy1wa8#heading=h.wg1f0t5cod2o "Keyboard Layouts Google Doc")
-</details>
 
 The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the rest of the index letters, except `B`, but that gets fixed with magic. It's also the most common letter on the bottom row so it's been placed on the index.
 
