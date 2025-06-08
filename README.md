@@ -54,18 +54,20 @@ K★ → KG     --------     --------    TX → TW
 L★ → LS     L☆ → LS     J:          WX → WR 
 M★ → MP     M☆ → MP     --------    --------  
 N★ → NP     N☆ → NV     SJ → SS     Y:
-O★ → OE     O☆ → OX     --------    JY → JI
-P★ → PV     P☆ → PN     M:          --------               
-Q★ → QI     Q☆ → QU     --------    Z:            
-R★ → RC     R☆ → RC     FM → FL     --------    
---------     S☆ → SL     --------    DZ → DT           
---------     T☆ → TR     P:          FZ → FS
-U★ → UA     U☆ → U,     --------    GZ → GT
-V★ → VP     V☆ → VV     BP → BV     LZ → LW    
-X★ → XI     X☆ → XH     DP → DV     MZ → MT
-Y★ → YI     --------     --------    RZ → RW       
+O★ → OE     O☆ → OX     --------    --------
+P★ → PV     P☆ → PN     M:          JY → JI              
+Q★ → QI     Q☆ → QU     --------    --------            
+R★ → RC     R☆ → RC     FM → FL     Z:   
+--------     S☆ → SL     --------    --------           
+--------     T☆ → TR     P:         DZ → DT 
+U★ → UA     U☆ → U,     --------    FZ → FS
+V★ → VP     V☆ → VV     BP → BV     GZ → GT   
+X★ → XI     X☆ → XH     DP → DV     LZ → LW   
+Y★ → YI     --------     --------    MZ → MT         
+--------     --------     --------    RZ → RW    
 --------     --------     --------    SZ → SF
 --------     --------     --------    TZ → TD
+
 ```
 
 </details>
