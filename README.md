@@ -62,9 +62,7 @@ U★ → UA     U☆ → U,                             RZ → RW
 V★ → VP     V☆ → VV                             SZ → SF
 X★ → XI     X☆ → XH                             TZ → TD
 Y★ → YI     --------
-
 ```
-
 </details>
 
 ---
