@@ -25,110 +25,45 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well. A list of every funct
 <details>
   <summary><h2>Magic Functions:</h2></summary>
   
+  ```
+★:          ☆:          B:          X:
+★ → Shift   -------     CB → CK     ☆X → ☆L
+☆★ → ␣     ★☆ → U     SB → SW     @X → @A
+.★ → ."     .☆ → ..     -------     BX → BR
+,★ → ,"     -------     F:           CX → CR
+?★ → ?"     -------     WF → WL      DX → DW
+!★ → !"     -------     -------      FX → FL
+@★ → @"     -------     G:           GX → GR
+"★ → "A     -------     CG → CH      KX → KT
+(★ → (A     -------     SG → SC      PX → PR
+A★ → AU     A☆ → A.     -------     RX → RP
+B★ → BT     -------     H:           TX → TW
+-------     C☆ → CC     BH → BL      WX → WR
+-------     D☆ → DM     DH → DR
+E★ → EO     E☆ → EY     FH → FR     Y:
+-------     F☆ → FL     KH → KNJ     Y → JI 
+-------     G☆ → GM     LH → LL     -------
+H★ → H?     H☆ → HH     MH → MP     Z:
+I★ → IQ     I☆ → IY     -------     DZ → DT
+-------     J☆ → JO     J:           FZ → FS
+K★ → KG     -------     SJ → SS      GZ → GT
+L★ → LS     L☆ → LS     -------     LZ → LW
+M★ → MP     M☆ → MP     M:          MZ → MT
+N★ → NP     N☆ → NV     FM → FL     RZ → RW
+O★ → OE     O☆ → OX     -------     SZ → SF
+P★ → PV     P☆ → PN     P:          TZ → TD 
+Q★ → QI     Q☆ → QU     BP → BV
+R★ → RC     R☆ → RC     DP → DV
+-------      S☆ → SL     -------
+-------      T☆ → TR    Q:
+U★ → UA     U☆ → U,     @Q → @U
+V★ → VP     V☆ → VV     BQ → BM
+X★ → XI     X☆ → XH     LQ → LF
+Y★ → YI     -------      WQ → WB
+-------      -------     XQ → XR
+         
 ```
-★:          ☆:
-★ → Shift
-☆★ → ␣      ★☆ → U
-.★ → ."      .☆ → ..
-,★ → ,"
-?★ → ?"
-!★ → !"
-@★ → @"
-"★ → "A
-(★ → (A
-A★ → AU     A☆ → A.
-B★ → BT
---------     C☆ → CC
---------     D☆ → DM
-E★ → EO     E☆ → EY
-             F☆ → FL
-             G☆ → GM
-H★ → H?     H☆ → HH
-I★ → IQ     I☆ → IY
-             J☆ → JO
-K★ → KG
-L★ → LS     L☆ → LS
-M★ → MP     M☆ → MP
-N★ → NP     N☆ → NV
-O★ → OE     O☆ → OX
-P★ → PV     P☆ → PN
-Q★ → QI     Q☆ → QU
-R★ → RC     R☆ → RC
-             S☆ → SL
-             T☆ → TR
-U★ → UA     U☆ → U,
-V★ → VP     V☆ → VV
-Y★ → YI	
-X★ → XI     X☆ → XH
 
-B:
- CB → CK
- SB → SW
-
-F:
- WF → WL
-
-G:
- CG → CH
- SG → SC
-
-H:
- BH → BL
- DH → DR
- FH → FR
- KH → KN
- LH → LL
- MH → MP
- 
-J:
- SJ → SS
- WJ → WN
-
-M:
- FM → FL 
-
-P:
- BP → BV
- DP → DV
-
-Q:
- @Q → @U
- BQ → BM
-  BQ★ → BMI
- LQ → LF
- WQ → WB
- XQ → XR
-
-X:
- ☆X → ☆L
- @X → @A
- BX → BR
- CX → CR
- DX → DW
- FX → FL
- GX → GR
- KX → KT
- LX → LV
- MX → MB
- PX → PR
- RX → RP
- SX → SP
- TX → TW
- WX → WR
-
-Y:
- JY → JI 
-
-Z:
- DZ → DT
- FZ → FS
- GZ → GT
- LZ → LW
- MZ → MT
- RZ → RW
- SZ → SF
- TZ → TD
-```
 </details>
 
 ---
