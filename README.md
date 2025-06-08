@@ -47,17 +47,17 @@ E★ → EO     E☆ → EY     --------    --------     TX → TW
 ---------   G☆ → GM      H:         Q:           --------
 H★ → H?     H☆ → HH     --------   --------
 I★ → IQ     I☆ → IY     BH → BL     @Q → @U     Y:
---------    J☆ → JO      LH → LL    BQ → BM      --------
-K★ → KG     --------     DH → DR    LQ → LF      JY → JI
-L★ → LS     L☆ → LS     FH → FR     WQ → WB     --------
-M★ → MP     M☆ → MP     KH → KN     XQ → XR
-N★ → NP     N☆ → NV     LH → L                  Z:
-O★ → OE     O☆ → OX     MH → MP                 --------
+--------    J☆ → JO      DH → DR    BQ → BM      --------
+K★ → KG     --------     FH → FR    LQ → LF      JY → JI
+L★ → LS     L☆ → LS     KH → KN     WQ → WB     --------
+M★ → MP     M☆ → MP     LH → LL     XQ → XR
+N★ → NP     N☆ → NV     MH → MP                 Z:
+O★ → OE     O☆ → OX                             --------
 P★ → PV     P☆ → PN                             DZ → DT
 Q★ → QI     Q☆ → QU                             FZ → FS
 R★ → RC     R☆ → RC                             GZ → GT
---------    S☆ → SL                             LZ → LW
---------    T☆ → TR                             MZ → MT
+--------    S☆ → SL                              LZ → LW
+--------    T☆ → TR                              MZ → MT
 U★ → UA     U☆ → U,                             RZ → RW
 V★ → VP     V☆ → VV                             SZ → SF
 X★ → XI     X☆ → XH                             TZ → TD
