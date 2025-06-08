@@ -51,17 +51,17 @@ H★ → H?     H☆ → HH     LH → LL    BQ → BM      --------
 I★ → IQ     I☆ → IY     DH → DR    LQ → LF      JY → JI
 --------     J☆ → JO    FH → FR    WQ → WB      --------
 K★ → KG     --------    KH → KN    XQ → XR
-L★ → LS     L☆ → LS     LH → LL
-M★ → MP     M☆ → MP     MH → MP                 Z:
-N★ → NP     N☆ → NV                             --------
-O★ → OE     O☆ → OX                             DZ → DT
-P★ → PV     P☆ → PN                             FZ → FS
-Q★ → QI     Q☆ → QU                             GZ → GT
-R★ → RC     R☆ → RC                             LZ → LW
---------     S☆ → SL                            MZ → MT
---------     T☆ → TR                            RZ → RW
-U★ → UA     U☆ → U,                             SZ → SF
-V★ → VP     V☆ → VV                             TZ → TD 
+L★ → LS     L☆ → LS     LH → LL                 Z:
+M★ → MP     M☆ → MP     MH → MP                 --------
+N★ → NP     N☆ → NV                             DZ → DT
+O★ → OE     O☆ → OX                             FZ → FS
+P★ → PV     P☆ → PN                             GZ → GT
+Q★ → QI     Q☆ → QU                             LZ → LW
+R★ → RC     R☆ → RC                             MZ → MT
+--------     S☆ → SL                            RZ → RW
+--------     T☆ → TR                            SZ → SF
+U★ → UA     U☆ → U,                             TZ → TD 
+V★ → VP     V☆ → VV                             
 X★ → XI     X☆ → XH
 Y★ → YI     --------      
 --------     --------
