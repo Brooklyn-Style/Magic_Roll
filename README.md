@@ -27,32 +27,39 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well. A list of every funct
   
 ```
 ★:          ☆:
-★ → Shift   ★☆ → U
-☆★ → ␣     .☆ → ..
-.★ → ."     A☆ → A.
-,★ → ,"     C☆ → CC
-?★ → ?"     D☆ → DM
-!★ → !"     E☆ → EY
-@★ → @"     F☆ → FL
-"★ → "A     G☆ → GM
-(★ → (A     H☆ → HH
-A★ → AU     I☆ → IY
-B★ → BT     J☆ → JO
-E★ → EO     L☆ → LS
-H★ → H?     M☆ → MP
-I★ → IQ     N☆ → NV
-K★ → KG     O☆ → OX
-L★ → LS     P☆ → PN
-M★ → MP     Q☆ → QU
-N★ → NP     R☆ → RC
-O★ → OE     S☆ → SL
-P★ → PV     T☆ → TR
-Q★ → QI     U☆ → U,
-R★ → RC     V☆ → VV
-U★ → UA     X☆ → XH
-V★ → VP	
+★ → Shift
+☆★ → ␣      ★☆ → U
+.★ → ."      .☆ → ..
+,★ → ,"
+?★ → ?"
+!★ → !"
+@★ → @"
+"★ → "A
+(★ → (A
+A★ → AU     A☆ → A.
+B★ → BT
+--------     C☆ → CC
+--------     D☆ → DM
+E★ → EO     E☆ → EY
+             F☆ → FL
+             G☆ → GM
+H★ → H?     H☆ → HH
+I★ → IQ     I☆ → IY
+             J☆ → JO
+K★ → KG
+L★ → LS     L☆ → LS
+M★ → MP     M☆ → MP
+N★ → NP     N☆ → NV
+O★ → OE     O☆ → OX
+P★ → PV     P☆ → PN
+Q★ → QI     Q☆ → QU
+R★ → RC     R☆ → RC
+             S☆ → SL
+             T☆ → TR
+U★ → UA     U☆ → U,
+V★ → VP     V☆ → VV
 Y★ → YI	
-X★ → XI		
+X★ → XI     X☆ → XH
 
 B:
  CB → CK
