@@ -41,7 +41,7 @@ B★ → BT     -------     H:           TX → TW
 -------     C☆ → CC     BH → BL      WX → WR
 -------     D☆ → DM     DH → DR     -------
 E★ → EO     E☆ → EY     FH → FR     Y:
--------     F☆ → FL     KH → KN      Y → JI 
+-------     F☆ → FL     KH → KN      Y → JI
 -------     G☆ → GM     LH → LL      ------
 H★ → H?     H☆ → HH     MH → MP     Z:
 I★ → IQ     I☆ → IY     -------     DZ → DT
@@ -51,7 +51,7 @@ L★ → LS     L☆ → LS     -------     LZ → LW
 M★ → MP     M☆ → MP     M:          MZ → MT
 N★ → NP     N☆ → NV     FM → FL     RZ → RW
 O★ → OE     O☆ → OX     -------     SZ → SF
-P★ → PV     P☆ → PN     P:          TZ → TD 
+P★ → PV     P☆ → PN     P:          TZ → TD
 Q★ → QI     Q☆ → QU     BP → BV
 R★ → RC     R☆ → RC     DP → DV
 -------      S☆ → SL     -------
@@ -61,7 +61,7 @@ V★ → VP     V☆ → VV     BQ → BM
 X★ → XI     X☆ → XH     LQ → LF
 Y★ → YI     -------      WQ → WB
 -------      -------     XQ → XR
-         
+
 ```
 
 </details>
