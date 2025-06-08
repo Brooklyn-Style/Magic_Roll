@@ -39,7 +39,7 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well. A list of every funct
 A★ → AU     A☆ → A.    -------      RX → RP
 B★ → BT     -------     H:           TX → TW
 -------     C☆ → CC     BH → BL      WX → WR
--------     D☆ → DM     DH → DR
+-------     D☆ → DM     DH → DR     -------
 E★ → EO     E☆ → EY     FH → FR     Y:
 -------     F☆ → FL     KH → KN      Y → JI 
 -------     G☆ → GM     LH → LL      ------
