@@ -25,44 +25,47 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 
 <details>
   <summary><h2>Magic Functions:</h2></summary>
+
+```
+★:          ☆:           B:          F:          G:          H:          J:          M:          P:           Q:           X:
+--------     --------     --------    --------    --------    --------    --------    --------    --------     --------     --------
+★ → Shift   --------     CB → CK      WF → WL     CG → CH     BH → BL     SJ → SS     FM → FL     BP → BV     @Q → @U      ☆X → ☆L
+☆★ → ␣     ★☆ → U      SB → SW                  SG → SC     DH → DR     WJ → WN                 DP → DV     BQ → BM      @X → @A
+.★ → ."     .☆ → ..                                          FH → FR                                         LQ → LF       BX → BR
+,★ → ,"     --------                                          KH → KN                                         WQ → WB       CX → CR
+?★ → ?"     --------                                          LH → LL                                         XQ → XR       DX → DW
+!★ → !"     --------                                          MH → MP                                                       FX → FL
+@★ → @"     --------                                                                                                        GX → GR
+"★ → "A     --------                                                                                                        KX → KT
+(★ → (A     --------                                                                                                        LX → LV
+A★ → AU     A☆ → A.                                                                                                        MX → MB
+B★ → BT     --------                                                                                                        PX → PR
+--------    C☆ → CC                                                                                                         RX → RP
+--------    D☆ → DM                                                                                                         SX → SP
+E★ → EO     E☆ → EY                                                                                                        TX → TW
+--------    F☆ → FL                                                                                                         WX → WR
+--------    G☆ → GM                                                                                                         --------
+H★ → H?     H☆ → HH                                                                                                   
+I★ → IQ     I☆ → IY                                                                                                        Y:
+--------    J☆ → JO                                                                                                        -------- 
+K★ → KG     --------                                                                                                       JY → JI
+L★ → LS     L☆ → LS                                                                                                        --------
+M★ → MP     M☆ → MP                                                                                                    
+N★ → NP     N☆ → NV                                                                                                        Z:
+O★ → OE     O☆ → OX                                                                                                        --------
+P★ → PV     P☆ → PN                                                                                                        DZ → DT
+Q★ → QI     Q☆ → QU                                                                                                        FZ → FS
+R★ → RC     R☆ → RC                                                                                                        GZ → GT
+--------    S☆ → SL                                                                                                         LZ → LW
+--------    T☆ → TR                                                                                                         MZ → MT
+U★ → UA     U☆ → U,                                                                                                        RZ → RW
+V★ → VP     V☆ → VV                                                                                                        SZ → SF
+X★ → XI     X☆ → XH                                                                                                        TZ → TD
+Y★ → YI     --------                                                                                                       
+```
   
-```
-★:          ☆:           B:          J:          X:
---------     --------     --------    --------    --------
-★ → Shift   --------     CB → CK     SJ → SS     ☆X → ☆L
-☆★ → ␣     ★☆ → U      SB → SW     WJ → WN     @X → @A
-.★ → ."     .☆ → ..      --------    -------     BX → BR
-,★ → ,"     --------                              CX → CR
-?★ → ?"     --------     F:          M:           DX → DW
-!★ → !"     --------     --------    -------      FX → FL
-@★ → @"     --------     WF → WL     FM → FL      GX → GR
-"★ → "A     --------     --------    -------      KX → KT
-(★ → (A     --------                              LX → LV
-A★ → AU     A☆ → A.     G:          P:           MX → MB
-B★ → BT     --------     --------    --------     PX → PR
---------    C☆ → CC      CG → CH     BP → BV      RX → RP
---------    D☆ → DM      SG → SC     DP → DV      SX → SP
-E★ → EO     E☆ → EY     --------    --------     TX → TW
---------    F☆ → FL                               WX → WR
----------   G☆ → GM      H:         Q:            --------
-H★ → H?     H☆ → HH     --------   --------
-I★ → IQ     I☆ → IY     BH → BL     @Q → @U      Y:
---------    J☆ → JO      DH → DR    BQ → BM       --------
-K★ → KG     --------     FH → FR    LQ → LF       JY → JI
-L★ → LS     L☆ → LS     KH → KN     WQ → WB      --------
-M★ → MP     M☆ → MP     LH → LL     XQ → XR
-N★ → NP     N☆ → NV     MH → MP                  Z:
-O★ → OE     O☆ → OX                              --------
-P★ → PV     P☆ → PN                              DZ → DT
-Q★ → QI     Q☆ → QU                              FZ → FS
-R★ → RC     R☆ → RC                              GZ → GT
---------    S☆ → SL                               LZ → LW
---------    T☆ → TR                               MZ → MT
-U★ → UA     U☆ → U,                              RZ → RW
-V★ → VP     V☆ → VV                              SZ → SF
-X★ → XI     X☆ → XH                              TZ → TD
-Y★ → YI     --------
-```
+![magic](images/Untitled2.jpg)
+
 </details>
 
 ---
