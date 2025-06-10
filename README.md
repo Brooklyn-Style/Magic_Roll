@@ -63,11 +63,9 @@ V★ → VP     V☆ → VV                                                     
 X★ → XI     X☆ → XH                                                                   TZ → TD
 Y★ → YI     --------                                                                   --------
 ```
-
 </details>
 
 ---
-
 <details>
   <summary><h2>Stats:</h2></summary>
 Without repeat or magic unless specified.
@@ -90,11 +88,11 @@ Without repeat or magic unless specified.
 ## Design:
 
 #### <ins>*Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used since it's the best at minimizing outrolls. No common consonants have been placed on this side either for the same reason, and to keep one-handed strings low.
+The pinky `H` + `vowels` setup is used in conjunction with rare letters to minimize outrolls and one-handed strings.
 
-`X` almost never comes after a consonant so with magic it can be used to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
+`X` rarely comes after a consonant so with magic, consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, just with less letters, as it pairs with most of the other consonants.
+`H` does the same thing, just with less letters, as it *does* pair with 
 
 `Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
 
