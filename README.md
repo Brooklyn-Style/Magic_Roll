@@ -63,8 +63,6 @@ V★ → VP     V☆ → VV                                                     
 X★ → XI     X☆ → XH                                                                   TZ → TD
 Y★ → YI     --------                                                                   --------
 ```
-  
-![magic](images/Untitled2.jpg)
 
 </details>
 
