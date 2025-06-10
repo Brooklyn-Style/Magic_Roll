@@ -86,6 +86,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I kept `H` + the vowels together and experimented with everything else. I wanted to maintain the inrolls but didn't know what I wanted beyond that.
 
 #### <ins>*Left Half:*
 The pinky `H` + `vowels` setup is used in conjunction with rare letters to minimize outrolls and one-handed strings.
