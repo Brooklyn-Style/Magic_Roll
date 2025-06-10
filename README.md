@@ -61,7 +61,7 @@ R★ → RC     R☆ → RC                                                     
 U★ → UA     U☆ → U,                                                                   RZ → RW
 V★ → VP     V☆ → VV                                                                   SZ → SF
 X★ → XI     X☆ → XH                                                                   TZ → TD
-Y★ → YI     --------                                                                   --------                                                                                                      
+Y★ → YI     --------                                                                   --------
 ```
   
 ![magic](images/Untitled2.jpg)
