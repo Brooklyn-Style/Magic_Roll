@@ -29,7 +29,7 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 ```
 ★:          ☆:           B:          G:          J:          P:          Q:          X:
 --------     --------     --------    --------    --------    --------    --------    --------
-★ → Shift   --------     CB → CK     CG → CH     SJ → SS     BP → BV     @Q → @U     ☆X → ☆L
+★ → Shift   --------     CB → CK     CG → CH     MJ → MM     BP → BV     @Q → @U     ☆X → ☆L
 ☆★ → ␣     ★☆ → U      SB → SW     SG → SC     WJ → WN     DP → DV     BQ → BM     @X → @A
 .★ → ."     .☆ → ..      --------    --------    --------                LQ → LF     BX → BR
 ,★ → ,"     --------                                                     WQ → WB      CX → CR
@@ -96,13 +96,13 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-As is standard for these kinds of layouts, the pinky `H` + vowels setup is used since it has an 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner column for low SFBs. 
+The pinky `H` + vowels setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs. 
 
-`X` almost never comes after a consonant so consonant-hand outrolls can be turned into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
+`X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, just to a lesser degree, as it *does* pair with a majority of the consonants.
+`H` does the same thing, just to a lesser degree, as it pairs with a majority of the consonants.
 
-`Repeat` was put on the index, as opposed to the thumb sicne I didn't have a free key for it and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
+`Repeat` was put on the index, as opposed to the thumb since I didn't have a free key for it and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
 This key also has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
@@ -110,11 +110,7 @@ This key also has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants. 
-
-- `T` is the most used so it goes on the index.
-- `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
-- `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
+Just like the vowel side, the consonants have been setup for inrolls as well. `N` is the second most unidirectional letter after `H` so it's been placed on the pinky.
 
 The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" stat on the Cyanophage analyzer compared to the other possible arrangements. 
 
