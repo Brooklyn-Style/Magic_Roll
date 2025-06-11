@@ -54,7 +54,7 @@ M★ → MP     M☆ → MP
 N★ → NP     N☆ → NV                                                                   Z:
 O★ → OE     O☆ → OX                                                                   --------
 P★ → PV     P☆ → PN                                                                   DZ → DT
-Q★ → QI     Q☆ → IQU                                                                  FZ → FS
+Q★ → QI     Q☆ → QU                                                                   FZ → FS
 R★ → RC     R☆ → RC                                                                   GZ → GT
 --------    S☆ → SL                                                                    LZ → LW
 --------    T☆ → TR                                                                    MZ → MT
@@ -86,7 +86,14 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-Inspired by layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu"), Magic Roll puts all of the common consonants on one side to minimize outrolls, then uses magic to increase inrolls and avoid SFBs.
+Inspired by layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu"), Magic Roll puts most of the consonants on one side to minimize outrolls, then uses magic to increase inrolls.
+
+#### <ins>*Thumbs:*
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
+
+In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
+
+If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
 As is standard for these kinds of layouts, the pinky `H` + vowels setup is used since it has an 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner column for low SFBs. 
@@ -116,13 +123,6 @@ Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic saves the day again. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
-
-#### <ins>*Thumbs:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
-
-In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
-
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 ## Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
