@@ -82,11 +82,11 @@ Without repeat or magic unless specified.
 </details>
 
 ---
-**Typing Test:**
+### Typing Test:
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-Inspired by layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu"), Magic Roll builds upon their ideas by moving all of the common consonants to one side to minimize outrolls, then uses magic to increase inrolls and avoid SFBs.
+Inspired by layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu"), Magic Roll puts all of the common consonants on one side to minimize outrolls, then uses magic to increase inrolls and avoid SFBs.
 
 #### <ins>*Left Half:*
 As is standard for these kinds of layouts, the pinky `H` + vowels setup is used since it has an 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner column for low SFBs. 
@@ -95,21 +95,23 @@ As is standard for these kinds of layouts, the pinky `H` + vowels setup is used 
 
 `H` does the same thing, just to a lesser degree, as it *does* pair with a majority of the consonants.
 
-`Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side. This placement doesn't really cause any problems though, as the new SFBs can be fixed with magic or alt-fingering. 
+`Repeat` was put on the index, as opposed to the thumb sicne I didn't have a free key for it and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
-This key has a few exceptions:
+This key also has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
-- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type this way. (I prefer to just use the right magic thumb key for this though).
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type. (I prefer to just use the right magic thumb key for this though).
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants:
+The right half was arranged around the `TSRN` home keys, as these are the most [frequently](https://norvig.com/mayzner.html#:~:text=electrocardiographic%0Ainstitutionalization%09%09%20uncharacteristically-,Letter%20Counts,-Enough%20of%20words "Norvig Letter Frequency Chart") used consonants. 
 
 - `T` is the most used so it goes on the index.
 - `S` and `R` go on the middle and ring to make `ST` and `RS` inrolls.
 - `N` pairs with every letter so putting it on the pinky makes every letter that follows an inroll.
 
-The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the rest of the index letters, except `B`, but that gets fixed with magic. It's also the most common letter on the bottom row so it's been placed on the index.
+The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" stat on the Cyanophage analyzer compared to the other possible arrangements. 
+
+Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the rest of the index letters in terms of SFBs, except for `B`, but that gets fixed with magic.
 
 The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic saves the day again. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
