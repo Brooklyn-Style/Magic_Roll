@@ -96,7 +96,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-The pinky `H` + vowels setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs.
+The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
