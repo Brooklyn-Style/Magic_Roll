@@ -86,7 +86,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-Inspired by layouts like [Hieamtsrn](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.ojttb28dodph "Hieamtsrn") and [Hands Down Neu](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu"), Magic Roll puts most of the consonants on one side to minimize outrolls, then uses magic to increase inrolls.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. My goal was to make a more comfortable inroll layout so that I could stop searching for something better, then use repeat and magic to improve it further.
 
 #### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
