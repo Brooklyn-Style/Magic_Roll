@@ -20,7 +20,6 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
   - [Thumbs](#thumbs)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
-
 - [Tools Used](#tools-used)
 ---
 
