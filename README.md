@@ -89,7 +89,7 @@ Without repeat or magic unless specified.
 Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. My goal was to make an inroll layout tailored to my preferences so that I could stop searching for something better, then add repeat and magic to improve it further. 
 
 #### <ins>*Thumbs:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
+Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
@@ -106,7 +106,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rar
 
 This key also has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
-- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type. (I prefer to just use the right magic thumb key for this though).
+- `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
