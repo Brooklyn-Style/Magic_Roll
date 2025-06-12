@@ -96,7 +96,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-The pinky `H` + vowels setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs. 
+The pinky `H` + vowels setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
@@ -110,7 +110,9 @@ This key also has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-Just like the vowel side, the consonants have been set up for inrolls as well. `N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky.
+All of the common consonants have been placed on this side to minimize outrolls and one-handed strings.
+
+`N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky.
 
 The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" stat on the Cyanophage analyzer compared to the other possible arrangements. 
 
