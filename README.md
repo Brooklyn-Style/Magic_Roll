@@ -36,7 +36,7 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 ?★ → ?"     --------     F:          H:          M:                      XQ → XR      DX → DW
 !★ → !"     --------     --------    --------    --------                             FX → FL
 @★ → @"     --------     WF → WL     BH → BL     FM → FL                              GX → GR
-"★ → "A     --------                 DH → DR                                          KX → KT
+"★ → "A     --------     VF → VL     DH → DR                                          KX → KT
 (★ → (A     --------                 FH → FR                                          LX → LV
 A★ → AU     A☆ → A.                  KH → KN                                          MX → MB
 B★ → BT     --------                 LH → LL                                          PX → PR
@@ -110,15 +110,15 @@ This key also has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-All of the common consonants have been placed on this side to minimize outrolls and one-handed strings.
+All of the common consonants have been placed on this side to minimize outrolls and one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the uncomfortable 2U row jumps.
 
-`N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky.
+`N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but they've still been arranged to make the most common bigrams inrolls.
 
-The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" stat on the Cyanophage analyzer compared to the other possible arrangements. 
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls but it's better than overloading the pinky like Hyperroll does.
 
-Having `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the rest of the index letters in terms of SFBs, except for `B`, but that gets fixed with magic.
+`D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
 
-The `LSF` and `CRW` columns are a little questionable but with nearly all of the consonants on this side, there weren't many other options. Thankfully, magic saves the day again. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
+The `LSF` and `CRW` columns are a little questionable but with all the consonants on this side, there weren't many other options. You could swap `L` and `C` though for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
