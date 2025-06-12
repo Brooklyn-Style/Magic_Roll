@@ -86,7 +86,7 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. My goal was to make a more comfortable inroll layout so that I could stop searching for something better, then use repeat and magic to improve it further.
+Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. My goal was to make an inroll layout tailored to my preferences so that I could stop searching for something better, then add repeat and magic to improve it further. 
 
 #### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures you won't get banned from typing websites either.
@@ -110,7 +110,7 @@ This key also has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-Just like the vowel side, the consonants have been setup for inrolls as well. `N` is the second most unidirectional letter after `H` so it's been placed on the pinky.
+Just like the vowel side, the consonants have been set up for inrolls as well. `N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky.
 
 The `BGK` inner index column was set up like this put `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" stat on the Cyanophage analyzer compared to the other possible arrangements. 
 
