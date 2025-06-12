@@ -17,9 +17,10 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 - [Magic Functions](#magic-functions)
 - [Stats](#stats)
 - [Design](#design)
+  - [Thumbs](#thumbs)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
-  - [Thumbs](#thumbs)
+
 - [Tools Used](#tools-used)
 ---
 
