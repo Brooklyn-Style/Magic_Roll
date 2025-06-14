@@ -58,12 +58,12 @@ F22 = W + Magic
 
 ![23](layout_design_progression/23.png)
 
-![24](layout_design_progression/24.jpg)
-
 ![final](layout_design_progression/finallayout.jpg)
+
+I realized pretty late that I didn't have to use F keys for magic
 
 F13 = Repeat
 
-F14 = Right Thumb Magic
+F14 = Right Magic
 
 (TD11) = `'` on tap. `-` on hold. `"` on double tap
