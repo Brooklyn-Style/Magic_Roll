@@ -62,28 +62,8 @@ F22 = W + Magic
 
 ![final](layout_design_progression/final.jpg)
 
-F13 = Magic
+F13 = Repeat
 
-F14 = Repeat
-
-F15 = X + Magic
-
-F16 = J + Magic
-
-F17 = Q + Magic
-
-F18 = Z + Magic
-
-F19 = B + Magic
-
-F20 = C + Magic
-
-F21 = G + Magic
-
-F22 = H + Magic
-
-F23 = K + Magic
-
-F24 = Shift + Magic
+F14 = Right Thumb Magic
 
 (TD11) = `'` on tap. `-` on hold. `"` on double tap
