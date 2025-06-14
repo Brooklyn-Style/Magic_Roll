@@ -31,14 +31,14 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 --------     --------     --------    --------    --------    --------    --------    --------
 ★ → Shift   --------     CB → CK     CG → CH     MJ → MM     BP → BV     @Q → @U     ☆X → ☆L
 ☆★ → ␣     ★☆ → U      SB → SW     SG → SC     SJ → SS     DP → DV     BQ → BM     @X → @A
-.★ → ."     .☆ → ..      --------    --------   WJ → WN                 LQ → LF      BX → BR
+.★ → ."     .☆ → ..      --------    --------    WJ → WN                LQ → LF      BX → BR
 ,★ → ,"     --------                             --------                WQ → WB      CX → CR
 ?★ → ?"     --------     F:          H:                                  XQ → XR      DX → DW
 !★ → !"     --------     --------    --------    M:                                   FX → FL
 @★ → @"     --------     WF → WL     BH → BL     --------                             GX → GR
 "★ → "A     --------     VF → VL     DH → DR     FM → FL                              KX → KT
 (★ → (A     --------                 FH → FR                                          LX → LV
-A★ → AU     A☆ → A.                  KH → KN                                         MX → MB
+A★ → AU     A☆ → A.                 KH → KN                                          MX → MB
 B★ → BT     --------                 LH → LL                                          PX → PR
 --------    C☆ → CC                  MH → MP                                          RX → RP
 --------    D☆ → DM                                                                   SX → SP
