@@ -93,7 +93,7 @@ Each thumb has a magic key that's used to eliminate most SFBs and make certain p
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will be something a little less useful like fixing the same (or different) SFB, or an awkward pattern. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
+If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
 The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs.
@@ -102,7 +102,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rar
 
 `H` does the same thing, just to a lesser degree, as it pairs with a majority of the consonants.
 
-`Repeat` was put on the index, as opposed to the thumb since I didn't have a free key for it and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
+`Repeat` was put on the index since I didn't have a free thumb key for it and wasn't willing to give up magic on either side This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
 This key also has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
