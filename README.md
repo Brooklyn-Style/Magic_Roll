@@ -86,17 +86,15 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-Using [Hyperroll](https://docs.google.com/document/d/1_a5Nzbkwyk1o0bvTctZrtgsee9jSP-6I0q3A0_9Mzm0/edit?tab=t.0#heading=h.an6umzmpc3dj "Hyperroll Keyboard Layout") as a starting point, I experimented with everything except for `H` and the vowels. I didn't know what I wanted beyond inrolls and comfort at first so I tweaked the layout accordingly. As I figured out my preferences, I aimed for minimal outrolls, redirects, and one-handed strings, within reason, and then implemented repeat and magic to improve the layout further. 
-
 #### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
-If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `L★` → `LS` `Q☆` → `QU`*. `☆ → Space` SFBs can be avoided this way.
+If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `Q☆` → `QU` `L★` → `LS`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rare letters then fill the rest of this side, with punctuation being placed on the inner index column for low SFBs.
+The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. J, X and Q then fill the rest of this side to minimize outrolls and redirects, with punctuation being placed on the inner index column for low SFBs.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
@@ -104,13 +102,13 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. Rar
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
-This key also has a few exceptions:
+This key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-All of the common consonants have been placed on this side to minimize outrolls and one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the uncomfortable 2U row jumps.
+All of the common consonants have been placed on this side to minimize one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the uncomfortable 2U row jumps.
 
 `N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but they've still been arranged to make the most common bigrams inrolls.
 
