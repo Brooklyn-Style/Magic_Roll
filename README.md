@@ -1,5 +1,5 @@
 # Magic Roll
-A handmade keyboard layout that uses repeat and a dozen magic keys to increase inrolls for a more comfortable typing experience.
+A handmade, alternative keyboard layout that uses repeat and a dozen magic keys to increase inrolls for a more comfortable typing experience.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -41,7 +41,7 @@ J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
 A★ → AU     A☆ → A.                 KH → KN                                          MX → MB
 B★ → BT     --------                 LH → LL                                          PX → PR
 --------    C☆ → CC                  MH → MP                                          RX → RP
---------    D☆ → DM                                                                   SX → SP
+--------    D☆ → DM                  RH → RR                                          SX → SP
 E★ → EO     E☆ → EY                                                                  TX → TW
 --------    F☆ → FL                                                                   WX → WR
 --------    G☆ → GM                                                                   --------
@@ -86,6 +86,13 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
+
+#### <ins>*Goals:*
+- Low outrolls
+- Low redirects
+- Low one-handed strings
+- Low scissors
+
 #### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
@@ -94,11 +101,11 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `Q☆` → `QU` `L★` → `LS`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X` and `Q` then fill the rest of this side to minimize outrolls and redirects, with punctuation being placed on the inner index column for low SFBs.
+The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X`, and `Q` then complete the pinky and ring columns, with punctuation being placed on the inner index for low SFBs. 
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, just to a lesser degree, as it pairs with a majority of the consonants.
+`H` does the same thing, just to a lesser degree since it *does* pair with most of the other consonants.
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
@@ -108,11 +115,11 @@ Additionally, this key has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-Almost all of the consonants have been placed on this side to minimize one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the remaining uncomfortable 2U row jumps.
+Almost all of the consonants have been placed on this side to minimize one-handed strings and outrolls, with the top row being preferred to keep scissors low. Magic is then used to mitigate the remaining uncomfortable 2U row jumps.
 
-`N` is similar to `H` in that it comes before another consonant the majority of the time so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but they've still been arranged to make the most common bigrams inrolls.
+`N` is similar to `H` in that it usually comes before a consonant so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls.
 
-The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls but it's better than overloading the pinky like some other layouts do.
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. Even though this placement *does* lose some inrolls, it's better than overloading the pinky like some other layouts do.
 
 `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
 
