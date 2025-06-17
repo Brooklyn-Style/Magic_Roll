@@ -94,7 +94,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `Q☆` → `QU` `L★` → `LS`*. `☆ → Space` SFBs can be avoided this way.
 
 #### <ins>*Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. J, X and Q then fill the rest of this side to minimize outrolls and redirects, with punctuation being placed on the inner index column for low SFBs.
+The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X` and `Q` then fill the rest of this side to minimize outrolls and redirects, with punctuation being placed on the inner index column for low SFBs.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
@@ -102,17 +102,17 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. J, 
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
-This key has a few exceptions:
+Additionally, this key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
 - `Q@` → `QU`. `QQ` is even more uncommon and since `U` is two rows above `Q`, it becomes more comfortable to type.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-All of the common consonants have been placed on this side to minimize one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the uncomfortable 2U row jumps.
+Almost all of the consonants have been placed on this side to minimize one-handed strings, with the top row being prioritized to keep scissors low. Magic is then used to mitigate the remaining uncomfortable 2U row jumps.
 
-`N` is similar to `H` in that it usually comes before another consonant so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but they've still been arranged to make the most common bigrams inrolls.
+`N` is similar to `H` in that it comes before another consonant the majority of the time so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but they've still been arranged to make the most common bigrams inrolls.
 
-The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls but it's better than overloading the pinky like Hyperroll does.
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls but it's better than overloading the pinky like some other layouts do.
 
 `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
 
