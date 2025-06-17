@@ -58,10 +58,12 @@ F22 = W + Magic
 
 ![final](layout_design_progression/finallayout.jpg)
 
-I realized pretty late that I didn't have to use F keys for magic
+I realized pretty late that I didn't have to use F keys to make magic work
 
 F13 = Repeat
 
 F14 = Right Magic
 
 (TD11) = `'` on tap. `-` on hold. `"` on double tap
+
+(TD3) = '-' on tap. ':' on hold. '.' on double tap
