@@ -66,4 +66,4 @@ F14 = Right Magic
 
 (TD11) = `'` on tap. `-` on hold. `"` on double tap
 
-(TD3) = '-' on tap. ':' on hold. '.' on double tap
+(TD3) = `-` on tap. `:` on hold. `.` on double tap
