@@ -1,5 +1,3 @@
-![Hyperroll](layout_design_progression/hyperroll.jpg)
-
 ![1](layout_design_progression/1.png)
 
 ![2](layout_design_progression/2.png)
