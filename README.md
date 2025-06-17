@@ -86,13 +86,6 @@ Without repeat or magic unless specified.
 ![typing test](images/typing%20test.jpg)
 
 ## Design:
-
-#### <ins>*Goals:*
-- Low outrolls
-- Low redirects
-- Low one-handed strings
-- Low scissors
-
 #### <ins>*Thumbs:*
 Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
 
