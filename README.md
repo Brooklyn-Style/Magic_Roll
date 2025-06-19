@@ -101,7 +101,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BR` (+ `AEIOU`)*
 
-`H` does the same thing, just to a lesser degree since it *does* pair with most of the other consonants.
+`H` does the same thing, just to a lesser extent since it *does* pair with most of the other consonants.
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
