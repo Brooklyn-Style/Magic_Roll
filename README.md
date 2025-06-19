@@ -29,7 +29,7 @@ J, H, X, Y, Q, B, G, M, F, C, P and Z are magic keys as well.
 ```
 ★:          ☆:          @ (Rep):      G:          J:          P:          Q:          X:
 --------     --------    ---------     --------    --------    --------    --------    --------
-★ → Shift   --------    THE → Y       CG → CH     MJ → MM     BP → BV     @Q → @U     @X → @A
+★ → Shift   --------    THE@ → THEY   CG → CH     MJ → MM     BP → BV     @Q → @U     @X → @A
 ☆★ → ␣     ★☆ → U     ---------     PG → PH     RJ → RV     DP → DV     BQ → BM     BX → BR
 .★ → ."     .☆ → ..                   SG → SC     SJ → SS                LQ → LF      CX → CR
 ,★ → ,"     --------    B:            TG → TC     TJ → TG                 WQ → WB     DX → DW
@@ -38,10 +38,10 @@ J, H, X, Y, Q, B, G, M, F, C, P and Z are magic keys as well.
 @★ → @"     --------    SB → SW       M:                                              KX → KT
 "★ → "A     --------    --------      --------                                        LX → LV
 (★ → (A     --------                  FM → FL                                         MX → MB
-A★ → AU     A☆ → A.     C:           --------                                         M☆X → M☆R
+A★ → AU     A☆ → A.     C:           --------                                         M☆X → MPR
 B★ → BT     --------    --------                                                      PX → PR
 --------    C☆ → CC     SC → SF       H:                                              RX → RP
---------    D☆ → DM     --------      --------                                        R☆X → R☆L
+--------    D☆ → DM     --------      --------                                        R☆X → RCL
 E★ → EO     E☆ → EY                  BH → BL                                         SX → SP 
 --------    F☆ → FL     F:            DH → DR                                         TX → TW 
 --------    G☆ → GM     -------       FH → FR                                         WX → WR 
@@ -49,7 +49,7 @@ H★ → H?     H☆ → HH     VF → VL      GH → GL                        
 I★ → IQ     I☆ → IY     WF → WL      KH → KN                                          
 --------    J☆ → JO                   LH → LL                                         Y:
 K★ → KG     --------                  MH → MP                                         --------
-L★ → LS     L☆ → LS                  M☆H → M☆L                                      JY → JI
+L★ → LS     L☆ → LS                  M☆H → MPL                                       JY → JI
 M★ → MP     M☆ → MP                  RH → RR                                         --------
 N★ → NP     N☆ → NV                                                                   
 O★ → OE     O☆ → OX                                                                   Z:
@@ -62,9 +62,9 @@ U★ → UA     U☆ → U,                                                     
 V★ → VP     V☆ → VV                                                                   TZ → TM
 X★ → XI     X☆ → XH                                                                   
 Y★ → YI                                                                        
-YEA★ → H
-YOU★ → '
-THE@★ → '
+YEA★ → YEAH
+YOU★ → YOU'
+THE@★ → THEY'
 ```
 </details>
 
