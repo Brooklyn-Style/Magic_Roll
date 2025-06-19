@@ -1,5 +1,5 @@
 # Magic Roll
-A handmade, alternative keyboard layout that uses repeat and a dozen magic keys to increase inrolls for a more comfortable typing experience.
+A handmade, alternative keyboard layout that uses repeat and over a dozen magic keys to increase inrolls for a more comfortable typing experience.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -10,7 +10,7 @@ _ = Free Key (I have a layer key here)
 @ = Repeat
 ★/☆ = Magic
 
-J, H, X, Y, Q, B, G, M, F, P and Z are magic keys as well.
+J, H, X, Y, Q, B, G, M, F, C, P and Z are magic keys as well.
 ```
 ## Table of Contents:
 - [Glossary](glossary.md)
