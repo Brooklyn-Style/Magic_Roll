@@ -107,7 +107,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`
 
 Additionally, this key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
-- `Q@` → `QU`. `QQ` doesn't occur at all and since `U` is two rows above `Q`, it becomes more comfortable to type.
+- `Q@` → `QU`. `QQ` doesn't occur in any word and since `U` is two rows above `Q`, it becomes more comfortable to type.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
