@@ -1,5 +1,5 @@
 # Magic Roll
-A handmade, alternative keyboard layout that uses repeat and over a dozen magic keys to increase inrolls for a more comfortable typing experience.
+Magic Roll is a handmade, alternative keyboard layout that uses repeat and over a dozen magic keys to increase inrolls for a more comfortable typing experience.
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
