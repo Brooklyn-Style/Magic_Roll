@@ -90,7 +90,7 @@ Without repeat or magic unless specified.
 
 ## Design:
 #### <ins>*Thumbs:*
-Each thumb has a magic key that's used to eliminate most SFBs and make certain patterns more comfortable. The outputs are 1:1 to make them more like normal keys and less like macros. This makes using them simpler and ensures that you won't get banned from typing websites either.
+Each thumb has a magic key that's used to turn SFBs into inrolls and make certain patterns more comfortable. The outputs are 1:1 to keep it simple and ensure that you won't get banned from typing websites.
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
@@ -106,14 +106,14 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
 Additionally, this key has a few exceptions:
-- `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll instead.
-- `Q@` → `QU`. `QQ` doesn't occur in any word and since `U` is two rows above `Q`, it becomes more comfortable to type.
+- `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
+- `Q@` → `QU`. `QQ` doesn't occur in any word and since `U` is two rows above `Q`, it becomes more comfortable to type this way.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage.
 
 #### <ins>*Right Half:*
-Almost all of the consonants have been placed on this side to minimize one-handed strings, outrolls, and redirects, with the top row being preferred to keep scissors low. Magic is then used to mitigate the remaining uncomfortable 2U row jumps.
+Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. Magic is then used to mitigate uncomfortable row jumps like `WL` and `DW`.
 
-`N` is similar to `H` in that it usually comes before a consonant so it goes on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls.
+`N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls.
 
 The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. Even though this placement *does* lose some inrolls, it's better than putting it on the pinky with `P` and `N`.
 
