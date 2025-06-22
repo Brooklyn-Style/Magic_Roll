@@ -1,6 +1,7 @@
 # Magic Roll
 Magic Roll is a handmade keyboard layout that minimizes outrolls and eliminates almost all SFBs through it's clever use of repeat and magic keys.
 
+If you're not already familiar with alt layout terminology, check out the [glossary](glossary.md).
 ```
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
@@ -13,9 +14,8 @@ _ = Free Key (I have a layer key here)
 
 J, H, X, Y, Q, B, G, M, F, C, P and Z are magic keys as well.
 ```
-Try it out [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+y+o+u+%27++k+d+l+c+p&l1r1=h+i+e+a+.++g+t+s+r+n+z&l1r2=x+q+++++%2C++b+m+f+w+v&z=z). Scroll down and click "convert words".
+Try it out [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+y+o+u+%27++k+d+l+c+p&l1r1=h+i+e+a+.++g+t+s+r+n+z&l1r2=x+q+++++%2C++b+m+f+w+v&z=z). Scroll down and click "convert words" then "type words".
 ## Table of Contents:
-- [Glossary](glossary.md)
 - [Magic Functions](#magic-functions)
 - [Stats](#stats)
 - [Design](#design)
