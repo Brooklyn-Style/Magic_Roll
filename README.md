@@ -101,7 +101,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`
 
 `H` does the same thing, just to a lesser extent since it *does* pair with most of the other consonants.
 
-`Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
+`Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic for it. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
 Additionally, this key has a few exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
