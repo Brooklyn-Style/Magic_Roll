@@ -127,6 +127,6 @@ The `PNV` column, while good if it was on any other finger, isn't great on the p
 - The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
 - [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram and trigram frequencies
 - [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
-
+---
 ### Typing Test:
 ![typing test](images/typing%20test.jpg)
