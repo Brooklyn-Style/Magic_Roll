@@ -124,8 +124,9 @@ The `PNV` column, while good if it was on any other finger, isn't great on the p
 ## Tools Used:
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
-- The [Cyanophage](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
+- [Cyanophage's](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
 - [MonkeyType's](https://monkeytype.com "MonkeyType") word filter for specific bigram and trigram frequencies
+- [Merram-Webster's](https://www.merriam-webster.com/wordfinder "Merram-Webster Word Finder") word finder to do the same thing but with a few more filters and an alphapetical word list
 - [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle repeat and magic functions, since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 ---
 ### Typing Test:
