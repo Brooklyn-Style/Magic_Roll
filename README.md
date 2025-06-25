@@ -80,9 +80,6 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
-#### <ins>*Magic:*
-It was briefly mentioned before that 
-
 <details>
   <summary><h2>Magic Functions Chart:</h2></summary>
 
@@ -93,35 +90,35 @@ It was briefly mentioned before that
 ☆★ → ␣     ★☆ → U      SB → SW      PG → PH       RJ → RV     DP → DV       BQ → BM     BX → BL
 .★ → ."     .☆ → ..      --------     SG → SC      SJ → SS                   LQ → LF     CX → CR
 ,★ → ,"     --------                  TG → TC       TJ → TG                   WQ → WB     DX → DW
-?★ → ?"     --------     C:           --------      WJ → WN                   XQ → XR     GX → GL
-!★ → !"     --------     --------                                                         KX → KT
-@★ → @"     --------     SC → SF      M:            K:                                    LX → LV
-"★ → "A     --------     --------     --------      --------                              MX → MB
-(★ → (A     --------                  FM → FL       MK → MB                               PX → PH
-A★ → AU     A☆ → A.      F:          --------                                             RX → RP
-B★ → BT     --------     -------                                                          SX → SP
---------    C☆ → CC      VF → VL      H:                                                  TX → TW
-D★ → DS     D☆ → DM      WF → WL     --------                                             WX → WR
-E★ → EO     E☆ → EY                  BH → BR                                              --------
---------    F☆ → FL           	      DH → DR                                              
-G★ → GS     G☆ → GM                  FH → FR                                              Y:
-H★ → H?     H☆ → HH                  GH → GR                                              --------
-I★ → IQ     I☆ → IY          	      KH → KN                                              JY → JI
---------    J☆ → JO                   LH → LL                                              --------
-K★ → KG     --------                  MH → MP                                             
-L★ → LS     L☆ → LS                  PH → PR                                              Z:      
-M★ → MP     M☆ → MP                  RH → RR                                              --------
-N★ → NP     N☆ → NV                                                                       DZ → DT
-O★ → OE     O☆ → OX                                                                       GZ → GT
-P★ → PV     P☆ → PN                                                                       LZ → LW
-Q★ → QI     Q☆ → QU                                                                       MZ → MT
-R★ → RC     R☆ → RC                                                                       RZ → RW
---------    S☆ → SL                                                                        TZ → TM
---------    T☆ → TR                                                                               
+?★ → ?"     --------     C:           --------      WJ → WN                   XQ → XR     FX → FL
+!★ → !"     --------     --------                                                         GX → GL
+@★ → @"     --------     SC → SF      M:            K:                                    KX → KT
+"★ → "A     --------     --------     --------      --------                              LX → LV
+(★ → (A     --------                  FM → FL       MK → MB                               MX → MB
+A★ → AU     A☆ → A.      F:          --------                                             PX → PH
+B★ → BT     --------     -------                                                          RX → RP
+--------    C☆ → CC      VF → VL      H:                                                  SX → SP
+D★ → DS     D☆ → DM      WF → WL     --------                                             TX → TW
+E★ → EO     E☆ → EY                  BH → BR                                              WX → WR
+--------    F☆ → FL           	      DH → DR                                              --------
+G★ → GS     G☆ → GM                  FH → FR                                              
+H★ → H?     H☆ → HH                  GH → GR                                              Y:
+I★ → IQ     I☆ → IY          	      KH → KN                                              --------
+--------    J☆ → JO                   LH → LL                                             JY → JI 
+K★ → KG     --------                  MH → MP                                             --------
+L★ → LS     L☆ → LS                  PH → PR                                                    
+M★ → MP     M☆ → MP                  RH → RR                                              Z:
+N★ → NP     N☆ → NV                                                                       --------
+O★ → OE     O☆ → OX                                                                       DZ → DT
+P★ → PV     P☆ → PN                                                                       GZ → GT
+Q★ → QI     Q☆ → QU                                                                       LZ → LW
+R★ → RC     R☆ → RC                                                                       MZ → MT
+--------    S☆ → SL                                                                        RZ → RW
+--------    T☆ → TR                                                                        TZ → TM
 U★ → UA     U☆ → U,                                                                              
 V★ → VP     V☆ → VV                                                                              
 X★ → XI     X☆ → XH                                                                              
-Y★ → YI                                                                   
+Y★ → YI                                                                         
 ```
 </details>
 
