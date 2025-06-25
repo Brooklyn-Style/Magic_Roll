@@ -1,5 +1,5 @@
 # Magic Roll
-Magic Roll is a handmade keyboard layout that minimizes outrolls and eliminates almost all SFBs through it's clever use of repeat and magic keys.
+Magic Roll is a handmade keyboard layout that minimizes outrolls and eliminates SFBs through it's clever use of repeat and magic keys.
 
 If you're not already familiar with alt layout terminology, check out the [glossary](glossary.md).
 ```
