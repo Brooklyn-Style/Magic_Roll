@@ -41,18 +41,18 @@ You can try the layout [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+
 @★ → @"     --------     SC → SF      M:            K:                                    KX → KT
 "★ → "A     --------     --------     --------      --------                              LX → LV
 (★ → (A     --------                  FM → FL       MK → MB                               MX → MB
-A★ → AU     A☆ → A.      F:          --------                                             PX → PR 
+A★ → AU     A☆ → A.      F:          --------                                             PX → PR
 B★ → BT     --------     -------                                                          RX → RP
---------    C☆ → CC      VF → VL      H:                                                  SX → SP 
+--------    C☆ → CC      VF → VL      H:                                                  SX → SP
 D★ → DS     D☆ → DM      WF → WL     --------                                             TX → TW
-E★ → EO     E☆ → EY                  BH → BR                                              WX → WR 
+E★ → EO     E☆ → EY                  BH → BR                                              WX → WR
 --------    F☆ → FL           	      DH → DR                                              --------
-G★ → GS     G☆ → GM                  FH → FR
+G★ → GS     G☆ → GM                  FH → FR                                                      
 H★ → H?     H☆ → HH                  GH → GR                                              Y:
 I★ → IQ     I☆ → IY          	      KH → KN                                              --------
 --------    J☆ → JO                   LH → LL                                             JY → JI
 K★ → KG     --------                  MH → MP                                             --------
-L★ → LS     L☆ → LS                  RH → RR
+L★ → LS     L☆ → LS                  RH → RR                                                     
 M★ → MP     M☆ → MP                                                                       Z:
 N★ → NP     N☆ → NV                                                                       --------
 O★ → OE     O☆ → OX                                                                       DZ → DT
@@ -61,10 +61,10 @@ Q★ → QI     Q☆ → QU                                                     
 R★ → RC     R☆ → RC                                                                       MZ → MT
 --------    S☆ → SL                                                                        RZ → RW
 --------    T☆ → TR                                                                        TZ → TM
-U★ → UA     U☆ → U,                                                                   
-V★ → VP     V☆ → VV                                                                   
-X★ → XI     X☆ → XH                                                                   
-Y★ → YI                                                                        
+U★ → UA     U☆ → U,                                                                              
+V★ → VP     V☆ → VV                                                                              
+X★ → XI     X☆ → XH                                                                              
+Y★ → YI                                                                                           
 ```
 </details>
 
