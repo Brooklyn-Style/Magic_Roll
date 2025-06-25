@@ -30,4 +30,4 @@
 
 - <ins>Repeat Key:</ins> A key that repeats the last pressed key. *E.g. `L@` → `LL`* (Double letters make up 2.5% of all bigrams)
 
-- <ins>Magic Key:</ins> A key whose output depends on the last pressed key. The output can be anything from a single letter to full words. It can also have a default output for when there was no previously pressed key or if you don't want it to be affected by the last keypress. *E.g. ‎`␣★` → `Shift`. ‎`L★` → `LS`. ‎`T★` → `THE`*
+- <ins>Magic Key:</ins> A key whose output depends upon the last pressed key, or sequence of keys. It can send anything from a single character to entire words. It can also have a default output for when there was no previously pressed key or if you don't want it to be affected by the last keypress. *E.g. ‎`␣★` → `Shift`. ‎`L★` → `LS`. ‎`T★` → `THE`*
