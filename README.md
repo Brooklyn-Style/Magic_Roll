@@ -6,11 +6,12 @@ If you're not already familiar with alt layout terminology, check out the [gloss
   j y o u '  b d l c p 
 ? h i e a .  g t s r n z
   x q _ @ ,  k m f w v
-         ★  ␣ ☆
+         \   ␣ /
 
 _ = Free Key (I have a layer key here)
 @ = Repeat
-★/☆ = Magic
+\ = Left Magic
+/ = Right Magic
 
 J, H, X, Y, Q, B, G, K, M, F, C, P and Z are magic keys as well.
 ```
@@ -19,10 +20,11 @@ You can try the layout [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
-  - [Thumbs](#thumbs)
+  - [Magic](#magic)
+    - [Thumbs](#thumbs)
+    - [Alphas](#alphas)
   - [Left Half](#left-half)
   - [Right Half](#right-half)
-  - [Magic](#magic)
 - [Magic Functions Chart](#magic-functions-chart)
 - [Tools Used](#tools-used)
 ---
@@ -44,16 +46,20 @@ Without repeat or magic unless specified.
 ---
 
 ## Design:
+### Magic:
+The output of each magic key limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. E.g. `A\` → `AU` while `WA\` → `WAY`. They can also be chained together to further increase typing comfort and usefulness. E.g. `FH` → `FR` and then `FHU\` → `FRUI` for the word "fruit".
+
 #### <ins>*Thumbs:*
-Each thumb has a magic key that's used to turn SFBs into inrolls and make certain patterns more comfortable. The outputs are 1:1, meaning that they will only send one character when pressed to ensure that you don't get banned from typing websites. They're also context dependent so they've been broken down into two categories: simple and complex.
+In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation, the right thumb will also repeat the last letter.
 
-wip
+If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU` `K\` → `KG` `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
-In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
+#### <ins>*Alphas:*
+The alphas are used to remove scissors, increase same-row rolls, and minimize outrolls. They've been set up to be intuitive and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. E.g. `WF` → `WL`. Normally, `WL` is an awkward roll since `L` is two rows above `W`. `F` is used because it's on the same finger as `L` and same row as `W`.
 
-If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB if it's at the end of a word. *E.g. `Q☆` → `QU` `L★` → `LS`*. `☆ → Space` SFBs can be avoided this way.
+---
 
-#### <ins>*Left Half:*
+### *Left Half:*
 The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X`, and `Q` then complete the pinky and ring columns, with punctuation being placed on the inner index for low SFBs. 
 
 `X` almost never comes after a consonant so it can easily double as a magic key to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
@@ -67,7 +73,7 @@ Additionally, this key has a few exceptions:
 - `Q@` → `QU`. `QQ` doesn't appear in any word and since `U` is two rows above `Q`, it becomes more comfortable to type like this.
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a bit.
 
-#### <ins>*Right Half:*
+### *Right Half:*
 Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. Magic is then used to minimize 2U row jumps. E.g. `WF` → `WL`
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
@@ -80,45 +86,47 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
+---
+
 <details>
   <summary><h2>Magic Functions Chart:</h2></summary>
 
 ```
-★:          ☆:           B:           G:           J:           P:           Q:           X:
---------     --------     --------     --------     --------     --------     --------     --------
-★ → Shift   --------     CB → CK      CG → CH       MJ → MM     BP → BV       @Q → @U     @X → @A
-☆★ → ␣     ★☆ → U      SB → SW      PG → PH       RJ → RV     DP → DV       BQ → BM     BX → BL
-.★ → ."     .☆ → ..      --------     SG → SC      SJ → SS                   LQ → LF     CX → CR
-,★ → ,"     --------                  TG → TC       TJ → TG                   WQ → WB     DX → DW
-?★ → ?"     --------     C:           --------      WJ → WN                   XQ → XR     FX → FL
-!★ → !"     --------     --------                                                         GX → GL
-@★ → @"     --------     SC → SF      M:            K:                                    KX → KT
-"★ → "A     --------     --------     --------      --------                              LX → LV
-(★ → (A     --------                  FM → FL       MK → MB                               MX → MB
-A★ → AU     A☆ → A.      F:          --------                                             PX → PH
-B★ → BT     --------     -------                                                          RX → RP
---------    C☆ → CC      VF → VL      H:                                                  SX → SP
-D★ → DS     D☆ → DM      WF → WL     --------                                             TX → TW
-E★ → EO     E☆ → EY                  BH → BR                                              WX → WR
---------    F☆ → FL           	      DH → DR                                              --------
-G★ → GS     G☆ → GM                  FH → FR                                              
-H★ → H?     H☆ → HH                  GH → GR                                              Y:
-I★ → IQ     I☆ → IY          	      KH → KN                                              --------
---------    J☆ → JO                   LH → LL                                             JY → JI 
-K★ → KG     --------                  MH → MP                                             --------
-L★ → LS     L☆ → LS                  PH → PR                                                    
-M★ → MP     M☆ → MP                  RH → RR                                              Z:
-N★ → NP     N☆ → NV                                                                       --------
-O★ → OE     O☆ → OX                                                                       DZ → DT
-P★ → PV     P☆ → PN                                                                       GZ → GT
-Q★ → QI     Q☆ → QU                                                                       LZ → LW
-R★ → RC     R☆ → RC                                                                       MZ → MT
---------    S☆ → SL                                                                        RZ → RW
---------    T☆ → TR                                                                        TZ → TM
-U★ → UA     U☆ → U,                                                                              
-V★ → VP     V☆ → VV                                                                              
-X★ → XI     X☆ → XH                                                                              
-Y★ → YI                                                                         
+\:          /:           B:           G:           J:           P:           Q:           X:
+--------    --------     --------     --------     --------     --------     --------     --------
+\ → Shift   --------     CB → CK      CG → CH      MJ → MM      BP → BV      @Q → @U      @X → @A
+/\ → ␣      \/ → U       SB → SW       PG → PH     RJ → RV      DP → DV      BQ → BM      BX → BL
+.\ → ."     ./ → ..      --------     SG → SC      SJ → SS                   LQ → LF      CX → CR
+,\ → ,"     --------                  TG → TC      TJ → TG                   WQ → WB      DX → DW
+?\ → ?"     --------     C:           --------     WJ → WN                   XQ → XR      FX → FL
+!\ → !"     --------     --------                  --------                               GX → GL
+@\ → @"     --------     SC → SF      M:                                                  KX → KT
+"\ → "A     --------     --------     --------     K:                                     LX → LV
+(\ → (A     --------                  FM → FL      --------                               MX → MB
+A\ → AU     A/ → A.      F:           --------     MK → MB                                PX → PH
+B\ → BT     --------     -------                                                          RX → RP
+--------    C/ → CC      VF → VL      H:                                                  SX → SP
+D\ → DS     D/ → DM      WF → WL      --------                                            TX → TW
+E\ → EO     E/ → EY                   BH → BR                                             WX → WR
+--------    F/ → FL           	      DH → DR                                             --------
+G\ → GS     G/ → GM                   FH → FR                                              
+H\ → H?     H/ → HH                   GH → GR                                             Y:
+I\ → IQ     I/ → IY                   KH → KN                                             --------
+--------    J/ → JO                   LH → LL                                             JY → JI 
+K\ → KG     --------                  MH → MP                                             --------
+L\ → LS     L/ → LS                   PH → PR                                                    
+M\ → MP     M/ → MP                   RH → RR                                             Z:
+N\ → NP     N/ → NV                                                                       --------
+O\ → OE     O/ → OX                                                                       DZ → DT
+P\ → PV     P/ → PN                                                                       GZ → GT
+Q\ → QI     Q/ → QU                                                                       LZ → LW
+R\ → RC     R/ → RC                                                                       MZ → MT
+--------    S/ → SL                                                                       RZ → RW
+--------    T/ → TR                                                                       TZ → TM
+U\ → UA     U/ → U,                                                                              
+V\ → VP     V/ → VV                                                                              
+X\ → XI     X/ → XH                                                                              
+Y\ → YI                                                                         
 ```
 </details>
 
