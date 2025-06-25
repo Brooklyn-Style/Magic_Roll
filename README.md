@@ -95,7 +95,7 @@ The `PNV` column, while good if it was on any other finger, isn't great on the p
 \:          /:           B:           G:           J:           P:           Q:           X:
 --------    --------     --------     --------     --------     --------     --------     --------
 \ → Shift   --------     CB → CK      CG → CH      MJ → MM      BP → BV      @Q → @U      @X → @A
-/\ → ␣      \/ → U       SB → SW       PG → PH     RJ → RV      DP → DV      BQ → BM      BX → BL
+/\ → ␣      \/ → U       SB → SW      PG → PH      RJ → RV      DP → DV      BQ → BM      BX → BL
 .\ → ."     ./ → ..      --------     SG → SC      SJ → SS                   LQ → LF      CX → CR
 ,\ → ,"     --------                  TG → TC      TJ → TG                   WQ → WB      DX → DW
 ?\ → ?"     --------     C:           --------     WJ → WN                   XQ → XR      FX → FL
