@@ -47,12 +47,12 @@ B★ → BT     --------     -------                                            
 D★ → DS     D☆ → DM      WF → WL     --------                                             TX → TW
 E★ → EO     E☆ → EY                  BH → BR                                              WX → WR 
 --------    F☆ → FL           	      DH → DR                                              --------
-G★ → GS     G☆ → GM                  FH → FR													
+G★ → GS     G☆ → GM                  FH → FR
 H★ → H?     H☆ → HH                  GH → GR                                              Y:
 I★ → IQ     I☆ → IY          	      KH → KN                                              --------
 --------    J☆ → JO                   LH → LL                                             JY → JI
 K★ → KG     --------                  MH → MP                                             --------
-L★ → LS     L☆ → LS                  RH → RR                                                     
+L★ → LS     L☆ → LS                  RH → RR
 M★ → MP     M☆ → MP                                                                       Z:
 N★ → NP     N☆ → NV                                                                       --------
 O★ → OE     O☆ → OX                                                                       DZ → DT
