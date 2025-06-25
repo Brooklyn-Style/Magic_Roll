@@ -45,7 +45,9 @@ Without repeat or magic unless specified.
 
 ## Design:
 #### <ins>*Thumbs:*
-Each thumb has a magic key that's used to turn SFBs into inrolls and make certain patterns more comfortable. The outputs are 1:1 to keep it simple and ensure that you won't get banned from typing websites.
+Each thumb has a magic key that's used to turn SFBs into inrolls and make certain patterns more comfortable. The outputs are 1:1, meaning that they will only send one character when pressed to ensure that you don't get banned from typing websites. They're also context dependent so they've been broken down into two categories: simple and complex.
+
+wip
 
 In general, if the previous key was on the same hand, the output will be the key above or below it. *E.g. `E★` → `EO` `O★` → `OE`*
 
@@ -79,7 +81,8 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 #### <ins>*Magic:*
-wip
+It was briefly mentioned before that 
+
 <details>
   <summary><h2>Magic Functions Chart:</h2></summary>
 
