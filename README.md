@@ -36,35 +36,35 @@ You can try the layout [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+
 ☆★ → ␣     ★☆ → U      SB → SW      PG → PH       RJ → RV     DP → DV       BQ → BM     BX → BL
 .★ → ."     .☆ → ..      --------     SG → SC      SJ → SS                   LQ → LF     CX → CR
 ,★ → ,"     --------                  TG → TC       TJ → TG                   WQ → WB     DX → DW
-?★ → ?"     --------     C:           --------      WJ → WN                   XQ → XR     FX → FF
-!★ → !"     --------     --------                                                         GX → GL
-@★ → @"     --------     SC → SF      M:            K:                                    KX → KT
-"★ → "A     --------     --------     --------      --------                              LX → LV
-(★ → (A     --------                  FM → FL       MK → MB                               MX → MB
-A★ → AU     A☆ → A.      F:          --------                                             PX → PR
-B★ → BT     --------     -------                                                          RX → RP
---------    C☆ → CC      VF → VL      H:                                                  SX → SP
-D★ → DS     D☆ → DM      WF → WL     --------                                             TX → TW
-E★ → EO     E☆ → EY                  BH → BR                                              WX → WR
---------    F☆ → FL           	      DH → DR                                              --------
-G★ → GS     G☆ → GM                  FH → FR                                                      
-H★ → H?     H☆ → HH                  GH → GR                                              Y:
-I★ → IQ     I☆ → IY          	      KH → KN                                              --------
---------    J☆ → JO                   LH → LL                                             JY → JI
-K★ → KG     --------                  MH → MP                                             --------
-L★ → LS     L☆ → LS                  RH → RR                                                     
-M★ → MP     M☆ → MP                                                                       Z:
-N★ → NP     N☆ → NV                                                                       --------
-O★ → OE     O☆ → OX                                                                       DZ → DT
-P★ → PV     P☆ → PN                                                                       GZ → GT
-Q★ → QI     Q☆ → QU                                                                       LZ → LW
-R★ → RC     R☆ → RC                                                                       MZ → MT
---------    S☆ → SL                                                                        RZ → RW
---------    T☆ → TR                                                                        TZ → TM
+?★ → ?"     --------     C:           --------      WJ → WN                   XQ → XR     GX → GL
+!★ → !"     --------     --------                                                         KX → KT
+@★ → @"     --------     SC → SF      M:            K:                                    LX → LV
+"★ → "A     --------     --------     --------      --------                              MX → MB
+(★ → (A     --------                  FM → FL       MK → MB                               PX → PH
+A★ → AU     A☆ → A.      F:          --------                                             RX → RP
+B★ → BT     --------     -------                                                          SX → SP
+--------    C☆ → CC      VF → VL      H:                                                  TX → TW
+D★ → DS     D☆ → DM      WF → WL     --------                                             WX → WR
+E★ → EO     E☆ → EY                  BH → BR                                              --------
+--------    F☆ → FL           	      DH → DR                                              
+G★ → GS     G☆ → GM                  FH → FR                                              Y:
+H★ → H?     H☆ → HH                  GH → GR                                              --------
+I★ → IQ     I☆ → IY          	      KH → KN                                              JY → JI
+--------    J☆ → JO                   LH → LL                                              --------
+K★ → KG     --------                  MH → MP                                             
+L★ → LS     L☆ → LS                  PH → PR                                              Z:      
+M★ → MP     M☆ → MP                  RH → RR                                              --------
+N★ → NP     N☆ → NV                                                                       DZ → DT
+O★ → OE     O☆ → OX                                                                       GZ → GT
+P★ → PV     P☆ → PN                                                                       LZ → LW
+Q★ → QI     Q☆ → QU                                                                       MZ → MT
+R★ → RC     R☆ → RC                                                                       RZ → RW
+--------    S☆ → SL                                                                        TZ → TM
+--------    T☆ → TR                                                                               
 U★ → UA     U☆ → U,                                                                              
 V★ → VP     V☆ → VV                                                                              
 X★ → XI     X☆ → XH                                                                              
-Y★ → YI                                                                                           
+Y★ → YI                                                                   
 ```
 </details>
 
@@ -109,7 +109,7 @@ Additionally, this key has a few exceptions:
 - `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a bit.
 
 #### <ins>*Right Half:*
-Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. Magic is then used to mitigate the uncomfortable row jumps like `WL` and `DW`.
+Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. Magic is then used to minimize 2U row jumps like for `WL` and `DW`.
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls.
 
