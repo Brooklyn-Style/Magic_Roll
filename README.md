@@ -65,7 +65,7 @@ Nearly all of the consonants have been placed on this side to minimize outrolls,
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
 
-The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on Cyanophage's analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls though, but it's better than putting it on the pinky with `P` and `N`.
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on Cyanophage's analyzer compared to other arrangements. `B`'s placement *does* lose some inrolls, but it's better than putting it on the pinky with `P` and `N`.
 
 `D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable.
 
@@ -76,7 +76,7 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 ### Magic:
-The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort and usefulness. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
+The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
 
 #### *<ins>Thumbs:*
 In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation though, the right thumb will repeat the last letter instead.
@@ -84,7 +84,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU` `K\` → `KG` `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
 #### *<ins>Alphas:*
-Many of the alphas have magic functions to reduce outrolls, eliminate scissors, and increase same-row rolls. They've been set up to be as intuitive as possible and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable to type since `L` is two rows above `W`. By using `F` in its place, the roll is still performed with the same fingers but now on the same row.
+Many of the alphas have magic functions to reduce outrolls, eliminate scissors, and increase same-row rolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable since the letters are two rows apart but by using `F` in place of `L`, the roll is performed with the same fingers but now on the same row.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
 
@@ -113,11 +113,11 @@ B\ → BT     --------     -------                                              
 --------    C/ → CC      VF → VL      H:                                                  SX → SP
 D\ → DS     D/ → DM      WF → WL      --------                                            TX → TW
 E\ → EO     E/ → EY                   BH → BR                                             WX → WR
---------    F/ → FL           	      DH → DR                                             --------
+--------    F/ → FF           	      DH → DR                                             --------
 G\ → GS     G/ → GM                   FH → FR                                              
 H\ → H?     H/ → HH                   GH → GR                                             Y:
 I\ → IQ     I/ → IY                   KH → KN                                             --------
---------    J/ → JO                   LH → LL                                             JY → JI 
+--------    J/ → JO                   LH → LS                                             JY → JI 
 K\ → KG     --------                  MH → MP                                             --------
 L\ → LS     L/ → LS                   PH → PR                                                    
 M\ → MP     M/ → MP                   RH → RR                                             Z:
