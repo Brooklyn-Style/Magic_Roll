@@ -88,7 +88,7 @@ If the previous key was on the opposite hand, the output will fix an awkward pat
 #### *<ins>Alphas:*
 Inspired [Hands Down](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")'s adaptive keys, half of the alphas have magic functions to eliminate scissors, increase same-row rolls, and reduce outrolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`. `BX` → `BL`*. 
 
-`WL` is two rows apart, but by using `F` in place of `L`, it can be typed on the same row with the same fingers.
+`W` and `L` are two rows apart so by using `F` in place of `L`, it can be typed on the same row with the same fingers.
 
 `X` almost never comes after a consonant so it can turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows.
 
