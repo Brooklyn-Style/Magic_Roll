@@ -53,7 +53,7 @@ The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic for it. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
-This key has a few exceptions as well:
+This key has a few exceptions:
 - `_E@` → `EX`. `EX` is more common than `EE` at the beginning of words. `E@` will function as expected otherwise.
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
 - `I@` → `I'`. `II` basically never starts a word so this eliminates the stretch to the inner column.
