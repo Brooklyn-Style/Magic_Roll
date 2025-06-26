@@ -1,5 +1,5 @@
 # Magic Roll
-<img src="https://github.com/Brooklyn-Style/Magic_Roll/blob/main/images/magic%20roll.jpg" width="55%">
+<img src="https://github.com/Brooklyn-Style/Magic_Roll/blob/main/images/magic%20roll.jpg" width="65%">
 
 Magic Roll is a handmade keyboard layout that minimizes outrolls and eliminates SFBs through it's clever use of repeat and magic keys.
 
