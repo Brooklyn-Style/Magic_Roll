@@ -61,7 +61,7 @@ This key has a few exceptions as well:
 - `Backspace` after being used or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a little bit.
 
 ### *Right Half:*
-Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low.
+Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. This unfortunately results in more movement but I haven't had a problem with it.
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
 
@@ -76,22 +76,23 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 ### Magic:
-The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort and usefulness. *E.g. `FH` → `FR`* and then *`FHU\` → `FRUI`* for the word "fruit".
+The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort and usefulness. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
 
 #### *<ins>Thumbs:*
-In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation, the right thumb will repeat the last letter instead.
+In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation though, the right thumb will repeat the last letter instead.
 
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU` `K\` → `KG` `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
 #### *<ins>Alphas:*
-Many of the alphas have magic functions to minimize outrolls, eliminate scissors, and increase same-row rolls. They've been set up to be intuitive and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable to type since `L` is two rows above `W`. By using `F` in its place, the roll is still performed with the same fingers but now on the same row.
+Many of the alphas have magic functions to reduce outrolls, eliminate scissors, and increase same-row rolls. They've been set up to be as intuitive as possible and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable to type since `L` is two rows above `W`. By using `F` in its place, the roll is still performed with the same fingers but now on the same row.
 
 `X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
 
 `H` does the same thing but it's more context dependent since `H` *does* pair with most of the other consonants.
 
----
+Check out the chart below to see every magic function.
 
+---
 <details>
   <summary><h2>Magic Functions Chart:</h2></summary>
 
