@@ -46,6 +46,30 @@ Without repeat or magic unless specified.
 ---
 
 ## Design:
+### *Left Half:*
+The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X`, and `Q` then complete the pinky and ring columns, with punctuation being placed on the inner index for low SFBs. 
+
+`Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic for it. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
+
+This key has a few exceptions as well:
+- `_E@` → `EX`. `EX` is more common than `EE` at the beginning of words. `E@` will function as expected otherwise.
+- `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
+- `Q@` → `QU`. `QQ` doesn't appear in any word and since `U` is two rows above `Q`, it becomes more comfortable to type like this.
+- `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a bit.
+
+### *Right Half:*
+Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low.
+
+`N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
+
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. Even though this placement *does* lose some inrolls, it's better than putting it on the pinky with `P` and `N`.
+
+`D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
+
+The `LSF` and `CRW` columns are a little questionable but there weren't many other options. You could swap `L` and `C` for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
+
+The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
+
 ### Magic:
 The output of each magic key limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. E.g. `A\` → `AU` while `WA\` → `WAY`. They can also be chained together to further increase typing comfort and usefulness. E.g. `FH` → `FR` and then `FHU\` → `FRUI` for the word "fruit".
 
@@ -57,34 +81,9 @@ If the previous key was on the opposite hand, the output will fix an awkward pat
 #### <ins>*Alphas:*
 The alphas are used to remove scissors, increase same-row rolls, and minimize outrolls. They've been set up to be intuitive and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. E.g. `WF` → `WL`. Normally, `WL` is an awkward roll since `L` is two rows above `W`. `F` is used because it's on the same finger as `L` and same row as `W`.
 
----
-
-### *Left Half:*
-The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X`, and `Q` then complete the pinky and ring columns, with punctuation being placed on the inner index for low SFBs. 
-
 `X` almost never comes after a consonant so it can easily double as a magic key to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
 
 `H` does the same thing just to a lesser extent since it *does* pair with most of the other consonants.
-
-`Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic for it. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
-
-Additionally, this key has a few exceptions:
-- `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
-- `Q@` → `QU`. `QQ` doesn't appear in any word and since `U` is two rows above `Q`, it becomes more comfortable to type like this.
-- `Backspace` after repeats or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a bit.
-
-### *Right Half:*
-Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. Magic is then used to minimize 2U row jumps. E.g. `WF` → `WL`
-
-`N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
-
-The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. Even though this placement *does* lose some inrolls, it's better than putting it on the pinky with `P` and `N`.
-
-`D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
-
-The `LSF` and `CRW` columns are a little questionable but there weren't many other options. You could swap `L` and `C` for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
-
-The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 ---
 
