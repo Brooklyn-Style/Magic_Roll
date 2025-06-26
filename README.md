@@ -76,19 +76,21 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 ### Magic:
-The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
+The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. 
+
+They can also be chained together to further increase typing comfort. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
 
 #### *<ins>Thumbs:*
-In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation though, the right thumb will repeat the last letter instead.
+In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs (outside of context-sensitive words). *E.g. `E\` → `EO`. `O\` → `OE`*.
 
-If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU` `K\` → `KG` `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
+If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU`. `K\` → `KG`. `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
 #### *<ins>Alphas:*
-Many of the alphas have magic functions to reduce outrolls, eliminate scissors, and increase same-row rolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable since the letters are two rows apart but by using `F` in place of `L`, the roll is performed with the same fingers but now on the same row.
+Inspired [Hands Down](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")'s adaptive keys, half of the alphas have magic functions to eliminate scissors, increase same-row rolls, and reduce outrolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`. `BX` → `BL`*. 
 
-`X` almost never comes after a consonant so it turns consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
+`WL` is two rows apart, but by using `F` in place of `L`, it can be typed on the same row with the same fingers.
 
-`H` does the same thing but it's more context dependent since `H` *does* pair with most of the other consonants.
+`X` almost never comes after a consonant so it can turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows.
 
 Check out the chart below to see every magic function.
 
