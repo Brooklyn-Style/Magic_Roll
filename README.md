@@ -64,16 +64,16 @@ Nearly all of the consonants have been placed on this side to minimize outrolls,
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
 
-The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on the Cyanophage analyzer compared to other arrangements. Even though this placement *does* lose some inrolls, it's better than putting it on the pinky with `P` and `N`.
+The `BGK` inner index column puts `NG` on the home row and `BL` on the same row. It also achieves the lowest "word effort" on Cyanophage's analyzer compared to other arrangements. Even though `B`'s placement loses some inrolls, it's better than putting it on the pinky with `P` and `N`.
 
-`D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters in terms of SFBs once `MB`/`BM` gets fixed with magic.
+`D` on the top row makes it + `B`, `G`, and `K` easily alt-fingerable. `M` pairs nicely with the other index letters once `MB`/`BM` gets fixed with magic.
 
 The `LSF` and `CRW` columns are a little questionable but there weren't many other options. You could swap `L` and `C` for marginally better stats, but then you'd lose the `CL` and `RLD` inrolls, and make `NCL` a redirect, which might not be worth it.
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
 ### Magic:
-The output of each magic key limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort and usefulness. *E.g. `FH` → `FR`* and then *`FHU\` → `FRUI`* for the word "fruit".
+The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. They can also be chained together to further increase typing comfort and usefulness. *E.g. `FH` → `FR`* and then *`FHU\` → `FRUI`* for the word "fruit".
 
 #### *<ins>Thumbs:*
 In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO` `O\` → `OE`*. Depending on the situation, the right thumb will also repeat the last letter.
@@ -81,7 +81,7 @@ In general, if the previous key was on the same hand, the output will be the key
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU` `K\` → `KG` `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
 #### *<ins>Alphas:*
-The alphas are used to remove scissors, increase same-row rolls, and minimize outrolls. They've been set up to be intuitive and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is an awkward roll since `L` is two rows above `W`. `F` is used because it's on the same finger as `L` and same row as `W`.
+The alphas are used to remove scissors, increase same-row rolls, and minimize outrolls. They've been set up to be intuitive and cause the least amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`*. Normally, `WL` is a little uncomfortable to type since `L` is two rows above `W`. By using `F` in its place, the roll is still performed with the same fingers but on the same row instead.
 
 `X` almost never comes after a consonant so it can easily double as a magic key to turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows. *E.g. `BX` → `BL` (+ `AEIOU`)*
 
