@@ -36,7 +36,8 @@ Without repeat or magic unless specified.
 
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
 ![without repeat](images/without%20repeat.jpg)
-Outrolls are reduced to 3.3% by using magic https://docs.google.com/spreadsheets/d/15rUa7rHMag776j3FILCoby1qDpYqKLfsa13CaCaucxs
+Outrolls are reduced by 5.3% by using magic https://docs.google.com/spreadsheets/d/15rUa7rHMag776j3FILCoby1qDpYqKLfsa13CaCaucxs
+<img src="https://github.com/Brooklyn-Style/Magic_Roll/blob/main/images/magic%20inrolls.jpg" width="40%">
 
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground")** (With Repeat):
 ![repeat](images/repeat.jpg)
