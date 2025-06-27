@@ -34,16 +34,16 @@ You can try the base layout [here](https://keyboard-layout-try-out.pages.dev/?l0
   <summary><h2>Stats:</h2></summary>
 Without repeat or magic unless specified.
 
-**[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
+[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):
 ![without repeat](images/without%20repeat.jpg)
-Outrolls are reduced by 5.3% by using magic https://docs.google.com/spreadsheets/d/15rUa7rHMag776j3FILCoby1qDpYqKLfsa13CaCaucxs
+[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") (With Repeat):
+![repeat](images/repeat.jpg)
+Manual analysis of magic's affect on outrolls: https://docs.google.com/spreadsheets/d/15rUa7rHMag776j3FILCoby1qDpYqKLfsa13CaCaucxs
 <img src="https://github.com/Brooklyn-Style/Magic_Roll/blob/main/images/magic%20inrolls.jpg" width="40%">
 
-**[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground")** (With Repeat):
-![repeat](images/repeat.jpg)
-**[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
+[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):
 ![cyanophage](images/cyanophage.jpg)
-**[KeySolve](https://luminespire.github.io/keysolve-web/ "Keysolve"):**
+[KeySolve](https://luminespire.github.io/keysolve-web/ "Keysolve"):
 ![keysolve](images/keysolve.jpg)
 
 </details>
