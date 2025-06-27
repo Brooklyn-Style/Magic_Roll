@@ -37,6 +37,7 @@ Without repeat or magic unless specified.
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):**
 ![without repeat](images/without%20repeat.jpg)
 Outrolls are reduced to 3.3% by using magic https://docs.google.com/spreadsheets/d/15rUa7rHMag776j3FILCoby1qDpYqKLfsa13CaCaucxs
+
 **[Layout Playground](https://oxey.dev/playground/index.html "Layout Playground")** (With Repeat):
 ![repeat](images/repeat.jpg)
 **[Cyanophage](https://cyanophage.github.io/playground.html?layout=jyou%27bdlcp-hiea.gtsrnzxq%5C%3D%2Ckmfwv%2F%3B&mode=ergo&lan=english "View on Cyanophage"):**
