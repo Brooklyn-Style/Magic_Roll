@@ -135,8 +135,9 @@ R\ → RC     R/ → RC                                                         
 --------    T/ → TR                                                                       TZ → TM
 U\ → UA     U/ → U,                                                                              
 V\ → VP     V/ → VV                                                                              
-X\ → XI     X/ → XH                                                                              
-Y\ → YI                                                                         
+--------    W/ → WC
+X\ → YI     X/ → XH
+Y\ → XI     Y\ → XI                                                                        
 ```
 Magic Sequences:
 
