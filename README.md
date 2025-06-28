@@ -177,7 +177,7 @@ prob → l  | problem        cxow → d | crowd
 pos → s   | possible
 -ab → l   | able           X:
 -ib → l   | impossible     -------------------
-sym → b   | symbol         -m/ → r  | impress
+sym → b   | symbol         -m/ → r  | improve
 gram → m  | grammar        -sg → r  | screen
 ```
 </details>
