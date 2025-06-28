@@ -138,6 +138,47 @@ V\ → VP     V/ → VV
 X\ → XI     X/ → XH                                                                              
 Y\ → YI                                                                         
 ```
+Magic Sequences:
+"-" denotes a prefix or suffix. "_" denotes a space or no prior key. If other magic functions are used for the input sequence, they're written as their non-magic equivalent (E.g. `CB` instead of `CK`). For the sake of simplicity, only the input and the magic key's output are written. The magic key is assumed to be pressed at the end of the input sequence. A use case is also provided.
+```
+H:                         \:                      @:                       /:
+----------------------     -------------------     --------------------     ----------------------
+-cal → l  | basically      -cb → s  | blocks       _e → x   | explain       -/es → s  | accessory
+ans → w   | answer         -nt → s  | tents        _i → '   | I'd           -eces → s | necessary
+m/ → l    | simple         aga → i  | again        -ide → r | consider      -ld → n   | shouldn't
+colum → n | column         avo → i  | avoid        -ve → n  | even          -mal → l  | normally
+cir/ → l  | circle         ma → y   | may          inte → r | interest      -nal → l  | finally
+cur → v   | curve          ba → y   | bay          mone → y | money         -ial → l  | especially
+sgis → s  | scissor        ja → y   | jay          neke → r | never         an → n    | anniversary
+doub → l  | double         ka → y   | kay          obe → y  | obey          ap → p    | apple
+lit/ → l  | little         ra → y   | ray          the → y  | they          do\s → n  | doesn't
+ap/ → l   | apple          wa → y   | way          weve → r | however       fun → n   | funny
+real → l  | really         ya → y   | yay          fi → x   | fix           hal → l   | hall
+-mk → l   | humble         bo → x   | box          mi → x   | mixed         hit → t   | hitting
+fun → n   | funny          fhu → i  | fruit        si → x   | suffix        jam → m   | jamming
+af → t    | after          e@ → a   | example                               let → t   | letter
+-ial → l  | especially     fi@ → e  | fixed                                 lit → t   | litter
+gon → n   | gonna          mi@ → e  | mixed                                 other → w | otherwise
+wan → n   | wanna          sq@ → a  | square                                pos → s   | possible
+gxos → s  | glossary       the@ → ' | they'd                                put → t   | putting
+ac/es → s | accessory      yda → y  | everyday
+gent → l  | gentle         yea → h  | yeah
+com → m   | comment        you → '  | you're
+iang → l  | triangle
+-nal → l  | origanally     F:
+-mal → l  | normally       -------------------
+al → s    | also           fe@ → l  | feel
+mem → b   | member         fo → l   | follow
+bet → w   | between
+num → b   | number         M:
+pub → l   | public         -------------------
+prob → l  | problem        cxow → d | crowd
+pos → s   | possible
+-ab → l   | able           X:
+-ib → l   | impossible     -------------------
+sym → b   | symbol         -m/ → r  | impress
+gram → m  | grammar        -sg → r  | screen
+```
 </details>
 
 ## Tools Used
