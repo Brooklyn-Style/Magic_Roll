@@ -18,7 +18,7 @@ _ = Free Key (I have a layer key here)
 J, H, X, Y, Q, B, G, K, M, F, C, P and Z are magic keys as well.
 ```
 You can try the base layout [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+y+o+u+%27++k+d+l+c+p&l1r1=h+i+e+a+.++g+t+s+r+n+z&l1r2=x+q+++++%2C++b+m+f+w+v&z=z). Just scroll down and click "convert words", then "type words".
-## Table of Contents:
+## Table of Contents
 - [Glossary](glossary.md)
 - [Stats](#stats)
 - [Design](#design)
@@ -31,7 +31,7 @@ You can try the base layout [here](https://keyboard-layout-try-out.pages.dev/?l0
 - [Tools Used](#tools-used)
 ---
 <details>
-  <summary><h2>Stats:</h2></summary>
+  <summary><h2>Stats</h2></summary>
 Without repeat or magic unless specified.
 
 [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground"):
@@ -50,20 +50,20 @@ Manual analysis of magic's affect on outrolls: https://docs.google.com/spreadshe
 
 ---
 
-## Design:
-### *Left Half:*
+## Design
+### *<ins>Left Half*
 The pinky `H` + `IEA`/`YOU` setup is used for it's insane 83:1 inroll ratio. `J`, `X`, and `Q` then complete the pinky and ring columns, with punctuation being placed on the inner index for low SFBs. 
 
 `Repeat` was put on the index since I didn't have a free thumb key and wasn't willing to give up magic for it. This placement doesn't really cause any problems though, as the new SFBs are pretty infequent and can be fixed with magic or alt-fingering. 
 
-This key also has a few exceptions:
+This key also has some exceptions:
 - `_E@` → `EX`. `EX` is more common than `EE` at the beginning of words. `E@` will function as expected otherwise.
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
 - `I@` → `I'`. `II` basically never starts a word so this eliminates the stretch to the inner column.
 - `Q@` → `QU`. `QQ` doesn't appear in any word and since `U` is two rows above `Q`, it becomes more comfortable to type this way.
 - `Backspace` after being used or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a little bit.
 
-### *Right Half:*
+### *<ins>Right Half*
 Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. This unfortunately results in more movement but I haven't had a problem with it.
 
 `N` is similar to `H` in that it usually comes before a consonant so it's been placed on the pinky. The rest of the letters aren't nearly as unidirectional but even so, they've been arranged for inrolls as well.
@@ -78,17 +78,17 @@ The `LSF` and `CRW` columns are a little questionable but there weren't many oth
 
 The `PNV` column, while good if it was on any other finger, isn't great on the pinky. The SFBs are low but it's usage is relatively high. The SFSs are also quite bothersome so swapping `P` with `K` or `B` could be a potential solution.
 
-### Magic:
+## Magic
 The output of each magic key is limited to just one character to retain the feel of normal typing and ensure that you won't get banned from typing websites. They're context dependent though so they won't always output the same character even if the last key pressed was the same. *E.g. `A\` → `AU`* while *`WA\` → `WAY`*. 
 
 They can also be chained together to further increase typing comfort. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
 
-#### *<ins>Thumbs:*
+### *<ins>Thumbs*
 In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs (outside of context-sensitive words). *E.g. `E\` → `EO`. `O\` → `OE`*.
 
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU`. `K\` → `KG`. `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
-#### *<ins>Alphas:*
+### *<ins>Alphas*
 Inspired [Hands Down](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")'s adaptive keys, half of the alphas have magic functions to eliminate scissors, increase same-row rolls, and reduce outrolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`. `BX` → `BL`*. 
 
 `W` and `L` are two rows apart so by using `F` in place of `L`, it can be typed on the same row with the same fingers.
@@ -99,7 +99,7 @@ Check out the chart below to see every magic function.
 
 ---
 <details>
-  <summary><h2>Magic Chart:</h2></summary>
+  <summary><h2>Magic Chart</h2></summary>
 
 ```
 \:          /:           B:           G:           J:           P:           Q:           X:
@@ -140,7 +140,7 @@ Y\ → YI
 ```
 </details>
 
-## Tools Used:
+## Tools Used
 - The [Keyboard Layouts Google Doc](https://docs.google.com/document/d/1W0jhfqJI2ueJ2FNseR4YAFpNfsUM-_FlREHbpNGmC2o "Keyboard Layouts Google Doc") for design knowledge
 - The [Layout Playground](https://oxey.dev/playground/index.html "Layout Playground") analyzer for drag and drop letter swaps and their resulting stats
 - [Cyanophage's](https://cyanophage.github.io "Cyanophage Analyzer") analyzer for more stats
@@ -148,5 +148,5 @@ Y\ → YI
 - [Merriam-Webster's](https://www.merriam-webster.com/wordfinder "Merriam-Webster Word Finder") word finder to do the same thing but with a few more filters
 - [AutoHotkey](https://www.autohotkey.com "AutoHotkey's Website") to handle the repeat and magic functions since I couldn't be bothered to implement them with [QMK](https://docs.qmk.fm/features/repeat_key "QMK Repeat/Magic Documentation")
 ---
-### Typing Test:
+## Typing Test
 ![typing test](images/typing%20test.jpg)
