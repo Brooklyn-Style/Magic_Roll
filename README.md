@@ -27,7 +27,7 @@ You can try the base layout [here](https://keyboard-layout-try-out.pages.dev/?l0
   - [Magic](#magic)
     - [Thumbs](#thumbs)
     - [Alphas](#alphas)
-- [Magic Chart](#magic-chart)
+- [Magic Charts](#magic-charts)
 - [Tools Used](#tools-used)
 ---
 <details>
@@ -99,7 +99,7 @@ Check out the chart below to see every magic function.
 
 ---
 <details>
-  <summary><h2>Magic Chart</h2></summary>
+  <summary><h2>Magic Charts</h2></summary>
 
 ```
 \:          /:           B:           G:           J:           P:           Q:           X:
