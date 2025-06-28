@@ -140,7 +140,7 @@ Y\ → YI
 ```
 Magic Sequences:
 
-"-" denotes a prefix or suffix. "_" denotes a space or no prior key. If other magic functions are used for the input sequence, they're written as their non-magic equivalent (E.g. `CB` instead of `CK`). For the sake of simplicity, only the input and the magic key's output are written. The magic key is assumed to be pressed at the end of the input sequence. A use case is also provided.
+"-" denotes a prefix or suffix. "_" denotes a space or no prior key. If other magic functions are used for the input sequence, they're written as their non-magic equivalent (E.g. `CB` instead of `CK`). For the sake of simplicity, only the input and the magic key's output are written. A use case is also provided.
 ```
 H:                         \:                      @:                       /:
 ----------------------     -------------------     --------------------     ----------------------
