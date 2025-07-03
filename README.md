@@ -153,32 +153,31 @@ H:                         @:                      \:                      /:
 -mk → l   | humble         mone → y | money        bo → x   | box          -nal → l  | finally
 -nal → l  | origanally     neke → r | never        e@ → a   | example      an → n    | anniversary
 ac/es → s | accessory      obe → y  | obey         fhu → i  | fruit        ap → p    | apple
-af → t    | after          the → y  | they         fi@ → e  | fixed        do\s → n  | doesn't
-al → s    | also           weve → r | however      ja → y   | jay          fun → n   | funny
-ans → w   | answer         fi → x   | fix          ka → y   | kay          hal → l   | hall
-ap/ → l   | apple          mi → x   | mix          ma → y   | may          hit → t   | hitting
-bet → w   | between        si → x   | six          mi@ → e  | mixed        jam → m   | jamming
-cir/ → l  | circle         -------------------     ra → y   | ray          let → t   | letter
-colum → n | column                                 sq@ → a  | square       lit → t   | litter
-com → m   | comment        F:                      the@ → ' | they'd       other → w | otherwise
-cur → v   | curve          -------------------     wa → y   | way          pos → s   | possible
-doub → l  | double         fe@ → l  | feel         ya → y   | yay          put → t   | putting
-fun → n   | funny          fo → l   | follow       yda → y  | everyday
-gent → l  | gentle         -------------------     yea → h  | yeah
-gham → m  | grammar                                you → '  | you're
-gon → n   | gonna          M:
-gxos → s  | glossary       -------------------
-iang → l  | triangle       cxow → d | crowd 
-lit/ → l  | little         -------------------   
-m/ → l    | simple        
-mem → b   | member         X:   
-num → b   | number         -------------------   
-phob → l  | problem        -m/ → r  | improve  
-pos → s   | possible       -sg → r  | screen  
-pub → l   | public        
+al → s    | also           the → y  | they         fi@ → e  | fixed        do\s → n  | doesn't
+ans → w   | answer         weve → r | however      ja → y   | jay          fun → n   | funny
+ap/ → l   | apple          fi → x   | fix          ka → y   | kay          hal → l   | hall
+bet → w   | between        mi → x   | mix          ma → y   | may          hit → t   | hitting
+cir/ → l  | circle         si → x   | six          mi@ → e  | mixed        jam → m   | jamming
+colum → n | column         -------------------     ra → y   | ray          let → t   | letter
+com → m   | comment                                sq@ → a  | square       lit → t   | litter
+cur → v   | curve          F:                      the@ → ' | they'd       other → w | otherwise
+doub → l  | double         -------------------     wa → y   | way          pos → s   | possible
+fun → n   | funny          fe@ → l  | feel         ya → y   | yay          put → t   | putting
+gent → l  | gentle         fo → l   | follow       yda → y  | everyday
+gham → m  | grammar        -------------------     yea → h  | yeah
+gon → n   | gonna                                  you → '  | you're
+gxos → s  | glossary       M:
+iang → l  | triangle       -------------------
+lit/ → l  | little         cxow → d | crowd 
+m/ → l    | simple         -------------------   
+mem → b   | member        
+num → b   | number         X:   
+phob → l  | problem        -------------------   
+pos → s   | possible       -m/ → r  | improve  
+pub → l   | public         -sg → r  | screen  
 real → l  | really        
-sgis → s  | scissor    
-sym → b   | symbol
+sgis → s  | scissor        
+sym → b   | symbol    
 wan → n   | wanna
 ```
 </details>
