@@ -105,7 +105,7 @@ Check out the charts below to see every magic function.
 \:          /:           B:           G:           J:           P:           Q:           X:
 --------    --------     --------     --------     --------     --------     --------     --------
 \ → Shift   --------     CB → CK      CG → CH      MJ → MM      BP → BV      @Q → @U      @X → @A
-/\ → ␣      \/ → U      SB → SW      PG → PH      RJ → RV       DP → DV      BQ → BM      BX → BL
+/\ → ␣      \/ → U       SB → SW      PG → PH      RJ → RV      DP → DV      BQ → BM      BX → BL
 .\ → ."     ./ → ..      --------     SG → SC      SJ → SS                   LQ → LF      CX → CR
 ,\ → ,"     --------                  TG → TC      TJ → TG                   WQ → WB      DX → DW
 ?\ → ?"     --------     C:           --------     WJ → WN                   XQ → XR      FX → FL
@@ -118,7 +118,7 @@ B\ → BT     --------     --------                                             
 --------    C/ → CC      CD → CK      H:                                                  SX → SP
 D\ → DS     D/ → DM      --------     --------                                            TX → TW
 E\ → EO     E/ → EY                   BH → BR                                             WX → WR
---------    F/ → FF      F:     	  DH → DR                                             --------
+--------    F/ → FF      F:           DH → DR                                             --------
 G\ → GS     G/ → GM      -------      FH → FR                                              
 H\ → H?     H/ → HH      VF → VL      GH → GR                                             Y:
 I\ → IQ     I/ → IY      WF → WL      KH → KN                                             --------
