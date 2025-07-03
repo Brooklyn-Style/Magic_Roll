@@ -15,7 +15,7 @@ _ = Free Key (I have a layer key here)
 \ = Left Magic
 / = Right Magic
 
-J, H, X, Y, Q, B, G, K, M, F, C, P and Z are magic keys as well.
+Half of the alphas are magic keys as well.
 ```
 You can try the base layout [here](https://keyboard-layout-try-out.pages.dev/?l0r0=q+w+e+r+t++y+u+i+o+p&l0r1=a+s+d+f+g++h+j+k+l+%3B+%27&l0r2=z+x+c+v+b++n+m+%2C+.+%2F&l1r0=j+y+o+u+%27++k+d+l+c+p&l1r1=h+i+e+a+.++g+t+s+r+n+z&l1r2=x+q+++++%2C++b+m+f+w+v&z=z). Just scroll down and click "convert words", then "type words".
 ## Table of Contents
@@ -61,7 +61,7 @@ This key also has some exceptions:
 - `H@` → `HT`. `HH` is extremely uncommon so this makes `HT` a roll.
 - `I@` → `I'`. `II` basically never starts a word so this eliminates the stretch to the inner column.
 - `Q@` → `QU`. `QQ` doesn't appear in any word and since `U` is two rows above `Q`, it becomes more comfortable to type this way.
-- `Backspace` after being used or if more than 400ms has passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a little bit.
+- `Backspace` after being used or if more than 400ms have passed since the last keypress. This gets backspace off the pinky and brings up the index's usage a little bit.
 
 ### *<ins>Right Half*
 Nearly all of the consonants have been placed on this side to minimize outrolls, redirects, and one-handed strings, with the top row being favored to keep scissors low. This unfortunately results in more movement but I haven't had a problem with it.
@@ -84,18 +84,18 @@ The output of each magic key is limited to just one character to retain the feel
 They can also be chained together to further increase typing comfort. *E.g. `FH` → `FR`* and then *`U\` → `UI`* for the word "fruit".
 
 ### *<ins>Thumbs*
-In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs (outside of context-sensitive words). *E.g. `E\` → `EO`. `O\` → `OE`*.
+In general, if the previous key was on the same hand, the output will be the key above or below it to avoid SFBs. *E.g. `E\` → `EO`. `O\` → `OE`*.
 
 If the previous key was on the opposite hand, the output will fix an awkward pattern, uncommon SFB, or even the same SFB as the other thumb if it's at the end of a word. *E.g. `Q/` → `QU`. `K\` → `KG`. `L\` → `LS`*. `Magic` → `Space` SFBs can be avoided this way. 
 
 ### *<ins>Alphas*
-Inspired [Hands Down](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")'s adaptive keys, half of the alphas have magic functions to eliminate scissors, increase same-row rolls, and reduce outrolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed. *E.g. `WF` → `WL`. `BX` → `BL`*. 
+Inspired [Hands Down](https://sites.google.com/alanreiser.com/handsdown/home/hands-down-neu "Hands Down Neu")'s adaptive keys, half of the alphas have magic functions to eliminate scissors, increase same-row rolls, and reduce outrolls. They've been set up to be as intuitive as possible and cause the fewest amount of conflicts, with a short timeout so that the original bigram can still be typed.
 
-`W` and `L` are two rows apart so by using `F` in place of `L`, it can be typed on the same row with the same fingers.
+*E.g. `WF` → `WL`*. `W` and `L` are two rows apart so by using `F` in place of `L`, it can be typed on the same row with the same fingers. 
 
-`X` almost never comes after a consonant so it can turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows.
+*`BX` → `BL`*. `X` almost never comes after a consonant so it can turn consonant-hand outrolls into alternates. They then become inrolls when a vowel follows.
 
-Check out the chart below to see every magic function.
+Check out the charts below to see every magic function.
 
 ---
 <details>
@@ -137,7 +137,7 @@ U\ → UA     U/ → U,
 V\ → VP     V/ → VV                                                                              
 --------    W/ → WC
 X\ → YI     X/ → XH
-Y\ → XI     Y\ → XI                                                                        
+Y\ → XI     Y/ → XI                                                                        
 ```
 Magic Sequences:
 
