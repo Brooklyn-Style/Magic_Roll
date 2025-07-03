@@ -105,7 +105,7 @@ Check out the charts below to see every magic function.
 \:          /:           B:           G:           J:           P:           Q:           X:
 --------    --------     --------     --------     --------     --------     --------     --------
 \ → Shift   --------     CB → CK      CG → CH      MJ → MM      BP → BV      @Q → @U      @X → @A
-/\ → ␣      \/ → U       SB → SW      PG → PH      RJ → RV      DP → DV      BQ → BM      BX → BL
+/\ → ␣      \/ → U      SB → SW      PG → PH      RJ → RV       DP → DV      BQ → BM      BX → BL
 .\ → ."     ./ → ..      --------     SG → SC      SJ → SS                   LQ → LF      CX → CR
 ,\ → ,"     --------                  TG → TC      TJ → TG                   WQ → WB      DX → DW
 ?\ → ?"     --------     C:           --------     WJ → WN                   XQ → XR      FX → FL
@@ -113,15 +113,15 @@ Check out the charts below to see every magic function.
 @\ → @"     --------     SC → SF      M:                                                  KX → KT
 "\ → "A     --------     --------     --------     K:                                     LX → LV
 (\ → (A     --------                  FM → FL      --------                               MX → MB
-A\ → AU     A/ → A.      F:           --------     MK → MB                                PX → PH
-B\ → BT     --------     -------                                                          RX → RP
---------    C/ → CC      VF → VL      H:                                                  SX → SP
-D\ → DS     D/ → DM      WF → WL      --------                                            TX → TW
+A\ → AU     A/ → A.      D:           --------     MK → MB                                PX → PH
+B\ → BT     --------     --------                                                         RX → RP
+--------    C/ → CC      CD → CK      H:                                                  SX → SP
+D\ → DS     D/ → DM      --------     --------                                            TX → TW
 E\ → EO     E/ → EY                   BH → BR                                             WX → WR
---------    F/ → FF           	      DH → DR                                             --------
-G\ → GS     G/ → GM                   FH → FR                                              
-H\ → H?     H/ → HH                   GH → GR                                             Y:
-I\ → IQ     I/ → IY                   KH → KN                                             --------
+--------    F/ → FF      F:     	  DH → DR                                             --------
+G\ → GS     G/ → GM      -------      FH → FR                                              
+H\ → H?     H/ → HH      VF → VL      GH → GR                                             Y:
+I\ → IQ     I/ → IY      WF → WL      KH → KN                                             --------
 --------    J/ → JO                   LH → LS                                             JY → JI 
 K\ → KG     --------                  MH → MP                                             --------
 L\ → LS     L/ → LS                   PH → PR                                                    
@@ -136,8 +136,8 @@ R\ → RC     R/ → RC                                                         
 U\ → UA     U/ → U,                                                                              
 V\ → VP     V/ → VV                                                                              
 --------    W/ → WC
-X\ → YI     X/ → XH
-Y\ → XI     Y/ → XI                                                                        
+X\ → XI     X/ → XH
+Y\ → YI     --------                                                                   
 ```
 Magic Sequences:
 
