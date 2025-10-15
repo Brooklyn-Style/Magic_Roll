@@ -10,7 +10,7 @@
 
 -  <ins>Lateral Stretch Bigram (LSB):</ins> A bigram that's typed with adjacent fingers, with one stretching laterally. *E.g. `HI` and `'L`*
 
-- <ins>Scissor:</ins> A bigram that's typed with adjacent fingers, where the shorter finger is one or more rows above the longer finger. *E.g. `WC` and `CR`*
+- <ins>Scissor:</ins> A bigram where the shorter finger is one or more rows above the longer finger. *E.g. `WC` and `CR`*
 
 - <ins>Roll:</ins> A trigram where two keys are pressed by different fingers on the same hand, and then a third with the other hand. *E.g. `OUR`*
 
